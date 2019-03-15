@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018/Arch Linux) (preloaded format=xelatex 2019.2.22)  15 MAR 2019 12:33
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018/Arch Linux) (preloaded format=xelatex 2019.2.22)  15 MAR 2019 12:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2340,20 +2340,22 @@ LaTeX Font Info:    Font shape `TU/IBMPlexSans(0)/bx/n' will be
 (Font)              scaled to size 10.76219pt on input line 345.
 LaTeX Font Info:    Font shape `TU/IBMPlexSans(0)/m/n' will be
 (Font)              scaled to size 10.95pt on input line 345.
-LaTeX Font Info:    Font shape `TU/IBMPlexSans(0)/m/n' will be
-(Font)              scaled to size 36.0pt on input line 355.
 LaTeX Font Info:    Font shape `TU/IBMPlexSerif(0)/m/n' will be
-(Font)              scaled to size 36.0pt on input line 355.
+(Font)              scaled to size 36.0pt on input line 353.
 LaTeX Font Info:    Font shape `TU/IBMPlexSans(0)/m/n' will be
-(Font)              scaled to size 14.4pt on input line 358.
+(Font)              scaled to size 36.0pt on input line 353.
 LaTeX Font Info:    Font shape `TU/IBMPlexSerif(0)/m/n' will be
-(Font)              scaled to size 14.4pt on input line 358.
+(Font)              scaled to size 14.4pt on input line 356.
 LaTeX Font Info:    Font shape `TU/IBMPlexSans(0)/m/n' will be
-(Font)              scaled to size 12.0pt on input line 362.
+(Font)              scaled to size 14.4pt on input line 356.
+LaTeX Font Info:    Font shape `TU/IBMPlexSerif(0)/m/n' will be
+(Font)              scaled to size 12.0pt on input line 360.
 LaTeX Font Info:    Font shape `TU/IBMPlexSans(0)/m/n' will be
-(Font)              scaled to size 9.0pt on input line 372.
+(Font)              scaled to size 12.0pt on input line 360.
+LaTeX Font Info:    Font shape `TU/IBMPlexSerif(0)/m/n' will be
+(Font)              scaled to size 9.0pt on input line 365.
 LaTeX Font Info:    Font shape `TU/IBMPlexMono(0)/m/n' will be
-(Font)              scaled to size 9.0pt on input line 372.
+(Font)              scaled to size 9.0pt on input line 365.
 [1
 
 
@@ -2366,23 +2368,20 @@ LaTeX Font Info:    Font shape `TU/IBMPlexMono(0)/m/n' will be
 
 
 ]
-Overfull \hbox (10.95pt too wide) in paragraph at lines 383--383
+Overfull \hbox (10.95pt too wide) in paragraph at lines 376--376
 [][][][][][][]  
  []
 
 LaTeX Font Info:    Font shape `TU/IBMPlexSans(0)/bx/n' will be
-(Font)              scaled to size 14.15302pt on input line 383.
+(Font)              scaled to size 14.15302pt on input line 376.
 
-Overfull \hbox (10.95pt too wide) in paragraph at lines 383--383
+Overfull \hbox (10.95pt too wide) in paragraph at lines 376--376
 [][][][][][][]  
  []
 
-Package tocbasic Info: character protrusion at toc deactivated on input line 38
-3.
-(./glodium.toc [3]
-LaTeX Font Info:    Font shape `TU/IBMPlexSerif(0)/m/n' will be
-(Font)              scaled to size 9.0pt on input line 65.
-[4]
+Package tocbasic Info: character protrusion at toc deactivated on input line 37
+6.
+(./glodium.toc [3] [4]
 Overfull \hbox (2.46373pt too wide) detected at line 85
  []\TU/IBMPlexSerif(0)/m/n/10.95 100
  []
@@ -2537,17 +2536,17 @@ Overfull \hbox (2.46373pt too wide) detected at line 114
 \openout4 = `glodium.toc'.
 
 [6]
-Overfull \hbox (10.95pt too wide) in paragraph at lines 385--385
+Overfull \hbox (10.95pt too wide) in paragraph at lines 378--378
 [][][][][][][]  
  []
 
 
-Overfull \hbox (10.95pt too wide) in paragraph at lines 385--385
+Overfull \hbox (10.95pt too wide) in paragraph at lines 378--378
 [][][][][][][]  
  []
 
-Package tocbasic Info: character protrusion at lot deactivated on input line 38
-5.
+Package tocbasic Info: character protrusion at lot deactivated on input line 37
+8.
 (./glodium.lot)
 \tf@lot=\write5
 \openout5 = `glodium.lot'.
@@ -2559,79 +2558,22 @@ Package tocbasic Info: character protrusion at lot deactivated on input line 38
 
 
 ]
-Overfull \hbox (10.95pt too wide) in paragraph at lines 386--386
+Overfull \hbox (10.95pt too wide) in paragraph at lines 379--379
 [][][][][][][]  
  []
 
 
-Overfull \hbox (10.95pt too wide) in paragraph at lines 386--386
+Overfull \hbox (10.95pt too wide) in paragraph at lines 379--379
 [][][][][][][]  
  []
 
-Package tocbasic Info: character protrusion at lof deactivated on input line 38
-6.
+Package tocbasic Info: character protrusion at lof deactivated on input line 37
+9.
 (./glodium.lof)
 \tf@lof=\write6
 \openout6 = `glodium.lof'.
 
 [9] [10
-
-
-]
-Overfull \hbox (10.95pt too wide) in paragraph at lines 390--390
-[][][][][][][]  
- []
-
-
-Overfull \hbox (10.95pt too wide) in paragraph at lines 390--390
-[][][][][][][]  
- []
-
-Package tocbasic Info: character protrusion at toc deactivated on input line 39
-0.
-(./glodium.toc)
-\tf@toc=\write7
-\openout7 = `glodium.toc'.
-
-[11] [12
-
-
-]
-Overfull \hbox (10.95pt too wide) in paragraph at lines 392--392
-[][][][][][][]  
- []
-
-
-Overfull \hbox (10.95pt too wide) in paragraph at lines 392--392
-[][][][][][][]  
- []
-
-Package tocbasic Info: character protrusion at lot deactivated on input line 39
-2.
-(./glodium.lot)
-\tf@lot=\write8
-\openout8 = `glodium.lot'.
-
-[13] [14
-
-
-]
-Overfull \hbox (10.95pt too wide) in paragraph at lines 393--393
-[][][][][][][]  
- []
-
-
-Overfull \hbox (10.95pt too wide) in paragraph at lines 393--393
-[][][][][][][]  
- []
-
-Package tocbasic Info: character protrusion at lof deactivated on input line 39
-3.
-(./glodium.lof)
-\tf@lof=\write9
-\openout9 = `glodium.lof'.
-
-[15] [16
 
 
 ]
@@ -2652,11 +2594,11 @@ Class scrbook Warning: \float@addtolists detected!
 (scrbook)              deprecated \float@addtolist interface .
 
 LaTeX Font Info:    Font shape `TU/IBMPlexSerif(0)/m/n' will be
-(Font)              scaled to size 24.88pt on input line 396.
+(Font)              scaled to size 24.88pt on input line 382.
 LaTeX Font Info:    Font shape `TU/IBMPlexSans(0)/m/n' will be
-(Font)              scaled to size 24.88pt on input line 396.
+(Font)              scaled to size 24.88pt on input line 382.
 
-Overfull \hbox (10.95pt too wide) in paragraph at lines 396--396
+Overfull \hbox (10.95pt too wide) in paragraph at lines 382--382
 [][][][][][][]  
  []
 
@@ -2666,92 +2608,92 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 399.
+e 385.
 
 LaTeX Font Info:    Font shape `TU/IBMPlexSerif(0)/m/it' will be
-(Font)              scaled to size 10.95pt on input line 416.
+(Font)              scaled to size 10.95pt on input line 402.
 [1
 
 
 ]
-Underfull \hbox (badness 1014) in paragraph at lines 452--464
+Underfull \hbox (badness 1014) in paragraph at lines 438--450
 \TU/IBMPlexSerif(0)/m/n/10.95 concetto stesso di didattica. Le stesse piattafor
 me utili per i
  []
 
 
-Underfull \hbox (badness 3679) in paragraph at lines 477--482
+Underfull \hbox (badness 3679) in paragraph at lines 463--468
 []\TU/IBMPlexSerif(0)/m/n/10.95 Linneo – grande profeta della classificazione t
 assonomica –
  []
 
 
-Underfull \hbox (badness 2913) in paragraph at lines 477--482
+Underfull \hbox (badness 2913) in paragraph at lines 463--468
 \TU/IBMPlexSerif(0)/m/n/10.95 si espresse eccellentemente dicendo \TU/IBMPlexSe
 rif(0)/m/it/10.95 nomina si nescis, perit et
  []
 
 [2]
 LaTeX Font Info:    Font shape `TU/IBMPlexSerif(0)/m/n' will be
-(Font)              scaled to size 7.665pt on input line 490.
+(Font)              scaled to size 7.665pt on input line 476.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 10.77498pt on input line 495.
+(Font)              scaled to size 10.77498pt on input line 481.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 7.18332pt on input line 495.
+(Font)              scaled to size 7.18332pt on input line 481.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 5.9861pt on input line 495.
+(Font)              scaled to size 5.9861pt on input line 481.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 10.77498pt on input line 495.
+(Font)              scaled to size 10.77498pt on input line 481.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 7.18332pt on input line 495.
+(Font)              scaled to size 7.18332pt on input line 481.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.9861pt on input line 495.
+(Font)              scaled to size 5.9861pt on input line 481.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 10.77484pt on input line 495.
+(Font)              scaled to size 10.77484pt on input line 481.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 7.18323pt on input line 495.
+(Font)              scaled to size 7.18323pt on input line 481.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 5.98602pt on input line 495.
+(Font)              scaled to size 5.98602pt on input line 481.
 LaTeX Font Info:    Font shape `TU/IBMPlexSans(1)/m/n' will be
-(Font)              scaled to size 9.0pt on input line 495.
+(Font)              scaled to size 9.0pt on input line 481.
 LaTeX Font Info:    Font shape `TU/IBMPlexSans(1)/m/n' will be
-(Font)              scaled to size 6.0pt on input line 495.
+(Font)              scaled to size 6.0pt on input line 481.
 LaTeX Font Info:    Font shape `TU/IBMPlexSans(1)/m/n' will be
-(Font)              scaled to size 5.0pt on input line 495.
+(Font)              scaled to size 5.0pt on input line 481.
 LaTeX Font Info:    Font shape `TU/IBMPlexMono(1)/m/n' will be
-(Font)              scaled to size 9.0pt on input line 495.
+(Font)              scaled to size 9.0pt on input line 481.
 LaTeX Font Info:    Font shape `TU/IBMPlexMono(1)/m/n' will be
-(Font)              scaled to size 6.0pt on input line 495.
+(Font)              scaled to size 6.0pt on input line 481.
 LaTeX Font Info:    Font shape `TU/IBMPlexMono(1)/m/n' will be
-(Font)              scaled to size 5.0pt on input line 495.
+(Font)              scaled to size 5.0pt on input line 481.
 LaTeX Font Info:    Font shape `TU/IBMPlexSerif(0)/m/n' will be
-(Font)              scaled to size 6.0pt on input line 495.
+(Font)              scaled to size 6.0pt on input line 481.
 LaTeX Font Info:    Font shape `TU/IBMPlexSerif(0)/m/it' will be
-(Font)              scaled to size 9.0pt on input line 495.
+(Font)              scaled to size 9.0pt on input line 481.
 [3] [4
 
 
 ]
 chapter 2.
 
-Overfull \hbox (10.95pt too wide) in paragraph at lines 511--511
+Overfull \hbox (10.95pt too wide) in paragraph at lines 497--497
 [][][][][][][]  
  []
 
 
-Underfull \hbox (badness 6252) in paragraph at lines 543--551
+Underfull \hbox (badness 6252) in paragraph at lines 529--537
 []\TU/IBMPlexSerif(0)/m/n/10.95 Indipendentemente dal formato e dal supporto, c
 omunque,
  []
 
 
-Underfull \hbox (badness 1509) in paragraph at lines 543--551
+Underfull \hbox (badness 1509) in paragraph at lines 529--537
 \TU/IBMPlexSerif(0)/m/n/10.95 la nostra teoria archivistica distingue tre fasi 
 nel ciclo vitale
  []
 
 
-Underfull \hbox (badness 1776) in paragraph at lines 543--551
+Underfull \hbox (badness 1776) in paragraph at lines 529--537
 \TU/IBMPlexSerif(0)/m/n/10.95 degli archivi e coesiste sin dall’inizio con il f
 ine pubblico di
  []
@@ -2766,7 +2708,7 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 590.
+e 576.
 
 
 Underfull \vbox (badness 1558) has occurred while \output is active []
@@ -2778,10 +2720,10 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 600.
+e 586.
 
 
-Underfull \hbox (badness 3219) in paragraph at lines 605--607
+Underfull \hbox (badness 3219) in paragraph at lines 591--593
 []\TU/IBMPlexSerif(0)/m/n/10.95 Valacchi F., \TU/IBMPlexSerif(0)/m/it/10.95 Div
 entare archivisti\TU/IBMPlexSerif(0)/m/n/10.95 , Milano, Editrice Bibliografica
 ,
@@ -2793,7 +2735,7 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 609.
+e 595.
 
 [3] [4
 
@@ -2801,7 +2743,7 @@ e 609.
 ]
 chapter 3.
 
-Overfull \hbox (10.95pt too wide) in paragraph at lines 624--624
+Overfull \hbox (10.95pt too wide) in paragraph at lines 610--610
 [][][][][][][]  
  []
 
@@ -2811,12 +2753,12 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 656.
+e 642.
 
 [5] [6]
 chapter 4.
 
-Overfull \hbox (10.95pt too wide) in paragraph at lines 668--668
+Overfull \hbox (10.95pt too wide) in paragraph at lines 654--654
 [][][][][][][]  
  []
 
@@ -2830,10 +2772,10 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 714.
+e 700.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 717--723
+Underfull \hbox (badness 10000) in paragraph at lines 703--709
 \TU/IBMPlexSerif(0)/m/n/10.95 <[]http://edizionicafoscari.unive.it/media/pdf/bo
 oks/978-88-6969-
  []
@@ -2844,10 +2786,10 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 728.
+e 714.
 
 
-Overfull \hbox (34.29346pt too wide) in paragraph at lines 740--742
+Overfull \hbox (34.29346pt too wide) in paragraph at lines 726--728
 []\TU/IBMPlexSerif(0)/m/n/10.95 *\TU/IBMPlexSerif(0)/m/it/10.95 Beta code \TU/I
 BMPlexSerif(0)/m/n/10.95 (\TU/IBMPlexSerif(0)/m/it/10.95 s.v\TU/IBMPlexSerif(0)
 /m/n/10.95 .), in \TU/IBMPlexSerif(0)/m/it/10.95 Wikipedia\TU/IBMPlexSerif(0)/m
@@ -2855,25 +2797,25 @@ BMPlexSerif(0)/m/n/10.95 (\TU/IBMPlexSerif(0)/m/it/10.95 s.v\TU/IBMPlexSerif(0)
  []
 
 
-Overfull \hbox (30.14926pt too wide) in paragraph at lines 743--745
+Overfull \hbox (30.14926pt too wide) in paragraph at lines 729--731
 []\TU/IBMPlexSerif(0)/m/it/10.95 Duke Databank of Documentary Papyri\TU/IBMPlex
 Serif(0)/m/n/10.95 , <[]https://papyri.info/docs/ddbdp[]> 
  []
 
 
-Overfull \hbox (50.52354pt too wide) in paragraph at lines 746--748
+Overfull \hbox (50.52354pt too wide) in paragraph at lines 732--734
 []\TU/IBMPlexSerif(0)/m/it/10.95 Greek Beta code converter\TU/IBMPlexSerif(0)/m
 /n/10.95 , <[]https://chrome.google.com/webstore/detail/greek-
  []
 
 
-Overfull \hbox (24.92976pt too wide) in paragraph at lines 749--751
+Overfull \hbox (24.92976pt too wide) in paragraph at lines 735--737
 []\TU/IBMPlexSerif(0)/m/it/10.95 Packard Humanities Institute \TU/IBMPlexSerif(
 0)/m/n/10.95 (official website), < []https://packhum.org/[]> 
  []
 
 
-Overfull \hbox (234.72586pt too wide) in paragraph at lines 752--754
+Overfull \hbox (234.72586pt too wide) in paragraph at lines 738--740
 []\TU/IBMPlexSerif(0)/m/n/10.95 *\TU/IBMPlexSerif(0)/m/it/10.95 Packard Humanit
 ies Institute \TU/IBMPlexSerif(0)/m/n/10.95 (\TU/IBMPlexSerif(0)/m/it/10.95 s.v
 .\TU/IBMPlexSerif(0)/m/n/10.95 ), in \TU/IBMPlexSerif(0)/m/it/10.95 Wikipedia\T
@@ -2882,13 +2824,13 @@ es_Institute[]>
  []
 
 
-Overfull \hbox (42.61034pt too wide) in paragraph at lines 755--757
+Overfull \hbox (42.61034pt too wide) in paragraph at lines 741--743
 []\TU/IBMPlexSerif(0)/m/it/10.95 Perseus Project \TU/IBMPlexSerif(0)/m/n/10.95 
 (official website), < []http://www.perseus.tufts.edu/hopper/[]> 
  []
 
 
-Overfull \hbox (91.16411pt too wide) in paragraph at lines 758--760
+Overfull \hbox (91.16411pt too wide) in paragraph at lines 744--746
 []\TU/IBMPlexSerif(0)/m/n/10.95 *\TU/IBMPlexSerif(0)/m/it/10.95 Perseus Project
  \TU/IBMPlexSerif(0)/m/n/10.95 (\TU/IBMPlexSerif(0)/m/it/10.95 s.v.\TU/IBMPlexS
 erif(0)/m/n/10.95 ), in \TU/IBMPlexSerif(0)/m/it/10.95 Wikipedia\TU/IBMPlexSeri
@@ -2896,7 +2838,7 @@ f(0)/m/n/10.95 , < []https://en.wikipedia.org/wiki/Perseus_Project[]>
  []
 
 
-Overfull \hbox (220.00908pt too wide) in paragraph at lines 764--766
+Overfull \hbox (220.00908pt too wide) in paragraph at lines 750--752
 []\TU/IBMPlexSerif(0)/m/n/10.95 *\TU/IBMPlexSerif(0)/m/it/10.95 Thesaurus Lingu
 ae Graeciae \TU/IBMPlexSerif(0)/m/n/10.95 (\TU/IBMPlexSerif(0)/m/it/10.95 s.v.\
 TU/IBMPlexSerif(0)/m/n/10.95 ), in \TU/IBMPlexSerif(0)/m/it/10.95 Wikipedia\TU/
@@ -2905,19 +2847,19 @@ Graecae[]>
  []
 
 
-Overfull \hbox (106.06848pt too wide) in paragraph at lines 767--769
+Overfull \hbox (106.06848pt too wide) in paragraph at lines 753--755
 []\TU/IBMPlexSerif(0)/m/it/10.95 TLG Beta code quick Reference Guide\TU/IBMPlex
 Serif(0)/m/n/10.95 , <[]https://www.tlg.uci.edu/encoding/quickbeta.pdf[]> 
  []
 
 
-Overfull \hbox (22.70905pt too wide) in paragraph at lines 770--773
+Overfull \hbox (22.70905pt too wide) in paragraph at lines 756--759
 \TU/IBMPlexSerif(0)/m/it/10.95 (Abridged TLG\TU/IBMPlexSerif(0)/m/n/10.95 ), <[
 ]http://stephanus.tlg.uci.edu/Iris/canon/csearch.jsp[]> 
  []
 
 [8]
-Overfull \hbox (10.27646pt too wide) in paragraph at lines 779--781
+Overfull \hbox (10.27646pt too wide) in paragraph at lines 765--767
 []\TU/IBMPlexSerif(0)/m/n/10.95 *\TU/IBMPlexSerif(0)/m/it/10.95 Unicode \TU/IBM
 PlexSerif(0)/m/n/10.95 (\TU/IBMPlexSerif(0)/m/it/10.95 s.v.\TU/IBMPlexSerif(0)/
 m/n/10.95 ), in \TU/IBMPlexSerif(0)/m/it/10.95 Wikipedia\TU/IBMPlexSerif(0)/m/n
@@ -2930,48 +2872,48 @@ m/n/10.95 ), in \TU/IBMPlexSerif(0)/m/it/10.95 Wikipedia\TU/IBMPlexSerif(0)/m/n
 ]
 chapter 5.
 
-Overfull \hbox (10.95pt too wide) in paragraph at lines 785--785
+Overfull \hbox (10.95pt too wide) in paragraph at lines 771--771
 [][][][][][][]  
  []
 
 
-Underfull \hbox (badness 3138) in paragraph at lines 787--792
+Underfull \hbox (badness 3138) in paragraph at lines 773--778
 \TU/IBMPlexSerif(0)/m/n/10.95 L’espressione \TU/IBMPlexSerif(0)/m/it/10.95 bibl
 ioteca digitale \TU/IBMPlexSerif(0)/m/n/10.95 – come sottolinea Faba Pérez
  []
 
 
-Underfull \hbox (badness 3623) in paragraph at lines 787--792
+Underfull \hbox (badness 3623) in paragraph at lines 773--778
 \TU/IBMPlexSerif(0)/m/n/10.95 (1999) – si configura come un «concetto ambiguo, 
 come la
  []
 
 
-Underfull \hbox (badness 1694) in paragraph at lines 787--792
+Underfull \hbox (badness 1694) in paragraph at lines 773--778
 \TU/IBMPlexSerif(0)/m/it/10.95 digitale \TU/IBMPlexSerif(0)/m/n/10.95 è stato c
 onnesso a quello di «  biblioteca virtuale» (cfr.
  []
 
 [11]
-Overfull \hbox (5.7512pt too wide) in paragraph at lines 832--839
+Overfull \hbox (5.7512pt too wide) in paragraph at lines 818--825
 []\TU/IBMPlexSerif(0)/m/n/10.95 Le successive formulazioni definitorie – quali 
 quella di Oppenheim-
  []
 
 
-Underfull \hbox (badness 1838) in paragraph at lines 832--839
+Underfull \hbox (badness 1838) in paragraph at lines 818--825
 \TU/IBMPlexSerif(0)/m/n/10.95 informativo», le cui «   risorse», disponibili in
  formato digitale,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 832--839
+Underfull \hbox (badness 10000) in paragraph at lines 818--825
 \TU/IBMPlexSerif(0)/m/n/10.95 possono essere acquisite, archiviate, conservate/
 preservate,
  []
 
 
-Underfull \hbox (badness 6961) in paragraph at lines 840--853
+Underfull \hbox (badness 6961) in paragraph at lines 826--839
 []\TU/IBMPlexSerif(0)/m/n/10.95 Una prima definizione più articolata è quella p
 roposta da
  []
@@ -2983,18 +2925,18 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 899.
+e 885.
 
 [13]
 LaTeX Font Info:    Font shape `TU/IBMPlexSerif(0)/m/n' will be
-(Font)              scaled to size 5.475pt on input line 923.
+(Font)              scaled to size 5.475pt on input line 909.
 
 Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              You've used the KOMA-Script implementation of \@ssect
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 929.
+e 915.
 
 
 Class scrbook Warning: incompatible usage of \@ssect detected.
@@ -3002,10 +2944,10 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 953.
+e 939.
 
 
-Overfull \hbox (83.25092pt too wide) in paragraph at lines 956--958
+Overfull \hbox (83.25092pt too wide) in paragraph at lines 942--944
 \TU/IBMPlexSerif(0)/m/n/10.95 *\TU/IBMPlexSerif(0)/m/it/10.95 Biblioteca digita
 le \TU/IBMPlexSerif(0)/m/n/10.95 (\TU/IBMPlexSerif(0)/m/it/10.95 s.v.\TU/IBMPle
 xSerif(0)/m/n/10.95 ), in \TU/IBMPlexSerif(0)/m/it/10.95 Treccani\TU/IBMPlexSer
@@ -3013,7 +2955,7 @@ if(0)/m/n/10.95 , <[]http://www.treccani.it/enciclopedia/biblioteca-
  []
 
 
-Overfull \hbox (84.7839pt too wide) in paragraph at lines 959--961
+Overfull \hbox (84.7839pt too wide) in paragraph at lines 945--947
 []\TU/IBMPlexSerif(0)/m/n/10.95 *\TU/IBMPlexSerif(0)/m/it/10.95 Biblioteca virt
 uale \TU/IBMPlexSerif(0)/m/n/10.95 (\TU/IBMPlexSerif(0)/m/it/10.95 s.v.\TU/IBMP
 lexSerif(0)/m/n/10.95 ), in \TU/IBMPlexSerif(0)/m/it/10.95 Treccani\TU/IBMPlexS
@@ -3021,7 +2963,7 @@ erif(0)/m/n/10.95 , <[]http://www.treccani.it/enciclopedia/biblioteca-
  []
 
 [14]
-Underfull \hbox (badness 10000) in paragraph at lines 971--977
+Underfull \hbox (badness 10000) in paragraph at lines 957--963
 \TU/IBMPlexSerif(0)/m/n/10.95 <[]http://www.iccu.sbn.it/upload/documenti/BDI-SD
 F.pdf[]> (sezio-
  []
@@ -3032,7 +2974,7 @@ F.pdf[]> (sezio-
 ]
 chapter 6.
 
-Overfull \hbox (10.95pt too wide) in paragraph at lines 981--981
+Overfull \hbox (10.95pt too wide) in paragraph at lines 967--967
 [][][][][][][]  
  []
 
@@ -3042,7 +2984,7 @@ Overfull \hbox (10.95pt too wide) in paragraph at lines 981--981
 ]
 chapter 7.
 
-Overfull \hbox (10.95pt too wide) in paragraph at lines 1075--1075
+Overfull \hbox (10.95pt too wide) in paragraph at lines 1061--1061
 [][][][][][][]  
  []
 
@@ -3052,10 +2994,10 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 1113.
+e 1099.
 
 [21]
-Overfull \hbox (213.75519pt too wide) in paragraph at lines 1122--1124
+Overfull \hbox (213.75519pt too wide) in paragraph at lines 1108--1110
 []\TU/IBMPlexSerif(0)/m/n/10.95 *\TU/IBMPlexSerif(0)/m/it/10.95 Web Browser \TU
 /IBMPlexSerif(0)/m/n/10.95 (\TU/IBMPlexSerif(0)/m/it/10.95 s\TU/IBMPlexSerif(0)
 /m/n/10.95 .\TU/IBMPlexSerif(0)/m/it/10.95 v\TU/IBMPlexSerif(0)/m/n/10.95 .), i
@@ -3066,7 +3008,7 @@ n \TU/IBMPlexSerif(0)/m/it/10.95 Intro to ITC\TU/IBMPlexSerif(0)/m/n/10.95 , <h
 [22]
 chapter 8.
 
-Overfull \hbox (10.95pt too wide) in paragraph at lines 1128--1128
+Overfull \hbox (10.95pt too wide) in paragraph at lines 1114--1114
 [][][][][][][]  
  []
 
@@ -3080,10 +3022,10 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 1190.
+e 1176.
 
 
-Underfull \hbox (badness 1189) in paragraph at lines 1200--1202
+Underfull \hbox (badness 1189) in paragraph at lines 1186--1188
 []\TU/IBMPlexSerif(0)/m/n/10.95 Stella F., \TU/IBMPlexSerif(0)/m/it/10.95 Testi
  letterari e analisi digitale\TU/IBMPlexSerif(0)/m/n/10.95 , Roma, Carocci edit
 ore,
@@ -3095,7 +3037,7 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 1204.
+e 1190.
 
 [24] [25] [26
 
@@ -3103,7 +3045,7 @@ e 1204.
 ]
 chapter 9.
 
-Overfull \hbox (10.95pt too wide) in paragraph at lines 1220--1220
+Overfull \hbox (10.95pt too wide) in paragraph at lines 1206--1206
 [][][][][][][]  
  []
 
@@ -3113,30 +3055,30 @@ Overfull \hbox (10.95pt too wide) in paragraph at lines 1220--1220
 ]
 chapter 10.
 
-Overfull \hbox (10.95pt too wide) in paragraph at lines 1247--1247
+Overfull \hbox (10.95pt too wide) in paragraph at lines 1233--1233
 [][][][][][][]  
  []
 
 
-Underfull \hbox (badness 1308) in paragraph at lines 1249--1264
+Underfull \hbox (badness 1308) in paragraph at lines 1235--1250
 \TU/IBMPlexSerif(0)/m/n/10.95 organizzazione del lavoro che consente la formazi
 one di una
  []
 
 
-Underfull \hbox (badness 1048) in paragraph at lines 1249--1264
+Underfull \hbox (badness 1048) in paragraph at lines 1235--1250
 \TU/IBMPlexSerif(0)/m/n/10.95 rete capace di mettere in contatto numerosi volon
 tari, hobbi-
  []
 
 
-Underfull \hbox (badness 1137) in paragraph at lines 1249--1264
+Underfull \hbox (badness 1137) in paragraph at lines 1235--1250
 \TU/IBMPlexSerif(0)/m/n/10.95 e alla realizzazione di progetti lavorativi media
 nte l’uso degli
  []
 
 
-Underfull \hbox (badness 1221) in paragraph at lines 1249--1264
+Underfull \hbox (badness 1221) in paragraph at lines 1235--1250
 \TU/IBMPlexSerif(0)/m/n/10.95 strumenti informatici e proporre soluzioni innova
 tive ad uno
  []
@@ -3151,22 +3093,22 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 1343.
+e 1329.
 
 
-Underfull \hbox (badness 2951) in paragraph at lines 1355--1359
+Underfull \hbox (badness 2951) in paragraph at lines 1341--1345
 \TU/IBMPlexSerif(0)/m/n/10.95 S.- Siemens R.- Unsworth J. (eds.), \TU/IBMPlexSe
 rif(0)/m/it/10.95 A New Companion to Digi-
  []
 
 
-Underfull \hbox (badness 1005) in paragraph at lines 1355--1359
+Underfull \hbox (badness 1005) in paragraph at lines 1341--1345
 \TU/IBMPlexSerif(0)/m/it/10.95 tal Humanities\TU/IBMPlexSerif(0)/m/n/10.95 , Ch
 ichester, Wiley-Blackwell, 2016, pp. 420-439
  []
 
 
-Overfull \hbox (236.58438pt too wide) in paragraph at lines 1355--1359
+Overfull \hbox (236.58438pt too wide) in paragraph at lines 1341--1345
 \TU/IBMPlexSerif(0)/m/n/10.95 <[]http://discovery.ucl.ac.uk/1447269/1/MTerras_C
 rowdsourcing%20in%20Digital%20Humanities_Final.pdf[]> 
  []
@@ -3177,10 +3119,10 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 1361.
+e 1347.
 
 
-Overfull \hbox (704.8771pt too wide) in paragraph at lines 1374--1377
+Overfull \hbox (704.8771pt too wide) in paragraph at lines 1360--1363
 \TU/IBMPlexSerif(0)/m/it/10.95 controllo\TU/IBMPlexSerif(0)/m/n/10.95 /Capitolo
  1 – \TU/IBMPlexSerif(0)/m/it/10.95 Il Crowdsourcing\TU/IBMPlexSerif(0)/m/n/10.
 95 , <[]https://it.wikisource.org/wiki/Il_crowdsourcing_tra_necessit%C3%A0_di_c
@@ -3190,7 +3132,7 @@ oordinamento_e_perdita_di_controllo/Capitolo_1_%E2%80%93_Il_Crowdsourcing[]>
 [31] [32]
 chapter 11.
 
-Overfull \hbox (10.95pt too wide) in paragraph at lines 1389--1389
+Overfull \hbox (10.95pt too wide) in paragraph at lines 1375--1375
 [][][][][][][]  
  []
 
@@ -3204,7 +3146,7 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 1436.
+e 1422.
 
 
 Class scrbook Warning: incompatible usage of \@ssect detected.
@@ -3212,29 +3154,29 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 1446.
+e 1432.
 
 [34]
 chapter 12.
 
-Overfull \hbox (10.95pt too wide) in paragraph at lines 1455--1455
+Overfull \hbox (10.95pt too wide) in paragraph at lines 1441--1441
 [][][][][][][]  
  []
 
 
-Underfull \hbox (badness 1087) in paragraph at lines 1474--1486
+Underfull \hbox (badness 1087) in paragraph at lines 1460--1472
 \TU/IBMPlexSerif(0)/m/n/10.95 rappresentazione digitale nell’ambito delle Digit
 al Humanities
  []
 
 
-Underfull \hbox (badness 2368) in paragraph at lines 1474--1486
+Underfull \hbox (badness 2368) in paragraph at lines 1460--1472
 \TU/IBMPlexSerif(0)/m/n/10.95 e del XVIII secolo – utilizzavano la rappresentaz
 ione grafica
  []
 
 
-Underfull \hbox (badness 1472) in paragraph at lines 1474--1486
+Underfull \hbox (badness 1472) in paragraph at lines 1460--1472
 \TU/IBMPlexSerif(0)/m/n/10.95 il \TU/IBMPlexSerif(0)/m/it/10.95 Mapping the Rep
 ublic of Letters\TU/IBMPlexSerif(0)/m/n/10.95 , che utilizza rappresentazioni
  []
@@ -3243,7 +3185,7 @@ ublic of Letters\TU/IBMPlexSerif(0)/m/n/10.95 , che utilizza rappresentazioni
 
 
 ]
-Underfull \hbox (badness 3547) in paragraph at lines 1504--1515
+Underfull \hbox (badness 3547) in paragraph at lines 1490--1501
 \TU/IBMPlexSerif(0)/m/n/10.95 nisti nel campo grafico ([]https://www.tacc.utexa
 s.edu/research-
  []
@@ -3254,10 +3196,10 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 1517.
+e 1503.
 
 
-Underfull \hbox (badness 1783) in paragraph at lines 1520--1522
+Underfull \hbox (badness 1783) in paragraph at lines 1506--1508
 \TU/IBMPlexSerif(0)/m/n/10.95 Fischetti T. \TU/IBMPlexSerif(0)/m/it/10.95 et al
 \TU/IBMPlexSerif(0)/m/n/10.95 ., \TU/IBMPlexSerif(0)/m/it/10.95 Data Analysis a
 nd Visualization\TU/IBMPlexSerif(0)/m/n/10.95 , Birmingham,
@@ -3269,7 +3211,7 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 1533.
+e 1519.
 
 [36] [37] [38
 
@@ -3277,12 +3219,12 @@ e 1533.
 ]
 chapter 13.
 
-Overfull \hbox (10.95pt too wide) in paragraph at lines 1563--1563
+Overfull \hbox (10.95pt too wide) in paragraph at lines 1549--1549
 [][][][][][][]  
  []
 
 
-Underfull \hbox (badness 1852) in paragraph at lines 1580--1583
+Underfull \hbox (badness 1852) in paragraph at lines 1566--1569
 \TU/IBMPlexSerif(0)/m/n/10.95 una base di dati su modello relazionale dedicata 
 alla poesia
  []
@@ -3293,7 +3235,7 @@ alla poesia
 ]
 chapter 14.
 
-Overfull \hbox (10.95pt too wide) in paragraph at lines 1587--1587
+Overfull \hbox (10.95pt too wide) in paragraph at lines 1573--1573
 [][][][][][][]  
  []
 
@@ -3303,10 +3245,10 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 1624.
+e 1610.
 
 
-Overfull \hbox (155.1544pt too wide) in paragraph at lines 1627--1631
+Overfull \hbox (155.1544pt too wide) in paragraph at lines 1613--1617
 \TU/IBMPlexSerif(0)/m/n/10.95 2013, pp. 121-141 <[]https://www.tandfonline.com/
 doi/pdf/10.1080/00048623.2000.10755130[]> 
  []
@@ -3318,10 +3260,10 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 1636.
+e 1622.
 
 
-Overfull \hbox (69.66196pt too wide) in paragraph at lines 1639--1641
+Overfull \hbox (69.66196pt too wide) in paragraph at lines 1625--1627
 \TU/IBMPlexSerif(0)/m/n/10.95 *\TU/IBMPlexSerif(0)/m/it/10.95 Digital Dark Ages
  \TU/IBMPlexSerif(0)/m/n/10.95 (\TU/IBMPlexSerif(0)/m/it/10.95 s.v\TU/IBMPlexSe
 rif(0)/m/n/10.95 .), in \TU/IBMPlexSerif(0)/m/it/10.95 LisWiki \TU/IBMPlexSerif
@@ -3329,13 +3271,13 @@ rif(0)/m/n/10.95 .), in \TU/IBMPlexSerif(0)/m/it/10.95 LisWiki \TU/IBMPlexSerif
  []
 
 
-Overfull \hbox (18.65686pt too wide) in paragraph at lines 1646--1652
+Overfull \hbox (18.65686pt too wide) in paragraph at lines 1632--1638
 \TU/IBMPlexSerif(0)/m/n/10.95 September 4, 1997, <[]https://archive.ifla.org/IV
 /ifla63/63kuny1.pdf[]> 
  []
 
 
-Overfull \hbox (116.33086pt too wide) in paragraph at lines 1653--1655
+Overfull \hbox (116.33086pt too wide) in paragraph at lines 1639--1641
 []\TU/IBMPlexSerif(0)/m/n/10.95 *\TU/IBMPlexSerif(0)/m/it/10.95 Obsolescenza di
 gitale \TU/IBMPlexSerif(0)/m/n/10.95 (\TU/IBMPlexSerif(0)/m/it/10.95 s.v\TU/IBM
 PlexSerif(0)/m/n/10.95 .), in\TU/IBMPlexSerif(0)/m/it/10.95 Treccani \TU/IBMPle
@@ -3343,7 +3285,7 @@ xSerif(0)/m/n/10.95 , <[]http://www.treccani.it/enciclopedia/obsolescenza-
  []
 
 
-Overfull \hbox (145.69873pt too wide) in paragraph at lines 1656--1658
+Overfull \hbox (145.69873pt too wide) in paragraph at lines 1642--1644
 []\TU/IBMPlexSerif(0)/m/n/10.95 *\TU/IBMPlexSerif(0)/m/it/10.95 Obsolescenza di
 gitale \TU/IBMPlexSerif(0)/m/n/10.95 (\TU/IBMPlexSerif(0)/m/it/10.95 s.v\TU/IBM
 PlexSerif(0)/m/n/10.95 .), in \TU/IBMPlexSerif(0)/m/it/10.95 Wikipedia\TU/IBMPl
@@ -3352,13 +3294,13 @@ exSerif(0)/m/n/10.95 , <[]https://it.wikipedia.org/wiki/Obsolescenza_digitale[]
  []
 
 
-Overfull \hbox (109.88348pt too wide) in paragraph at lines 1659--1662
+Overfull \hbox (109.88348pt too wide) in paragraph at lines 1645--1648
 \TU/IBMPlexSerif(0)/m/it/10.95 Magazine for Informations Professionals\TU/IBMPl
 exSerif(0)/m/n/10.95 , <[]http://www.ariadne.ac.uk/issue46/rusbridge/[]> 
  []
 
 
-Overfull \hbox (95.75557pt too wide) in paragraph at lines 1663--1666
+Overfull \hbox (95.75557pt too wide) in paragraph at lines 1649--1652
 \TU/IBMPlexSerif(0)/m/it/10.95 fessionals. Guide to avoid Digital Dark Ages\TU/
 IBMPlexSerif(0)/m/n/10.95 , <[]http://rimpa.com.au/assets/2015/09/eBook-
  []
@@ -3366,7 +3308,7 @@ IBMPlexSerif(0)/m/n/10.95 , <[]http://rimpa.com.au/assets/2015/09/eBook-
 [42]
 chapter 15.
 
-Overfull \hbox (10.95pt too wide) in paragraph at lines 1670--1670
+Overfull \hbox (10.95pt too wide) in paragraph at lines 1656--1656
 [][][][][][][]  
  []
 
@@ -3379,7 +3321,7 @@ Overfull \hbox (10.95pt too wide) in paragraph at lines 1670--1670
 ]
 chapter 16.
 
-Overfull \hbox (10.95pt too wide) in paragraph at lines 1704--1704
+Overfull \hbox (10.95pt too wide) in paragraph at lines 1690--1690
 [][][][][][][]  
  []
 
@@ -3389,7 +3331,7 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 1739.
+e 1725.
 
 
 Class scrbook Warning: incompatible usage of \@ssect detected.
@@ -3397,12 +3339,12 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 1746.
+e 1732.
 
 [45] [46]
 chapter 17.
 
-Overfull \hbox (10.95pt too wide) in paragraph at lines 1767--1767
+Overfull \hbox (10.95pt too wide) in paragraph at lines 1753--1753
 [][][][][][][]  
  []
 
@@ -3412,7 +3354,7 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 1794.
+e 1780.
 
 [47
 
@@ -3420,36 +3362,36 @@ e 1794.
 ] [48]
 chapter 18.
 
-Overfull \hbox (10.95pt too wide) in paragraph at lines 1812--1812
+Overfull \hbox (10.95pt too wide) in paragraph at lines 1798--1798
 [][][][][][][]  
  []
 
 
-Underfull \hbox (badness 5924) in paragraph at lines 1816--1826
+Underfull \hbox (badness 5924) in paragraph at lines 1802--1812
 \TU/IBMPlexSerif(0)/m/n/10.95 di ricerca archivistici prodotti originariamente 
 su supporto
  []
 
 
-Underfull \hbox (badness 2237) in paragraph at lines 1816--1826
+Underfull \hbox (badness 2237) in paragraph at lines 1802--1812
 \TU/IBMPlexSerif(0)/m/n/10.95 archivistiche in formato nativamente digitale. L’
 adozione di
  []
 
 
-Underfull \hbox (badness 2261) in paragraph at lines 1816--1826
+Underfull \hbox (badness 2261) in paragraph at lines 1802--1812
 \TU/IBMPlexSerif(0)/m/n/10.95 tecnologie come l’\TU/IBMPlexSerif(0)/m/it/10.95 
 eXtensible Markup Language \TU/IBMPlexSerif(0)/m/n/10.95 (XML), volte alla
  []
 
 
-Underfull \hbox (badness 4108) in paragraph at lines 1816--1826
+Underfull \hbox (badness 4108) in paragraph at lines 1802--1812
 \TU/IBMPlexSerif(0)/m/n/10.95 da specifiche piattaforme hardware e software, co
 nsente di
  []
 
 
-Underfull \hbox (badness 1783) in paragraph at lines 1816--1826
+Underfull \hbox (badness 1783) in paragraph at lines 1802--1812
 \TU/IBMPlexSerif(0)/m/n/10.95 garantire la persistenza della struttura e del co
 ntenuto delle
  []
@@ -3464,7 +3406,7 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 1862.
+e 1848.
 
 
 Class scrbook Warning: incompatible usage of \@ssect detected.
@@ -3472,16 +3414,16 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 1879.
+e 1865.
 
 
-Overfull \hbox (98.81958pt too wide) in paragraph at lines 1882--1884
+Overfull \hbox (98.81958pt too wide) in paragraph at lines 1868--1870
 \TU/IBMPlexSerif(0)/m/it/10.95 EAD - Encoded Archival Description \TU/IBMPlexSe
 rif(0)/m/n/10.95 (official site), <[]http://www.loc.gov/ead/index.html[]> 
  []
 
 
-Overfull \hbox (114.53648pt too wide) in paragraph at lines 1885--1887
+Overfull \hbox (114.53648pt too wide) in paragraph at lines 1871--1873
 []\TU/IBMPlexSerif(0)/m/it/10.95 ICAR - Istituto Centrale per gli Archivi\TU/IB
 MPlexSerif(0)/m/n/10.95 , <[]http://www.icar.beniculturali.it/index.php?id=52[]
 > 
@@ -3490,30 +3432,30 @@ MPlexSerif(0)/m/n/10.95 , <[]http://www.icar.beniculturali.it/index.php?id=52[]
 [50]
 chapter 19.
 
-Overfull \hbox (10.95pt too wide) in paragraph at lines 1891--1891
+Overfull \hbox (10.95pt too wide) in paragraph at lines 1877--1877
 [][][][][][][]  
  []
 
 
-Underfull \hbox (badness 1067) in paragraph at lines 1921--1929
+Underfull \hbox (badness 1067) in paragraph at lines 1907--1915
 []\TU/IBMPlexSerif(0)/m/n/10.95 Nella sua forma più semplice un \TU/IBMPlexSeri
 f(0)/m/it/10.95 Feed RSS \TU/IBMPlexSerif(0)/m/n/10.95 è composto da un
  []
 
 
-Underfull \hbox (badness 1527) in paragraph at lines 1921--1929
+Underfull \hbox (badness 1527) in paragraph at lines 1907--1915
 \TU/IBMPlexSerif(0)/m/n/10.95 tre informazioni irrinunciabili: un titolo, un li
 nk, una breve
  []
 
 
-Underfull \hbox (badness 1292) in paragraph at lines 1921--1929
+Underfull \hbox (badness 1292) in paragraph at lines 1907--1915
 \TU/IBMPlexSerif(0)/m/n/10.95 descrizione che informi l’utente delle informazio
 ni contenute
  []
 
 
-Underfull \hbox (badness 1067) in paragraph at lines 1921--1929
+Underfull \hbox (badness 1067) in paragraph at lines 1907--1915
 \TU/IBMPlexSerif(0)/m/n/10.95 delle informazioni contenute nel feed alla mail d
 ella persona
  []
@@ -3528,12 +3470,12 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 1940.
+e 1926.
 
 [52]
 chapter 20.
 
-Overfull \hbox (10.95pt too wide) in paragraph at lines 1955--1955
+Overfull \hbox (10.95pt too wide) in paragraph at lines 1941--1941
 [][][][][][][]  
  []
 
@@ -3542,7 +3484,7 @@ Overfull \hbox (10.95pt too wide) in paragraph at lines 1955--1955
 
 ]
 
-LaTeX Warning: Command \. invalid in math mode on input line 2022.
+LaTeX Warning: Command \. invalid in math mode on input line 2008.
 
 Missing character: There is no ̇ in font lmmi10!
 [54]
@@ -3552,22 +3494,22 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 2040.
+e 2026.
 
 
-Underfull \hbox (badness 1024) in paragraph at lines 2043--2046
+Underfull \hbox (badness 1024) in paragraph at lines 2029--2032
 \TU/IBMPlexSerif(0)/m/n/10.95 Aa.Vv., \TU/IBMPlexSerif(0)/m/it/10.95 Accademia 
 Nazionale dei Lincei\TU/IBMPlexSerif(0)/m/n/10.95 , Tavola rotonda sul tema
  []
 
 
-Overfull \hbox (43.84914pt too wide) in paragraph at lines 2053--2057
+Overfull \hbox (43.84914pt too wide) in paragraph at lines 2039--2043
 \TU/IBMPlexSerif(0)/m/it/10.95 grafica\TU/IBMPlexSerif(0)/m/n/10.95 , II, pp. 3
 55-362, <[]https://infolet.it/files/2009/04/per_rcicala4.pdf[]> 
  []
 
 
-Overfull \hbox (209.51096pt too wide) in paragraph at lines 2062--2066
+Overfull \hbox (209.51096pt too wide) in paragraph at lines 2048--2052
 \TU/IBMPlexSerif(0)/m/it/10.95 the Digital Age\TU/IBMPlexSerif(0)/m/n/10.95 , 2
 , 1, 2012, pp. 37-56 <[]http://journals.oregondigital.org/hsda/article/download
 /2991/2676[]> 
@@ -3579,16 +3521,16 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 2072.
+e 2058.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2079--2083
+Underfull \hbox (badness 10000) in paragraph at lines 2065--2069
 \TU/IBMPlexSerif(0)/m/n/10.95 <[]http://www.griseldaonline.it/informatica/edizi
 one-digitale-di-
  []
 
 
-Overfull \hbox (120.78749pt too wide) in paragraph at lines 2084--2086
+Overfull \hbox (120.78749pt too wide) in paragraph at lines 2070--2072
 []\TU/IBMPlexSerif(0)/m/n/10.95 *\TU/IBMPlexSerif(0)/m/it/10.95 Informatica uma
 nistica \TU/IBMPlexSerif(0)/m/n/10.95 (\TU/IBMPlexSerif(0)/m/it/10.95 s.v\TU/IB
 MPlexSerif(0)/m/n/10.95 .), in \TU/IBMPlexSerif(0)/m/it/10.95 Treccani\TU/IBMPl
@@ -3596,26 +3538,26 @@ exSerif(0)/m/n/10.95 , <[]http://www.treccani.it/enciclopedia/informatica-
  []
 
 
-Overfull \hbox (51.65137pt too wide) in paragraph at lines 2087--2091
+Overfull \hbox (51.65137pt too wide) in paragraph at lines 2073--2077
 \TU/IBMPlexSerif(0)/m/n/10.95 2010, <[]http://www.dfll.univr.it/documenti/Inizi
 ativa/dall/dall639204.pdf[]> 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2092--2095
+Underfull \hbox (badness 10000) in paragraph at lines 2078--2081
 \TU/IBMPlexSerif(0)/m/n/10.95 content/uploads/2017/04/Introduzione-alla-Filolog
 ia-Digitale-
  []
 
 [55]
-Underfull \hbox (badness 4779) in paragraph at lines 2096--2098
+Underfull \hbox (badness 4779) in paragraph at lines 2082--2084
 []\TU/IBMPlexSerif(0)/m/n/10.95 Tomasi F., \TU/IBMPlexSerif(0)/m/it/10.95 Le nu
 ove frontiere della filologia\TU/IBMPlexSerif(0)/m/n/10.95 , in \TU/IBMPlexSeri
 f(0)/m/it/10.95 Argo\TU/IBMPlexSerif(0)/m/n/10.95 , 2, 2018
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2096--2098
+Underfull \hbox (badness 10000) in paragraph at lines 2082--2084
 \TU/IBMPlexSerif(0)/m/n/10.95 <[]http://www.argonline.it/argo/argo-n-2/argo-n-2
 -_-francesca-
  []
@@ -3623,12 +3565,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 2096--2098
 [56]
 chapter 21.
 
-Overfull \hbox (10.95pt too wide) in paragraph at lines 2102--2102
+Overfull \hbox (10.95pt too wide) in paragraph at lines 2088--2088
 [][][][][][][]  
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2119--2122
+Underfull \hbox (badness 10000) in paragraph at lines 2105--2108
 []\TU/IBMPlexSerif(0)/m/n/10.95 risolvere in maniera trasparente incompatibilit
 à tra
  []
@@ -3643,10 +3585,10 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 2151.
+e 2137.
 
 
-Overfull \hbox (273.8501pt too wide) in paragraph at lines 2154--2156
+Overfull \hbox (273.8501pt too wide) in paragraph at lines 2140--2142
 \TU/IBMPlexSerif(0)/m/n/10.95 Poste J. - Reynolds J., \TU/IBMPlexSerif(0)/m/it/
 10.95 FILE TRANSFERT PROTOCOL (FTP)\TU/IBMPlexSerif(0)/m/n/10.95 , <[]http://ww
 w.rfc.altervista.org/rfctradotte/rfc959_tradotta.txt[]> 
@@ -3659,10 +3601,10 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 2279.
+e 2265.
 
 [60]
-Overfull \hbox (60.22522pt too wide) in paragraph at lines 2297--2301
+Overfull \hbox (60.22522pt too wide) in paragraph at lines 2283--2287
 \TU/IBMPlexSerif(0)/m/n/10.95 2015, <[]https://www.wilsoncenter.org/sites/defau
 lt/files/stip_dark_web.pdf[]> 
  []
@@ -3673,17 +3615,17 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 2311.
+e 2297.
 
 
-Overfull \hbox (326.4993pt too wide) in paragraph at lines 2314--2316
+Overfull \hbox (326.4993pt too wide) in paragraph at lines 2300--2302
 \TU/IBMPlexSerif(0)/m/n/10.95 AaVv, \TU/IBMPlexSerif(0)/m/it/10.95 Below the Su
 rface: exploring the Deep Web\TU/IBMPlexSerif(0)/m/n/10.95 , 2015, <[]https://d
 ocuments.trendmicro.com/assets/wp/wp_below_the_surface.pdf[]> 
  []
 
 
-Overfull \hbox (84.77295pt too wide) in paragraph at lines 2323--2325
+Overfull \hbox (84.77295pt too wide) in paragraph at lines 2309--2311
 []\TU/IBMPlexSerif(0)/m/it/10.95 *Web Sommerso \TU/IBMPlexSerif(0)/m/n/10.95 (\
 TU/IBMPlexSerif(0)/m/it/10.95 s.v\TU/IBMPlexSerif(0)/m/n/10.95 .), in \TU/IBMPl
 exSerif(0)/m/it/10.95 Wikipedia\TU/IBMPlexSerif(0)/m/n/10.95 , <[]https://it.wi
@@ -3696,12 +3638,12 @@ kipedia.org/wiki/Web_sommerso[]>
 ]
 chapter 22.
 
-Overfull \hbox (10.95pt too wide) in paragraph at lines 2332--2332
+Overfull \hbox (10.95pt too wide) in paragraph at lines 2318--2318
 [][][][][][][]  
  []
 
 [63]
-Underfull \hbox (badness 1521) in paragraph at lines 2382--2385
+Underfull \hbox (badness 1521) in paragraph at lines 2368--2371
 []\TU/IBMPlexSerif(0)/m/n/10.95 Inizia con \TU/IBMPlexSerif(0)/m/it/10.95 <html
 > \TU/IBMPlexSerif(0)/m/n/10.95 e deve necessariamente chiudersi con
  []
@@ -3712,7 +3654,7 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 2408.
+e 2394.
 
 
 Class scrbook Warning: incompatible usage of \@ssect detected.
@@ -3720,7 +3662,7 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 2418.
+e 2404.
 
 [64] [65] [66
 
@@ -3728,12 +3670,12 @@ e 2418.
 ]
 chapter 23.
 
-Overfull \hbox (10.95pt too wide) in paragraph at lines 2427--2427
+Overfull \hbox (10.95pt too wide) in paragraph at lines 2413--2413
 [][][][][][][]  
  []
 
 [67]
-Underfull \hbox (badness 3579) in paragraph at lines 2474--2482
+Underfull \hbox (badness 3579) in paragraph at lines 2460--2468
 []\TU/IBMPlexSerif(0)/m/n/10.95 Sicuramente lo \TU/IBMPlexSerif(0)/m/it/10.95 s
 tatus \TU/IBMPlexSerif(0)/m/n/10.95 teorico dell’\TU/IBMPlexSerif(0)/m/it/10.95
  Informatica umanistica \TU/IBMPlexSerif(0)/m/n/10.95 pone
@@ -3745,7 +3687,7 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 2484.
+e 2470.
 
 
 Class scrbook Warning: incompatible usage of \@ssect detected.
@@ -3753,7 +3695,7 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 2495.
+e 2481.
 
 [68]
 
@@ -3762,54 +3704,54 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 2530.
+e 2516.
 
 
-Underfull \hbox (badness 3439) in paragraph at lines 2533--2538
+Underfull \hbox (badness 3439) in paragraph at lines 2519--2524
 \TU/IBMPlexSerif(0)/m/n/10.95 Buzzetti D., \TU/IBMPlexSerif(0)/m/it/10.95 Che c
 os’è, oggi, l’informatica umanistica? L’impatto
  []
 
 
-Underfull \hbox (badness 3568) in paragraph at lines 2533--2538
+Underfull \hbox (badness 3568) in paragraph at lines 2519--2524
 \TU/IBMPlexSerif(0)/m/it/10.95 della tecnologia\TU/IBMPlexSerif(0)/m/n/10.95 , 
 in Ciotti F. - Crupi G. (a cura di), \TU/IBMPlexSerif(0)/m/it/10.95 Dall’Infor-
 
  []
 
 
-Underfull \hbox (badness 3884) in paragraph at lines 2533--2538
+Underfull \hbox (badness 3884) in paragraph at lines 2519--2524
 \TU/IBMPlexSerif(0)/m/it/10.95 matica umanistica alle culture digitali. Atti de
 l convegno di stu-
  []
 
 
-Underfull \hbox (badness 4886) in paragraph at lines 2533--2538
+Underfull \hbox (badness 4886) in paragraph at lines 2519--2524
 \TU/IBMPlexSerif(0)/m/it/10.95 di (Roma, 27-28 ottobre 2011) in memoria di Gius
 eppe Gigliozzi\TU/IBMPlexSerif(0)/m/n/10.95 ,
  []
 
 
-Overfull \hbox (240.89874pt too wide) in paragraph at lines 2533--2538
+Overfull \hbox (240.89874pt too wide) in paragraph at lines 2519--2524
 []\TU/IBMPlexSerif(0)/m/n/10.95 https://www.academia.edu/2305364/Che_cos_e_oggi
 _l_informatica_umanistica_L_impatto_della_tecnologia[] 
  []
 
 
-Overfull \hbox (195.29495pt too wide) in paragraph at lines 2539--2541
+Overfull \hbox (195.29495pt too wide) in paragraph at lines 2525--2527
 []\TU/IBMPlexSerif(0)/m/n/10.95 Catalani L., \TU/IBMPlexSerif(0)/m/it/10.95 Inf
 ormatica Umanistica e Digital Humanities\TU/IBMPlexSerif(0)/m/n/10.95 , <[]http
 s://medium.com/@luigicatalani/informatica-
  []
 
 
-Overfull \hbox (117.5813pt too wide) in paragraph at lines 2548--2551
+Overfull \hbox (117.5813pt too wide) in paragraph at lines 2534--2537
 \TU/IBMPlexSerif(0)/m/it/10.95 mentalismo\TU/IBMPlexSerif(0)/m/n/10.95 , []http
 ://www1.unipa.it/paolo.monella/lincei/files/where/strumenti_v2.0.pdf[] 
  []
 
 
-Overfull \hbox (61.41296pt too wide) in paragraph at lines 2552--2554
+Overfull \hbox (61.41296pt too wide) in paragraph at lines 2538--2540
 []\TU/IBMPlexSerif(0)/m/n/10.95 *\TU/IBMPlexSerif(0)/m/it/10.95 Umanistico \TU/
 IBMPlexSerif(0)/m/n/10.95 (\TU/IBMPlexSerif(0)/m/it/10.95 s\TU/IBMPlexSerif(0)/
 m/n/10.95 .\TU/IBMPlexSerif(0)/m/it/10.95 v\TU/IBMPlexSerif(0)/m/n/10.95 .), in
@@ -3823,7 +3765,7 @@ m/n/10.95 .\TU/IBMPlexSerif(0)/m/it/10.95 v\TU/IBMPlexSerif(0)/m/n/10.95 .), in
 ]
 chapter 24.
 
-Overfull \hbox (10.95pt too wide) in paragraph at lines 2558--2558
+Overfull \hbox (10.95pt too wide) in paragraph at lines 2544--2544
 [][][][][][][]  
  []
 
@@ -3833,10 +3775,10 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 2590.
+e 2576.
 
 
-Overfull \hbox (149.81592pt too wide) in paragraph at lines 2596--2598
+Overfull \hbox (149.81592pt too wide) in paragraph at lines 2582--2584
 []\TU/IBMPlexSerif(0)/m/n/10.95 *\TU/IBMPlexSerif(0)/m/it/10.95 User Interface 
 \TU/IBMPlexSerif(0)/m/n/10.95 (\TU/IBMPlexSerif(0)/m/it/10.95 s.v\TU/IBMPlexSer
 if(0)/m/n/10.95 .), in \TU/IBMPlexSerif(0)/m/it/10.95 webopedia\TU/IBMPlexSerif
@@ -3846,7 +3788,7 @@ if(0)/m/n/10.95 .), in \TU/IBMPlexSerif(0)/m/it/10.95 webopedia\TU/IBMPlexSerif
 [71] [72]
 chapter 25.
 
-Overfull \hbox (10.95pt too wide) in paragraph at lines 2602--2602
+Overfull \hbox (10.95pt too wide) in paragraph at lines 2588--2588
 [][][][][][][]  
  []
 
@@ -3854,31 +3796,31 @@ Overfull \hbox (10.95pt too wide) in paragraph at lines 2602--2602
 
 
 ]
-Underfull \hbox (badness 1122) in paragraph at lines 2682--2690
+Underfull \hbox (badness 1122) in paragraph at lines 2668--2676
 []\TU/IBMPlexSerif(0)/m/n/10.95 L’apprendimento non supervisionato (o \TU/IBMPl
 exSerif(0)/m/it/10.95 Unsupervised Lear-
  []
 
 
-Underfull \hbox (badness 1968) in paragraph at lines 2682--2690
+Underfull \hbox (badness 1968) in paragraph at lines 2668--2676
 \TU/IBMPlexSerif(0)/m/n/10.95 imparare quali sono i risultati migliori per le d
 ifferenti
  []
 
 
-Underfull \hbox (badness 1502) in paragraph at lines 2692--2694
+Underfull \hbox (badness 1502) in paragraph at lines 2678--2680
 []\TU/IBMPlexSerif(0)/m/n/10.95 Si ricorre all’apprendimento non-supervisionato
  per risolvere
  []
 
 [74]
-Underfull \hbox (badness 10000) in paragraph at lines 2715--2720
+Underfull \hbox (badness 10000) in paragraph at lines 2701--2706
 []\TU/IBMPlexSerif(0)/m/n/10.95 L’apprendimento semi-supervisionato (o \TU/IBMP
 lexSerif(0)/m/it/10.95 Semi-Supervised
  []
 
 
-Underfull \hbox (badness 2970) in paragraph at lines 2715--2720
+Underfull \hbox (badness 2970) in paragraph at lines 2701--2706
 \TU/IBMPlexSerif(0)/m/n/10.95 in quello non supervisionato), che tocca alla mac
 china
  []
@@ -3889,7 +3831,7 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 2745.
+e 2731.
 
 [75]
 
@@ -3898,10 +3840,10 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 2786.
+e 2772.
 
 
-Overfull \hbox (209.18681pt too wide) in paragraph at lines 2789--2791
+Overfull \hbox (209.18681pt too wide) in paragraph at lines 2775--2777
 \TU/IBMPlexSerif(0)/m/n/10.95 *\TU/IBMPlexSerif(0)/m/it/10.95 Apprendimento Aut
 omatico \TU/IBMPlexSerif(0)/m/n/10.95 (\TU/IBMPlexSerif(0)/m/it/10.95 s\TU/IBMP
 lexSerif(0)/m/n/10.95 .\TU/IBMPlexSerif(0)/m/it/10.95 v\TU/IBMPlexSerif(0)/m/n/
@@ -3910,26 +3852,26 @@ lexSerif(0)/m/n/10.95 .\TU/IBMPlexSerif(0)/m/it/10.95 v\TU/IBMPlexSerif(0)/m/n/
  []
 
 
-Overfull \hbox (133.58954pt too wide) in paragraph at lines 2792--2794
+Overfull \hbox (133.58954pt too wide) in paragraph at lines 2778--2780
 []\TU/IBMPlexSerif(0)/m/n/10.95 Mitchell T.M., \TU/IBMPlexSerif(0)/m/it/10.95 M
 achine Learning\TU/IBMPlexSerif(0)/m/n/10.95 , Maidenhead 1997, <[]https://www.
 cs.ubbcluj.ro/~gabis/ml/ml-
  []
 
 
-Overfull \hbox (78.42265pt too wide) in paragraph at lines 2792--2794
+Overfull \hbox (78.42265pt too wide) in paragraph at lines 2778--2780
 \TU/IBMPlexSerif(0)/m/n/10.95 books/McGrawHill%20-%20Machine%20Learning%20-Tom%
 20Mitchell.pdf[]> 
  []
 
 
-Overfull \hbox (69.68237pt too wide) in paragraph at lines 2795--2798
+Overfull \hbox (69.68237pt too wide) in paragraph at lines 2781--2784
 \TU/IBMPlexSerif(0)/m/it/10.95 posed textbook\TU/IBMPlexSerif(0)/m/n/10.95 , St
 anford 1998 <[]https://ai.stanford.edu/~nilsson/MLBOOK.pdf[]> 
  []
 
 
-Overfull \hbox (198.13232pt too wide) in paragraph at lines 2799--2802
+Overfull \hbox (198.13232pt too wide) in paragraph at lines 2785--2788
 \TU/IBMPlexSerif(0)/m/it/10.95 algorithms\TU/IBMPlexSerif(0)/m/n/10.95 , USA 20
 14 <[]https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understandi
 ng-
@@ -3941,7 +3883,7 @@ ng-
 ]
 chapter 26.
 
-Overfull \hbox (10.95pt too wide) in paragraph at lines 2810--2810
+Overfull \hbox (10.95pt too wide) in paragraph at lines 2796--2796
 [][][][][][][]  
  []
 
@@ -3951,7 +3893,7 @@ Overfull \hbox (10.95pt too wide) in paragraph at lines 2810--2810
 ]
 chapter 27.
 
-Overfull \hbox (10.95pt too wide) in paragraph at lines 2850--2850
+Overfull \hbox (10.95pt too wide) in paragraph at lines 2836--2836
 [][][][][][][]  
  []
 
@@ -3964,7 +3906,7 @@ Missing character: There is no τ in font IBM Plex Serif/OT:script=latn;language
 Missing character: There is no ὰ in font IBM Plex Serif/OT:script=latn;language
 =DFLT;mapping=tex-text;!
 [81]
-Underfull \hbox (badness 2903) in paragraph at lines 2903--2906
+Underfull \hbox (badness 2903) in paragraph at lines 2889--2892
 []\TU/IBMPlexSerif(0)/m/it/10.95 metadati amministrativo-gestionali\TU/IBMPlexS
 erif(0)/m/n/10.95 , funzionali alla gestione
  []
@@ -3976,7 +3918,7 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 2988.
+e 2974.
 
 [83]
 
@@ -3985,16 +3927,16 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 3029.
+e 3015.
 
 
-Overfull \hbox (133.92535pt too wide) in paragraph at lines 3032--3034
+Overfull \hbox (133.92535pt too wide) in paragraph at lines 3018--3020
 \TU/IBMPlexSerif(0)/m/it/10.95 Data Dictionary for preservation Metadata\TU/IBM
 PlexSerif(0)/m/n/10.95 , 3, 2015, <[]www.loc.gov/standards/premis/v3/premis-
  []
 
 [84]
-Overfull \hbox (48.11456pt too wide) in paragraph at lines 3049--3051
+Overfull \hbox (48.11456pt too wide) in paragraph at lines 3035--3037
 []\TU/IBMPlexSerif(0)/m/it/10.95 Metadata Object Description Schema, \TU/IBMPle
 xSerif(0)/m/n/10.95 <[]http://www.loc.gov/standards/mods/[]> 
  []
@@ -4005,48 +3947,48 @@ xSerif(0)/m/n/10.95 <[]http://www.loc.gov/standards/mods/[]>
 ]
 chapter 28.
 
-Overfull \hbox (10.95pt too wide) in paragraph at lines 3059--3059
+Overfull \hbox (10.95pt too wide) in paragraph at lines 3045--3045
 [][][][][][][]  
  []
 
 
-Underfull \hbox (badness 2042) in paragraph at lines 3061--3073
+Underfull \hbox (badness 2042) in paragraph at lines 3047--3059
 \TU/IBMPlexSerif(0)/m/n/10.95 la linguistica computazionale (settore interdisci
 plinare prima
  []
 
 [87]
-Underfull \hbox (badness 6725) in paragraph at lines 3105--3123
+Underfull \hbox (badness 6725) in paragraph at lines 3091--3109
 []\TU/IBMPlexSerif(0)/m/n/10.95 Tra le numerose applicazioni linguistico-filolo
 giche degli \TU/IBMPlexSerif(0)/m/it/10.95 n-
  []
 
 
-Underfull \hbox (badness 5403) in paragraph at lines 3105--3123
+Underfull \hbox (badness 5403) in paragraph at lines 3091--3109
 \TU/IBMPlexSerif(0)/m/it/10.95 grammi\TU/IBMPlexSerif(0)/m/n/10.95 , va ricorda
 ta anche la possibilità di adoperarli per
  []
 
 
-Underfull \hbox (badness 2662) in paragraph at lines 3105--3123
+Underfull \hbox (badness 2662) in paragraph at lines 3091--3109
 \TU/IBMPlexSerif(0)/m/n/10.95 di specifici \TU/IBMPlexSerif(0)/m/it/10.95 n-gra
 mmi \TU/IBMPlexSerif(0)/m/n/10.95 accuratamente individuati e selezionati
  []
 
 
-Underfull \hbox (badness 2401) in paragraph at lines 3105--3123
+Underfull \hbox (badness 2401) in paragraph at lines 3091--3109
 \TU/IBMPlexSerif(0)/m/n/10.95 (cfr., a tal proposito, per la letteratura italia
 na: Basile-Lana
  []
 
 
-Underfull \hbox (badness 2197) in paragraph at lines 3105--3123
+Underfull \hbox (badness 2197) in paragraph at lines 3091--3109
 \TU/IBMPlexSerif(0)/m/n/10.95 espresse da sequenze di parole, che possono esser
 e trattate
  []
 
 
-Underfull \hbox (badness 1168) in paragraph at lines 3105--3123
+Underfull \hbox (badness 1168) in paragraph at lines 3091--3109
 \TU/IBMPlexSerif(0)/m/n/10.95 such an extensive repository of cultural data has
  been made
  []
@@ -4057,17 +3999,17 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 3125.
+e 3111.
 
 
-Overfull \hbox (373.9653pt too wide) in paragraph at lines 3128--3132
+Overfull \hbox (373.9653pt too wide) in paragraph at lines 3114--3118
 \TU/IBMPlexSerif(0)/m/it/10.95 sics\TU/IBMPlexSerif(0)/m/n/10.95 , 49, 2008, pp
 . 2-20, <[]https://www.researchgate.net/publication/228663468_An_example_of_mat
 hematical_authorship_attribution[]> 
  []
 
 
-Overfull \hbox (393.32047pt too wide) in paragraph at lines 3133--3137
+Overfull \hbox (393.32047pt too wide) in paragraph at lines 3119--3123
 \TU/IBMPlexSerif(0)/m/n/10.95 pp. 165-183, <[]https://www.academia.edu/6604207/
 Lattribuzione_di_testi_con_metodi_quantitativi_riconoscimento_di_testi_gramscia
 ni[]> 
@@ -4092,58 +4034,58 @@ Missing character: There is no ι in font IBM Plex Serif/OT:script=latn;language
 Missing character: There is no ς in font IBM Plex Serif/OT:script=latn;language
 =DFLT;mapping=tex-text;!
 
-Underfull \hbox (badness 2913) in paragraph at lines 3138--3144
+Underfull \hbox (badness 2913) in paragraph at lines 3124--3130
 \TU/IBMPlexSerif(0)/m/it/10.95 matematico-statistici: l’auspicabile \TU/IBMPlex
 Serif(0)/m/n/10.95 σύγκρισις \TU/IBMPlexSerif(0)/m/it/10.95 tra metodi qualitat
 ivi
  []
 
 
-Underfull \hbox (badness 1675) in paragraph at lines 3138--3144
+Underfull \hbox (badness 1675) in paragraph at lines 3124--3130
 \TU/IBMPlexSerif(0)/m/it/10.95 e metodi quantitativi\TU/IBMPlexSerif(0)/m/n/10.
 95 , in \TU/IBMPlexSerif(0)/m/it/10.95 FRI – Filologia Risorse Informatiche \TU
 /IBMPlexSerif(0)/m/n/10.95 (\TU/IBMPlexSerif(0)/m/it/10.95 Car-
  []
 
 
-Underfull \hbox (badness 3323) in paragraph at lines 3138--3144
+Underfull \hbox (badness 3323) in paragraph at lines 3124--3130
 \TU/IBMPlexSerif(0)/m/it/10.95 net de recherche and online journal – Italian Di
 gital Humanities\TU/IBMPlexSerif(0)/m/n/10.95 ),
  []
 
 [88]
-Overfull \hbox (59.16454pt too wide) in paragraph at lines 3151--3154
+Overfull \hbox (59.16454pt too wide) in paragraph at lines 3137--3140
 \TU/IBMPlexSerif(0)/m/n/10.95 zioni, 2018, <[]http://eprints.bice.rm.cnr.it/175
 45/1/bookBoschetti2018.pdf[]> 
  []
 
 
-Overfull \hbox (127.01004pt too wide) in paragraph at lines 3160--3164
+Overfull \hbox (127.01004pt too wide) in paragraph at lines 3146--3150
 \TU/IBMPlexSerif(0)/m/it/10.95 guistic\TU/IBMPlexSerif(0)/m/n/10.95 , 2, 2016, 
 pp. 500-510, <[]https://www.degruyter.com/downloadpdf/j/opli.2016.2.issue-
  []
 
 
-Overfull \hbox (38.3927pt too wide) in paragraph at lines 3165--3169
+Overfull \hbox (38.3927pt too wide) in paragraph at lines 3151--3155
 \TU/IBMPlexSerif(0)/m/n/10.95 2016, art. n. 15, pp. 1-19, <[]https://dl.acm.org
 /citation.cfm?id=2940332[]> 
  []
 
 
-Underfull \hbox (badness 2334) in paragraph at lines 3170--3173
+Underfull \hbox (badness 2334) in paragraph at lines 3156--3159
 []\TU/IBMPlexSerif(0)/m/n/10.95 Tamburini F., \TU/IBMPlexSerif(0)/m/it/10.95 La
  linguistica computazionale: un crogiolo di espe-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3170--3173
+Underfull \hbox (badness 10000) in paragraph at lines 3156--3159
 \TU/IBMPlexSerif(0)/m/it/10.95 rienze multidisciplinari\TU/IBMPlexSerif(0)/m/n/
 10.95 , in \TU/IBMPlexSerif(0)/m/it/10.95 GRISELDAONLINE \TU/IBMPlexSerif(0)/m/
 n/10.95 , 2008, pp. 1-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3170--3173
+Underfull \hbox (badness 10000) in paragraph at lines 3156--3159
 \TU/IBMPlexSerif(0)/m/n/10.95 11, <[]http://www.griseldaonline.it/informatica/l
 a-linguistica-
  []
@@ -4154,10 +4096,10 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 3175.
+e 3161.
 
 
-Overfull \hbox (179.05827pt too wide) in paragraph at lines 3178--3180
+Overfull \hbox (179.05827pt too wide) in paragraph at lines 3164--3166
 \TU/IBMPlexSerif(0)/m/n/10.95 *\TU/IBMPlexSerif(0)/m/it/10.95 Google Ngram View
 er \TU/IBMPlexSerif(0)/m/n/10.95 (\TU/IBMPlexSerif(0)/m/it/10.95 s.v.\TU/IBMPle
 xSerif(0)/m/n/10.95 ), in \TU/IBMPlexSerif(0)/m/it/10.95 Wikipedia \TU/IBMPlexS
@@ -4166,7 +4108,7 @@ erif(0)/m/n/10.95 (EN), <[]https://en.wikipedia.org/wiki/Google_Ngram_Viewer[]>
  []
 
 
-Overfull \hbox (102.77109pt too wide) in paragraph at lines 3181--3183
+Overfull \hbox (102.77109pt too wide) in paragraph at lines 3167--3169
 []\TU/IBMPlexSerif(0)/m/n/10.95 *\TU/IBMPlexSerif(0)/m/it/10.95 Intertestualità
  \TU/IBMPlexSerif(0)/m/n/10.95 (\TU/IBMPlexSerif(0)/m/it/10.95 s.v.\TU/IBMPlexS
 erif(0)/m/n/10.95 ), in \TU/IBMPlexSerif(0)/m/it/10.95 Treccani\TU/IBMPlexSerif
@@ -4174,7 +4116,7 @@ erif(0)/m/n/10.95 ), in \TU/IBMPlexSerif(0)/m/it/10.95 Treccani\TU/IBMPlexSerif
  []
 
 
-Underfull \hbox (badness 5175) in paragraph at lines 3187--3189
+Underfull \hbox (badness 5175) in paragraph at lines 3173--3175
 []\TU/IBMPlexSerif(0)/m/n/10.95 *\TU/IBMPlexSerif(0)/m/it/10.95 N-gramma \TU/IB
 MPlexSerif(0)/m/n/10.95 (\TU/IBMPlexSerif(0)/m/it/10.95 s.v.\TU/IBMPlexSerif(0)
 /m/n/10.95 ), in \TU/IBMPlexSerif(0)/m/it/10.95 Wikipedia, \TU/IBMPlexSerif(0)/
@@ -4182,7 +4124,7 @@ m/n/10.95 <[]https://it.wikipedia.org/wiki/N-
  []
 
 
-Overfull \hbox (70.0912pt too wide) in paragraph at lines 3190--3192
+Overfull \hbox (70.0912pt too wide) in paragraph at lines 3176--3178
 []\TU/IBMPlexSerif(0)/m/n/10.95 *\TU/IBMPlexSerif(0)/m/it/10.95 Stop words \TU/
 IBMPlexSerif(0)/m/n/10.95 (\TU/IBMPlexSerif(0)/m/it/10.95 s.v.\TU/IBMPlexSerif(
 0)/m/n/10.95 ), in \TU/IBMPlexSerif(0)/m/it/10.95 Wikipedia \TU/IBMPlexSerif(0)
@@ -4190,13 +4132,13 @@ IBMPlexSerif(0)/m/n/10.95 (\TU/IBMPlexSerif(0)/m/it/10.95 s.v.\TU/IBMPlexSerif(
  []
 
 
-Overfull \hbox (22.70905pt too wide) in paragraph at lines 3193--3196
+Overfull \hbox (22.70905pt too wide) in paragraph at lines 3179--3182
 \TU/IBMPlexSerif(0)/m/it/10.95 (Abridged TLG\TU/IBMPlexSerif(0)/m/n/10.95 ), <[
 ]http://stephanus.tlg.uci.edu/Iris/canon/csearch.jsp[]> 
  []
 
 
-Overfull \hbox (220.00908pt too wide) in paragraph at lines 3202--3204
+Overfull \hbox (220.00908pt too wide) in paragraph at lines 3188--3190
 []\TU/IBMPlexSerif(0)/m/n/10.95 *\TU/IBMPlexSerif(0)/m/it/10.95 Thesaurus Lingu
 ae Graeciae \TU/IBMPlexSerif(0)/m/n/10.95 (\TU/IBMPlexSerif(0)/m/it/10.95 s.v.\
 TU/IBMPlexSerif(0)/m/n/10.95 ), in \TU/IBMPlexSerif(0)/m/it/10.95 Wikipedia\TU/
@@ -4207,7 +4149,7 @@ Graecae[]>
 [89] [90]
 chapter 29.
 
-Overfull \hbox (10.95pt too wide) in paragraph at lines 3208--3208
+Overfull \hbox (10.95pt too wide) in paragraph at lines 3194--3194
 [][][][][][][]  
  []
 
@@ -4221,7 +4163,7 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 3253.
+e 3239.
 
 
 Class scrbook Warning: incompatible usage of \@ssect detected.
@@ -4229,17 +4171,17 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 3270.
+e 3256.
 
 
-Underfull \hbox (badness 6016) in paragraph at lines 3273--3275
+Underfull \hbox (badness 6016) in paragraph at lines 3259--3261
 \TU/IBMPlexSerif(0)/m/n/10.95 *\TU/IBMPlexSerif(0)/m/it/10.95 Digital Wrapper\T
 U/IBMPlexSerif(0)/m/n/10.95 , in \TU/IBMPlexSerif(0)/m/it/10.95 CDL – Californi
 a Digital Library’s Glossary\TU/IBMPlexSerif(0)/m/n/10.95 ,
  []
 
 
-Overfull \hbox (215.75754pt too wide) in paragraph at lines 3273--3275
+Overfull \hbox (215.75754pt too wide) in paragraph at lines 3259--3261
 \TU/IBMPlexSerif(0)/m/n/10.95 <[]http://www.cdlib.org/gateways/technology/gloss
 ary.html?field=glossary&action=search&query=oac#d[]> 
  []
@@ -4247,12 +4189,12 @@ ary.html?field=glossary&action=search&query=oac#d[]>
 [92]
 chapter 30.
 
-Overfull \hbox (10.95pt too wide) in paragraph at lines 3284--3284
+Overfull \hbox (10.95pt too wide) in paragraph at lines 3270--3270
 [][][][][][][]  
  []
 
 
-Underfull \hbox (badness 1009) in paragraph at lines 3301--3307
+Underfull \hbox (badness 1009) in paragraph at lines 3287--3293
 []\TU/IBMPlexSerif(0)/m/n/10.95 Esempio: Clavius (\TU/IBMPlexSerif(0)/m/it/10.9
 5 Istituto di Linguistica Computazionale Zampolli
  []
@@ -4266,12 +4208,12 @@ Underfull \hbox (badness 1009) in paragraph at lines 3301--3307
 ]
 chapter 31.
 
-Overfull \hbox (10.95pt too wide) in paragraph at lines 3311--3311
+Overfull \hbox (10.95pt too wide) in paragraph at lines 3297--3297
 [][][][][][][]  
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3342--3349
+Underfull \hbox (badness 10000) in paragraph at lines 3328--3335
 \TU/IBMPlexSerif(0)/m/n/10.95 (\TU/IBMPlexSerif(0)/m/it/10.95 Metaopac Azalai I
 taliano\TU/IBMPlexSerif(0)/m/n/10.95 ), []http://www.aib.it/progetti/opac-
  []
@@ -4283,7 +4225,7 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 3386.
+e 3372.
 
 
 Class scrbook Warning: incompatible usage of \@ssect detected.
@@ -4291,10 +4233,10 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 3404.
+e 3390.
 
 [96]
-Overfull \hbox (18.6554pt too wide) in paragraph at lines 3413--3416
+Overfull \hbox (18.6554pt too wide) in paragraph at lines 3399--3402
 \TU/IBMPlexSerif(0)/m/it/10.95 dalità di consultazione\TU/IBMPlexSerif(0)/m/n/1
 0.95 , []http://www.aib.it/aib/sezioni/emr/bibtime/num-
  []
@@ -4305,7 +4247,7 @@ Overfull \hbox (18.6554pt too wide) in paragraph at lines 3413--3416
 ]
 chapter 32.
 
-Overfull \hbox (10.95pt too wide) in paragraph at lines 3429--3429
+Overfull \hbox (10.95pt too wide) in paragraph at lines 3415--3415
 [][][][][][][]  
  []
 
@@ -4315,7 +4257,7 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 3469.
+e 3455.
 
 [99]
 
@@ -4324,10 +4266,10 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 3479.
+e 3465.
 
 
-Overfull \hbox (104.46106pt too wide) in paragraph at lines 3482--3485
+Overfull \hbox (104.46106pt too wide) in paragraph at lines 3468--3471
 \TU/IBMPlexSerif(0)/m/n/10.95 Susanna Mornati, 2004, <[]http://www.iss.it/binar
 y/bibl/cont/Suber.1110468892.pdf[]> 
  []
@@ -4335,7 +4277,7 @@ y/bibl/cont/Suber.1110468892.pdf[]>
 [100]
 chapter 33.
 
-Overfull \hbox (10.95pt too wide) in paragraph at lines 3491--3491
+Overfull \hbox (10.95pt too wide) in paragraph at lines 3477--3477
 [][][][][][][]  
  []
 
@@ -4349,7 +4291,7 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 3598.
+e 3584.
 
 
 Class scrbook Warning: incompatible usage of \@ssect detected.
@@ -4357,10 +4299,10 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 3616.
+e 3602.
 
 
-Overfull \hbox (53.94507pt too wide) in paragraph at lines 3622--3624
+Overfull \hbox (53.94507pt too wide) in paragraph at lines 3608--3610
 []\TU/IBMPlexSerif(0)/m/n/10.95 *\TU/IBMPlexSerif(0)/m/it/10.95 Paratesto \TU/I
 BMPlexSerif(0)/m/n/10.95 (\TU/IBMPlexSerif(0)/m/it/10.95 s.v\TU/IBMPlexSerif(0)
 /m/n/10.95 .), in \TU/IBMPlexSerif(0)/m/it/10.95 Treccani\TU/IBMPlexSerif(0)/m/
@@ -4373,14 +4315,14 @@ n/10.95 , <[]http://www.treccani.it/vocabolario/paratesto/[]>
 ]
 chapter 34.
 
-Overfull \hbox (10.95pt too wide) in paragraph at lines 3628--3628
+Overfull \hbox (10.95pt too wide) in paragraph at lines 3614--3614
 [][][][][][][]  
  []
 
 [105] [106]
 chapter 35.
 
-Overfull \hbox (10.95pt too wide) in paragraph at lines 3672--3672
+Overfull \hbox (10.95pt too wide) in paragraph at lines 3658--3658
 [][][][][][][]  
  []
 
@@ -4393,36 +4335,36 @@ Overfull \hbox (10.95pt too wide) in paragraph at lines 3672--3672
 ]
 chapter 36.
 
-Overfull \hbox (10.95pt too wide) in paragraph at lines 3677--3677
+Overfull \hbox (10.95pt too wide) in paragraph at lines 3663--3663
 [][][][][][][]  
  []
 
 [109]
-Underfull \hbox (badness 1867) in paragraph at lines 3749--3753
+Underfull \hbox (badness 1867) in paragraph at lines 3735--3739
 []\TU/IBMPlexSerif(0)/m/n/10.95 Post-print (o post-stampa): versione modificata
  del pre-
  []
 
 
-Underfull \hbox (badness 1565) in paragraph at lines 3757--3761
+Underfull \hbox (badness 1565) in paragraph at lines 3743--3747
 []\TU/IBMPlexSerif(0)/m/n/10.95 Secondo la politica di molti editori, un ricerc
 atore può auto-
  []
 
 [110]
-Underfull \hbox (badness 4132) in paragraph at lines 3787--3794
+Underfull \hbox (badness 4132) in paragraph at lines 3773--3780
 []\TU/IBMPlexSerif(0)/m/n/10.95 I ricercatori usano diversi Academic social net
 works, come
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3787--3794
+Underfull \hbox (badness 10000) in paragraph at lines 3773--3780
 \TU/IBMPlexSerif(0)/m/n/10.95 ResearchGate ([]https://www.researchgate.net/abou
 t[]) e Acade-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3787--3794
+Underfull \hbox (badness 10000) in paragraph at lines 3773--3780
 \TU/IBMPlexSerif(0)/m/n/10.95 mia.edu ([]https://www.academia.edu/about[]), pri
 ncipalmente
  []
@@ -4433,7 +4375,7 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 3809.
+e 3795.
 
 
 Class scrbook Warning: incompatible usage of \@ssect detected.
@@ -4441,17 +4383,17 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 3819.
+e 3805.
 
 
-Overfull \hbox (174.17458pt too wide) in paragraph at lines 3822--3825
+Overfull \hbox (174.17458pt too wide) in paragraph at lines 3808--3811
 \TU/IBMPlexSerif(0)/m/it/10.95 cies in the social sciences\TU/IBMPlexSerif(0)/m
 /n/10.95 , <[]https://repository.lib.ncsu.edu/bitstream/handle/1840.2/83/antelm
 an_self-
  []
 
 
-Overfull \hbox (109.12791pt too wide) in paragraph at lines 3826--3828
+Overfull \hbox (109.12791pt too wide) in paragraph at lines 3812--3814
 []\TU/IBMPlexSerif(0)/m/n/10.95 *\TU/IBMPlexSerif(0)/m/it/10.95 Autoarchiviazio
 ne \TU/IBMPlexSerif(0)/m/n/10.95 (\TU/IBMPlexSerif(0)/m/it/10.95 s.v\TU/IBMPlex
 Serif(0)/m/n/10.95 .), in \TU/IBMPlexSerif(0)/m/it/10.95 Wikipedia \TU/IBMPlexS
@@ -4459,7 +4401,7 @@ erif(0)/m/n/10.95 <[]https://it.wikipedia.org/wiki/Autoarchiviazione[]>
  []
 
 
-Overfull \hbox (143.23134pt too wide) in paragraph at lines 3829--3831
+Overfull \hbox (143.23134pt too wide) in paragraph at lines 3815--3817
 []\TU/IBMPlexSerif(0)/m/n/10.95 Brody T. \TU/IBMPlexSerif(0)/m/it/10.95 et al\T
 U/IBMPlexSerif(0)/m/n/10.95 ., \TU/IBMPlexSerif(0)/m/it/10.95 The effect of Ope
 n Access on citation impact\TU/IBMPlexSerif(0)/m/n/10.95 , <[]http://opcit.epri
@@ -4467,80 +4409,80 @@ nts.org/feb19oa/brody-
  []
 
 [111]
-Underfull \hbox (badness 3930) in paragraph at lines 3832--3835
+Underfull \hbox (badness 3930) in paragraph at lines 3818--3821
 []\TU/IBMPlexSerif(0)/m/n/10.95 De Robbio A., \TU/IBMPlexSerif(0)/m/it/10.95 Au
 to-archiviazione per la ricerca: problemi aper-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3832--3835
+Underfull \hbox (badness 10000) in paragraph at lines 3818--3821
 \TU/IBMPlexSerif(0)/m/it/10.95 ti e sviluppi futuri\TU/IBMPlexSerif(0)/m/n/10.9
 5 , <[]file:///C:/Users/Utente/Downloads/Auto-
  []
 
 
-Underfull \hbox (badness 5924) in paragraph at lines 3836--3839
+Underfull \hbox (badness 5924) in paragraph at lines 3822--3825
 []\TU/IBMPlexSerif(0)/m/n/10.95 Eberechukwu Eze M. - Chukwuma Okeji C. - Ejiobi
  Bosah
  []
 
 
-Underfull \hbox (badness 3049) in paragraph at lines 3836--3839
+Underfull \hbox (badness 3049) in paragraph at lines 3822--3825
 \TU/IBMPlexSerif(0)/m/n/10.95 G., \TU/IBMPlexSerif(0)/m/it/10.95 Self-Archiving
  options on social networks: a review of options\TU/IBMPlexSerif(0)/m/n/10.95 ,
 
  []
 
 
-Overfull \hbox (21.1213pt too wide) in paragraph at lines 3836--3839
+Overfull \hbox (21.1213pt too wide) in paragraph at lines 3822--3825
 []\TU/IBMPlexSerif(0)/m/n/10.95 file:///C:/Users/Utente/Downloads/Self-archivin
 gonsocialmedia.pdf[] 
  []
 
 
-Overfull \hbox (67.88873pt too wide) in paragraph at lines 3840--3844
+Overfull \hbox (67.88873pt too wide) in paragraph at lines 3826--3830
 \TU/IBMPlexSerif(0)/m/n/10.95 <[]https://dspace.lboro.ac.uk/dspace-jspui/bitstr
 eam/2134/21555/5/Article%20-
  []
 
 
-Overfull \hbox (199.51863pt too wide) in paragraph at lines 3840--3844
+Overfull \hbox (199.51863pt too wide) in paragraph at lines 3826--3830
 \TU/IBMPlexSerif(0)/m/n/10.95 %20What%20does%20green%20mean%20v6%20Submitted%20
 %20reformatted%20for%20IR.pdf[]> 
  []
 
 
-Overfull \hbox (158.92122pt too wide) in paragraph at lines 3845--3848
+Overfull \hbox (158.92122pt too wide) in paragraph at lines 3831--3834
 \TU/IBMPlexSerif(0)/m/it/10.95 Unto You, \TU/IBMPlexSerif(0)/m/n/10.95 <[]https
 ://jcom.sissa.it/sites/default/files/documents/jcom0203%282003%29F03.pdf[]> 
  []
 
 
-Overfull \hbox (132.91495pt too wide) in paragraph at lines 3849--3853
+Overfull \hbox (132.91495pt too wide) in paragraph at lines 3835--3839
 \TU/IBMPlexSerif(0)/m/it/10.95 wledge Bank\TU/IBMPlexSerif(0)/m/n/10.95 , <[]ht
 tps://www.researchgate.net/publication/28693015_RoMEO_Studies_8_Self-
  []
 
 
-Overfull \hbox (155.21498pt too wide) in paragraph at lines 3849--3853
+Overfull \hbox (155.21498pt too wide) in paragraph at lines 3835--3839
 \TU/IBMPlexSerif(0)/m/n/10.95 archiving_The_logic_behind_the_colour-coding_used
 _in_the_Copyright_Knowledge_Bank[]> 
  []
 
 
-Overfull \hbox (50.02715pt too wide) in paragraph at lines 3854--3857
+Overfull \hbox (50.02715pt too wide) in paragraph at lines 3840--3843
 \TU/IBMPlexSerif(0)/m/it/10.95 search for Open Access in India\TU/IBMPlexSerif(
 0)/m/n/10.95 , <[]https://www.questia.com/library/journal/1G1-
  []
 
 
-Overfull \hbox (7.24767pt too wide) in paragraph at lines 3854--3857
+Overfull \hbox (7.24767pt too wide) in paragraph at lines 3840--3843
 \TU/IBMPlexSerif(0)/m/n/10.95 331807690/driving-on-the-green-road-self-archivin
 g-research[]> 
  []
 
 
-Overfull \hbox (4.12839pt too wide) in paragraph at lines 3858--3860
+Overfull \hbox (4.12839pt too wide) in paragraph at lines 3844--3846
 []\TU/IBMPlexSerif(0)/m/n/10.95 *\TU/IBMPlexSerif(0)/m/it/10.95 Self-Archiving 
 \TU/IBMPlexSerif(0)/m/n/10.95 (\TU/IBMPlexSerif(0)/m/it/10.95 s.v\TU/IBMPlexSer
 if(0)/m/n/10.95 .), in \TU/IBMPlexSerif(0)/m/it/10.95 Wikipedia \TU/IBMPlexSeri
@@ -4548,7 +4490,7 @@ f(0)/m/n/10.95 <[]https://en.wikipedia.org/wiki/Self-
  []
 
 
-Underfull \hbox (badness 1424) in paragraph at lines 3861--3863
+Underfull \hbox (badness 1424) in paragraph at lines 3847--3849
 []\TU/IBMPlexSerif(0)/m/n/10.95 Swan A. - Brown S., \TU/IBMPlexSerif(0)/m/it/10
 .95 Open access self-archiving: an author study\TU/IBMPlexSerif(0)/m/n/10.95 ,
  []
@@ -4556,7 +4498,7 @@ Underfull \hbox (badness 1424) in paragraph at lines 3861--3863
 [112]
 chapter 37.
 
-Overfull \hbox (10.95pt too wide) in paragraph at lines 3867--3867
+Overfull \hbox (10.95pt too wide) in paragraph at lines 3853--3853
 [][][][][][][]  
  []
 
@@ -4570,7 +4512,7 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 3942.
+e 3928.
 
 
 Class scrbook Warning: incompatible usage of \@ssect detected.
@@ -4578,10 +4520,10 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 3950.
+e 3936.
 
 [114]
-Overfull \hbox (153.25063pt too wide) in paragraph at lines 3956--3958
+Overfull \hbox (153.25063pt too wide) in paragraph at lines 3942--3944
 []\TU/IBMPlexSerif(0)/m/it/10.95 Scientific Center – Technical Report No. 320-2
 094\TU/IBMPlexSerif(0)/m/n/10.95 , 1973, <[]http://www.sgmlsource.com/history/G
 320-
@@ -4593,7 +4535,7 @@ Overfull \hbox (153.25063pt too wide) in paragraph at lines 3956--3958
 ]
 chapter 38.
 
-Overfull \hbox (10.95pt too wide) in paragraph at lines 3964--3964
+Overfull \hbox (10.95pt too wide) in paragraph at lines 3950--3950
 [][][][][][][]  
  []
 
@@ -4624,7 +4566,7 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 4025.
+e 4011.
 
 
 Class scrbook Warning: incompatible usage of \@ssect detected.
@@ -4632,16 +4574,16 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 4032.
+e 4018.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4042--4044
+Underfull \hbox (badness 10000) in paragraph at lines 4028--4030
 \TU/IBMPlexSerif(0)/m/n/10.95 <[]file:///C:/Users/Utente/Downloads/222-Article%
 20Text-2065-2-
  []
 
 
-Overfull \hbox (144.89209pt too wide) in paragraph at lines 4045--4047
+Overfull \hbox (144.89209pt too wide) in paragraph at lines 4031--4033
 []\TU/IBMPlexSerif(0)/m/n/10.95 *\TU/IBMPlexSerif(0)/m/it/10.95 Tassonomia \TU/
 IBMPlexSerif(0)/m/n/10.95 (\TU/IBMPlexSerif(0)/m/it/10.95 s.v\TU/IBMPlexSerif(0
 )/m/n/10.95 .), in \TU/IBMPlexSerif(0)/m/it/10.95 Treccani Enciclopedia\TU/IBMP
@@ -4654,7 +4596,7 @@ lexSerif(0)/m/n/10.95 , <[]http://www.treccani.it/enciclopedia/tassonomia/[]>
 ]
 chapter 39.
 
-Overfull \hbox (10.95pt too wide) in paragraph at lines 4058--4058
+Overfull \hbox (10.95pt too wide) in paragraph at lines 4044--4044
 [][][][][][][]  
  []
 
@@ -4665,16 +4607,16 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 4249.
+e 4235.
 
 
-Underfull \hbox (badness 3229) in paragraph at lines 4252--4255
+Underfull \hbox (badness 3229) in paragraph at lines 4238--4241
 \TU/IBMPlexSerif(0)/m/n/10.95 Burnard L. - Sperberg-McQueen C. M\TU/IBMPlexSeri
 f(0)/m/it/10.95 ., TEI Lite: an intorduc-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4256--4258
+Underfull \hbox (badness 10000) in paragraph at lines 4242--4244
 []\TU/IBMPlexSerif(0)/m/it/10.95 TEI: Guidelines, \TU/IBMPlexSerif(0)/m/n/10.95
  in \TU/IBMPlexSerif(0)/m/it/10.95 Text Encoding Initiative\TU/IBMPlexSerif(0)/
 m/n/10.95 , <[]http://www.tei-
@@ -4683,7 +4625,7 @@ m/n/10.95 , <[]http://www.tei-
 [124]
 chapter 40.
 
-Overfull \hbox (10.95pt too wide) in paragraph at lines 4262--4262
+Overfull \hbox (10.95pt too wide) in paragraph at lines 4248--4248
 [][][][][][][]  
  []
 
@@ -4697,56 +4639,56 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 4333.
+e 4319.
 
 
-Overfull \hbox (550.82019pt too wide) in paragraph at lines 4342--4346
+Overfull \hbox (550.82019pt too wide) in paragraph at lines 4328--4332
 \TU/IBMPlexSerif(0)/m/it/10.95 Perspectives\TU/IBMPlexSerif(0)/m/n/10.95 , 58, 
 1/2, 2006, pp. 49-72, <[]https://www.researchgate.net/publication/32895215_The_
 need_for_a_FC_as_the_basis_of_all_methods_of_Information_retrieval[]> 
  []
 
 [126]
-Overfull \hbox (99.91895pt too wide) in paragraph at lines 4347--4351
+Overfull \hbox (99.91895pt too wide) in paragraph at lines 4333--4337
 \TU/IBMPlexSerif(0)/m/n/10.95 48, <[]http://journals.lib.washington.edu/index.p
 hp/acro/article/view/12688/11192[]> 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4352--4356
+Underfull \hbox (badness 10000) in paragraph at lines 4338--4342
 []\TU/IBMPlexSerif(0)/m/n/10.95 Feldvari K., \TU/IBMPlexSerif(0)/m/it/10.95 The
 sauri usage in Information Retrieval Systems:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4352--4356
+Underfull \hbox (badness 10000) in paragraph at lines 4338--4342
 \TU/IBMPlexSerif(0)/m/it/10.95 Digital Resources and Knowledge Sharing\TU/IBMPl
 exSerif(0)/m/n/10.95 , 2009, pp. 279-288
  []
 
 
-Overfull \hbox (397.45078pt too wide) in paragraph at lines 4352--4356
+Overfull \hbox (397.45078pt too wide) in paragraph at lines 4338--4342
 \TU/IBMPlexSerif(0)/m/n/10.95 <[]https://infoz.ffzg.hr/infuture/2009/papers/4-0
 9%20Feldvari,%20Thesauri%20usage%20in%20information%20retrieval%20systems.pdf[]
 > 
  []
 
 
-Overfull \hbox (192.95238pt too wide) in paragraph at lines 4365--4369
+Overfull \hbox (192.95238pt too wide) in paragraph at lines 4351--4355
 \TU/IBMPlexSerif(0)/m/it/10.95 Cientifica\TU/IBMPlexSerif(0)/m/n/10.95 , 33, 4,
  2010, pp. 643-663, <[]http://redc.revistas.csic.es/index.php/redc/article/view
 /675/750[]> 
  []
 
 
-Overfull \hbox (147.13684pt too wide) in paragraph at lines 4370--4373
+Overfull \hbox (147.13684pt too wide) in paragraph at lines 4356--4359
 \TU/IBMPlexSerif(0)/m/it/10.95 and guidelines on their construction\TU/IBMPlexS
 erif(0)/m/n/10.95 , Dublin 2014, <[]http://apps.dri.ie/motif/docs/guidelines.pd
 f[]> 
  []
 
 
-Overfull \hbox (12.38321pt too wide) in paragraph at lines 4374--4377
+Overfull \hbox (12.38321pt too wide) in paragraph at lines 4360--4363
 \TU/IBMPlexSerif(0)/m/n/10.95 <[]https://strathprints.strath.ac.uk/1896/1/strat
 hprints001896.pdf[]> 
  []
@@ -4757,22 +4699,22 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 4379.
+e 4365.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4382--4384
+Underfull \hbox (badness 10000) in paragraph at lines 4368--4370
 \TU/IBMPlexSerif(0)/m/n/10.95 *\TU/IBMPlexSerif(0)/m/it/10.95 Quick Guide to pu
 blishing a Thesaurus on the Semantic Web\TU/IBMPlexSerif(0)/m/n/10.95 ,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4382--4384
+Underfull \hbox (badness 10000) in paragraph at lines 4368--4370
 \TU/IBMPlexSerif(0)/m/n/10.95 <[]https://www.w3.org/TR/2005/WD-swbp-thesaurus-p
 ubguide-
  []
 
 
-Overfull \hbox (71.4298pt too wide) in paragraph at lines 4385--4387
+Overfull \hbox (71.4298pt too wide) in paragraph at lines 4371--4373
 []\TU/IBMPlexSerif(0)/m/n/10.95 * \TU/IBMPlexSerif(0)/m/it/10.95 Thesaurus \TU/
 IBMPlexSerif(0)/m/n/10.95 (\TU/IBMPlexSerif(0)/m/it/10.95 s. v.\TU/IBMPlexSerif
 (0)/m/n/10.95 )\TU/IBMPlexSerif(0)/m/it/10.95 , \TU/IBMPlexSerif(0)/m/n/10.95 i
@@ -4781,7 +4723,7 @@ p://www.treccani.it/enciclopedia/thesaurus/[]>
  []
 
 
-Overfull \hbox (127.82957pt too wide) in paragraph at lines 4388--4390
+Overfull \hbox (127.82957pt too wide) in paragraph at lines 4374--4376
 []\TU/IBMPlexSerif(0)/m/n/10.95 * \TU/IBMPlexSerif(0)/m/it/10.95 Thesaurus inte
 rrogabili \TU/IBMPlexSerif(0)/m/n/10.95 (\TU/IBMPlexSerif(0)/m/it/10.95 s. v.\T
 U/IBMPlexSerif(0)/m/n/10.95 )\TU/IBMPlexSerif(0)/m/it/10.95 , \TU/IBMPlexSerif(
@@ -4790,34 +4732,34 @@ U/IBMPlexSerif(0)/m/n/10.95 )\TU/IBMPlexSerif(0)/m/it/10.95 , \TU/IBMPlexSerif(
  []
 
 
-Overfull \hbox (3.84737pt too wide) in paragraph at lines 4391--4393
+Overfull \hbox (3.84737pt too wide) in paragraph at lines 4377--4379
 []\TU/IBMPlexSerif(0)/m/n/10.95 *\TU/IBMPlexSerif(0)/m/it/10.95 Thesaurus Lingu
 ae Grecae \TU/IBMPlexSerif(0)/m/n/10.95 (online), <[]http://stephanus.tlg.uci.e
 du/[]> 
  []
 
 
-Overfull \hbox (61.72905pt too wide) in paragraph at lines 4394--4396
+Overfull \hbox (61.72905pt too wide) in paragraph at lines 4380--4382
 []\TU/IBMPlexSerif(0)/m/n/10.95 *\TU/IBMPlexSerif(0)/m/it/10.95 Thesaurus Lingu
 ae Latinae \TU/IBMPlexSerif(0)/m/n/10.95 (online), <[]https://www.degruyter.com
 /view/db/tll[]> 
  []
 
 
-Underfull \hbox (badness 3884) in paragraph at lines 4397--4399
+Underfull \hbox (badness 3884) in paragraph at lines 4383--4385
 []\TU/IBMPlexSerif(0)/m/n/10.95 *\TU/IBMPlexSerif(0)/m/it/10.95 Thesaurus Lingu
 ae Latinae Epigraphicae \TU/IBMPlexSerif(0)/m/n/10.95 (online, scaricabile), I,
 
  []
 
 
-Overfull \hbox (28.2388pt too wide) in paragraph at lines 4397--4399
+Overfull \hbox (28.2388pt too wide) in paragraph at lines 4383--4385
 \TU/IBMPlexSerif(0)/m/n/10.95 <[]https://archive.org/details/ThesaurusLinguaeLa
 tinaeEpigraphicae[]> 
  []
 
 
-Overfull \hbox (95.89304pt too wide) in paragraph at lines 4400--4402
+Overfull \hbox (95.89304pt too wide) in paragraph at lines 4386--4388
 []\TU/IBMPlexSerif(0)/m/n/10.95 *\TU/IBMPlexSerif(0)/m/it/10.95 Thesaurus Music
 arum Latinarum \TU/IBMPlexSerif(0)/m/n/10.95 (online), <[]http://boethius.music
 .indiana.edu/tml/[]> 
@@ -4826,7 +4768,7 @@ arum Latinarum \TU/IBMPlexSerif(0)/m/n/10.95 (online), <[]http://boethius.music
 [127] [128]
 chapter 41.
 
-Overfull \hbox (10.95pt too wide) in paragraph at lines 4406--4406
+Overfull \hbox (10.95pt too wide) in paragraph at lines 4392--4392
 [][][][][][][]  
  []
 
@@ -4840,7 +4782,7 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 4473.
+e 4459.
 
 
 Class scrbook Warning: incompatible usage of \@ssect detected.
@@ -4848,10 +4790,10 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 4484.
+e 4470.
 
 
-Overfull \hbox (141.89107pt too wide) in paragraph at lines 4487--4489
+Overfull \hbox (141.89107pt too wide) in paragraph at lines 4473--4475
 \TU/IBMPlexSerif(0)/m/it/10.95 *Web semantico \TU/IBMPlexSerif(0)/m/n/10.95 (\T
 U/IBMPlexSerif(0)/m/it/10.95 s.v\TU/IBMPlexSerif(0)/m/n/10.95 .), in \TU/IBMPle
 xSerif(0)/m/it/10.95 Treccani \TU/IBMPlexSerif(0)/m/n/10.95 - \TU/IBMPlexSerif(
@@ -4862,7 +4804,7 @@ ww.treccani.it/enciclopedia/web-
 [130]
 chapter 42.
 
-Overfull \hbox (10.95pt too wide) in paragraph at lines 4493--4493
+Overfull \hbox (10.95pt too wide) in paragraph at lines 4479--4479
 [][][][][][][]  
  []
 
@@ -4872,7 +4814,7 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 4532.
+e 4518.
 
 [131
 
@@ -4884,12 +4826,12 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 4548.
+e 4534.
 
 [132]
 chapter 43.
 
-Overfull \hbox (10.95pt too wide) in paragraph at lines 4557--4557
+Overfull \hbox (10.95pt too wide) in paragraph at lines 4543--4543
 [][][][][][][]  
  []
 
@@ -4903,7 +4845,7 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 4618.
+e 4604.
 
 
 Class scrbook Warning: incompatible usage of \@ssect detected.
@@ -4911,26 +4853,26 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 4634.
+e 4620.
 
 [134] [135] [136
 
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 4646.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 4646.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 4632.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 4632.
 (./glodium.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 4646.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 4646.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 4646.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 4632.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 4632.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 4632.
  ) 
 Here is how much of TeX's memory you used:
- 58433 strings out of 492933
- 1262218 string characters out of 6138667
- 1976593 words of memory out of 5000000
+ 58427 strings out of 492933
+ 1262151 string characters out of 6138667
+ 1976592 words of memory out of 5000000
  61589 multiletter control sequences out of 15000+600000
  538723 words of font info for 118 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  70i,12n,118p,9106b,1025s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on glodium.pdf (156 pages).
+Output written on glodium.pdf (150 pages).
