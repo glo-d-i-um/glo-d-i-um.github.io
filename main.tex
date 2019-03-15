@@ -1,0 +1,103 @@
+\documentclass[a4paper,twoside,11pt,chapterprefix=false,listof=flat]{scrbook}
+
+\input{preamble.tex}
+
+
+\frontmatter
+
+\title{GLODIUM}
+\providecommand{\subtitle}[1]{}
+\subtitle{Glossario di Informatica Umanistica}
+\author{2019}
+\date{}
+
+\begin{document}
+\begin{document}
+\maketitle
+
+\makeatletter
+\begin{titlepage}
+\color{namecolor}
+
+\pagecolor{titlepagecolor}
+
+\noindent
+\makebox[0pt][l]{\rule{1.4\textwidth}{1pt}}
+\par
+
+\noindent
+\textbf{\sffamily{Lo stilo di Fileta}} \textcolor{namecolor}{\sffamily{ Manuali}}\par \vskip\baselineskip 
+
+\noindent\sffamily{ISBN: XXX} \\
+\par\vskip\baselineskip
+
+\vspace{2em}
+
+\begin{flushleft}
+
+\noindent
+{\HUGE \sf \@title  \par}\vskip\baselineskip
+
+\noindent
+{\Large \sf \@subtitle \par} \vskip\baselineskip
+\end{flushleft}
+
+\noindent
+{\large{\sffamily\MakeTextUppercase{\@author}}\par} 
+\vspace{4em}
+\par \vskip\baselineskip
+\noindent
+\noindent\sffamily{\textbf{A cura di}}\par \vskip\baselineskip
+\noindent
+\sffamily{\MakeTextUppercase{Antonello Fabio Caterino \\ Marcello Bolpagni \\ Marco Petolicchio \\ Vincenzo Vozza \\ Alessia}\par \vskip\baselineskip
+
+\vspace{3em}
+
+ {\footnotesize   \ttfamily{draft : : \today   : :  \currenttime} \par}
+
+\color{black}
+
+\end{titlepage}
+\makeatother
+\nopagecolor% Use this to restore the color pages to white
+\pagecolor{white}
+\cleardoublepage
+
+\thispagestyle{empty}
+{\parindent0pt 
+
+\vspace*{6em}
+
+\textbf{GLODIUM \\ Glossario di Informatica Umanistica}
+
+\vspace{3em}
+
+Prima pubblicazione: 2019 in Italia da Lo Stilo di Fileta
+\vspace{3em}
+
+Copyright \copyright 2019 XYZ
+
+Quest'opera può essere riprodotta in tutto o in parte, in considerazione della licenza di utilizzo Creative Commons 4.0 BY Internazionale. 
+
+\vspace {3em}
+ISBN XXX-X-XXXX-XXXX-X
+
+
+\vfill
+
+Questo lavoro è stato realizzato con \LaTeX su pagina B5 (176 x 250mm) con margini di 24mm e spazio di rilegatura pari a 10mm, utilizzando caratteri EB Garamond per il corpo del testo e PT Sans per le intestazioni. 
+}
+
+
+\tableofcontents
+
+
+
+\input{introduction.tex}
+\newpage\null\thispagestyle{empty}\newpage
+
+\mainmatter
+\input{glodium.tex}
+\newpage\null\thispagestyle{empty}\newpage
+
+\end{document}
