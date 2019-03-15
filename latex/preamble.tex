@@ -1,5 +1,4 @@
-%\usepackage[a4paper,left=4.5cm, top=3.5cm, bottom=3.5cm, right=4.5cm, heightrounded, headsep=2em, footskip=11mm, vmarginratio=1:1]{geometry}
-\usepackage[b5paper,margin=24mm, bindingoffset=1cm, heightrounded, headsep=2em, footskip=11mm, vmarginratio=1:1]{geometry}
+\usepackage[a4paper,margin=4cm, bindingoffset=1cm, heightrounded, headsep=2em, footskip=11mm, vmarginratio=1:1]{geometry}
 \makeatletter
 \DeclareOldFontCommand{\rm}{\normalfont\rmfamily}{\mathrm}
 \DeclareOldFontCommand{\sf}{\normalfont\sffamily}{\mathsf}
@@ -21,8 +20,8 @@
 
 
 
-\setmainfont[Numbers=Lowercase]{EB Garamond}
-\setsansfont[Numbers=Lowercase]{PT Sans Caption}
+\setmainfont[Numbers=Lowercase]{IBMPlexSerif}
+\setsansfont[Numbers=Lowercase]{IBMPlexSans}
 \setmonofont[Numbers=Lowercase]{IBMPlexMono}
 
 
@@ -30,13 +29,14 @@
 
 \usepackage[all]{nowidow}
 
-\usepackage[usenames, dvipsnames]{color}
+%\usepackage[usenames, dvipsnames]{color}
+\usepackage{xcolor}
+
 \definecolor{upol-dGrey}{rgb}{0.36470588235,0.36862745098,0.37647058823}
 \definecolor{upol-lGrey}{rgb}{0.8,0.8,0.8}
 \definecolor{upol-brandBlue}{rgb}{0,0.43529411764,0.67843137254}
 
 
-\usepackage{xcolor}
 \usepackage{graphicx}
 \definecolor{titlepagecolor}{cmyk}{1,.38,0,.15} %C100 M38 Y0 K15
 \definecolor{namecolor}{cmyk}{0, 0, 0, .0980} 
@@ -192,6 +192,7 @@
 
 
 \usepackage{tikz,tikz-qtree}
+\usepackage{subcaption}
 
 
 \tikzstyle{every picture}+=[font=\sffamily]
@@ -223,6 +224,7 @@
 \usepackage[autostyle]{csquotes}  
 \usepackage{enumerate}
 
+
 \makeatletter
 \newcommand\HUGE{\@setfontsize\Huge{36}{48}} 
 \makeatother
@@ -234,10 +236,10 @@
 %\usepackage{gb4e,cgloss}
 %\noautomath
 
-\PassOptionsToPackage{hyphens}{url}\usepackage{hyperref}
-\urlstyle{rm}
+\let\eachwordone=\it
 
-\usepackage{enumitem}
-\setlist{nosep} 
+
+
+\makeatletter\renewcommand*{\fps@figure}{!h}\makeatother
 
 \frontmatter

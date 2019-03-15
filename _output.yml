@@ -1,0 +1,22 @@
+bookdown::gitbook:
+  split_by: chapter
+  css: html/style.css
+  config:
+    sharing: no
+    toc:
+      toc_float:
+      collapsed: false
+      smooth_scroll: true
+      before: 
+      after: 
+    edit: github.com/glo-d-i-um/glo-d-i-um.github.io/edit/master/%s
+    download: ["pdf", "docx", "epub", "tex" ]
+bookdown::pdf_book:
+  template: null
+  includes: 
+    in_header: latex/preamble.tex
+    before_body: latex/frontmatter.tex
+  latex_engine: xelatex
+  citation_package: natbib
+  keep_tex: yes
+bookdown::epub_book: default
