@@ -4,27 +4,27 @@ subtitle: "Glossario di Informatica Umanistica"
 author: "Antonello Fabio Caterino, Marcello Bolpagni, Marco Petolicchio"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
-output: bookdown::gitbook
 documentclass: scrbook
-lot: yes
-lof: yes
-classoption: [b5paper,twoside,11pt,chapterprefix=false, bibliography=totocnumbered,listof=flat]
+classoption: [b5paper,twoside,11pt,chapterprefix=false, bibliography=totocnumbered, parskip=0]
 link-citations: yes
-github-repo: p-marco.github.io/sintassiIta2
-description: "sintassiIta2"
+github-repo: https://github.com/glo-d-i-um/glo-d-i-um.github.io/
+description: "GLODIUM"
 always_allow_html: yes
+output:
+    bookdown::pdf_book:
+        - lot: no
+        - lof: no
+        - toc: no
 ---
 
 
+# Prefazione {-}
 
-
-# Prefazione
+\markboth{GLODIUM}{Prefazione}
 
 ## GLODIUM -- Glossario di Informatica Umanistica. Cui prodest? {-}
 
-**Le grandi quantità di dati fanno paura a molte discipline: informatica,
-economia, matematica, statistica, filosofia. Perché non dovrebbero
-terrorizzare anche noi umanisti?**
+### Le grandi quantità di dati fanno paura a molte discipline: informatica, economia, matematica, statistica, filosofia. Perché non dovrebbero terrorizzare anche noi umanisti? {-}
 
 Ci avviciniamo con cautela a un futuro pieno di informazioni
 immediatamente disponibili, lasciandoci sempre più alle spalle un

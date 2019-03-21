@@ -20,8 +20,8 @@
 
 
 
-\setmainfont[Numbers=Lowercase]{IBMPlexSerif}
-\setsansfont[Numbers=Lowercase]{IBMPlexSans}
+\setmainfont[Numbers=Lowercase]{EB Garamond}
+\setsansfont[Numbers=Lowercase]{PT Sans}
 \setmonofont[Numbers=Lowercase]{IBMPlexMono}
 
 
@@ -113,11 +113,10 @@
 
 
 
-
-%\setcounter{secnumdepth}{5}
+%\setcounter{secnumdepth}{0}
 %\setsecnumdepth{subsubsection}
 %\maxtocdepth{subsubsection}
-
+\setcounter{tocdepth}{-1} % only includes parts and chapters (not sections) in main TOC
 
 \setlength{\skip\footins}{3em}
 \renewcommand\footnoterule{{\hrule height 0pt}} % a long blue line
@@ -242,4 +241,7 @@
 
 \makeatletter\renewcommand*{\fps@figure}{!h}\makeatother
 
-\frontmatter
+
+\setlength{\parindent}{1em}
+\setlength{\parskip}{0cm}
+\usepackage{indentfirst}

@@ -12,6 +12,7 @@ bookdown::gitbook:
     edit: github.com/glo-d-i-um/glo-d-i-um.github.io/edit/master/%s
     download: ["pdf", "docx", "epub", "tex" ]
 bookdown::pdf_book:
+  toc: no
   template: null
   includes: 
     in_header: latex/preamble.tex

@@ -7,7 +7,7 @@
   11pt,
   chapterprefix=false,
   bibliography=totocnumbered,
-  listof=flat]{scrbook}
+  parskip=0]{scrbook}
 \usepackage{lmodern}
 \usepackage{amssymb,amsmath}
 \usepackage{ifxetex,ifluatex}
@@ -90,8 +90,8 @@
 
 
 
-\setmainfont[Numbers=Lowercase]{IBMPlexSerif}
-\setsansfont[Numbers=Lowercase]{IBMPlexSans}
+\setmainfont[Numbers=Lowercase]{EB Garamond}
+\setsansfont[Numbers=Lowercase]{PT Sans}
 \setmonofont[Numbers=Lowercase]{IBMPlexMono}
 
 
@@ -183,11 +183,10 @@
 
 
 
-
-%\setcounter{secnumdepth}{5}
+%\setcounter{secnumdepth}{0}
 %\setsecnumdepth{subsubsection}
 %\maxtocdepth{subsubsection}
-
+\setcounter{tocdepth}{-1} % only includes parts and chapters (not sections) in main TOC
 
 \setlength{\skip\footins}{3em}
 \renewcommand\footnoterule{{\hrule height 0pt}} % a long blue line
@@ -312,7 +311,10 @@
 
 \makeatletter\renewcommand*{\fps@figure}{!h}\makeatother
 
-\frontmatter
+
+\setlength{\parindent}{1em}
+\setlength{\parskip}{0cm}
+\usepackage{indentfirst}
 \usepackage[]{natbib}
 \bibliographystyle{plainnat}
 
@@ -325,7 +327,7 @@
 \makeatother
 \subtitle{Glossario di Informatica Umanistica}
 \author{Antonello Fabio Caterino, Marcello Bolpagni, Marco Petolicchio}
-\date{2019-03-15}
+\date{2019-03-21}
 
 \begin{document}
 \frontmatter
@@ -371,23 +373,36 @@
 \nopagecolor% Use this to restore the color pages to white
 \pagecolor{white}
 
+
+\thispagestyle{empty}
+
+~\cleardoublepage
+\thispagestyle{empty}
+\vspace{\fill}
+Pagina di copyright
+
+
+
+
 {
-\setcounter{tocdepth}{1}
+\setcounter{tocdepth}{0}
 \tableofcontents
 }
-\listoftables
-\listoffigures
+
 \mainmatter
 \hypertarget{prefazione}{%
-\chapter{Prefazione}\label{prefazione}}
+\chapter*{Prefazione}\label{prefazione}}
+\addcontentsline{toc}{chapter}{Prefazione}
+
+\markboth{GLODIUM}{Prefazione}
 
 \hypertarget{glodium-glossario-di-informatica-umanistica.-cui-prodest}{%
 \section*{GLODIUM -- Glossario di Informatica Umanistica. Cui prodest?}\label{glodium-glossario-di-informatica-umanistica.-cui-prodest}}
 \addcontentsline{toc}{section}{GLODIUM -- Glossario di Informatica Umanistica. Cui prodest?}
 
-\textbf{Le grandi quantità di dati fanno paura a molte discipline: informatica,
-economia, matematica, statistica, filosofia. Perché non dovrebbero
-terrorizzare anche noi umanisti?}
+\hypertarget{le-grandi-quantita-di-dati-fanno-paura-a-molte-discipline-informatica-economia-matematica-statistica-filosofia.-perche-non-dovrebbero-terrorizzare-anche-noi-umanisti}{%
+\subsection*{Le grandi quantità di dati fanno paura a molte discipline: informatica, economia, matematica, statistica, filosofia. Perché non dovrebbero terrorizzare anche noi umanisti?}\label{le-grandi-quantita-di-dati-fanno-paura-a-molte-discipline-informatica-economia-matematica-statistica-filosofia.-perche-non-dovrebbero-terrorizzare-anche-noi-umanisti}}
+\addcontentsline{toc}{subsection}{Le grandi quantità di dati fanno paura a molte discipline: informatica, economia, matematica, statistica, filosofia. Perché non dovrebbero terrorizzare anche noi umanisti?}
 
 Ci avviciniamo con cautela a un futuro pieno di informazioni
 immediatamente disponibili, lasciandoci sempre più alle spalle un
@@ -490,8 +505,6 @@ cui è possibile imbattersi, e per cui occorre una definizione chiara e
 lineare, senza eccessivi rimandi o appesantimenti.
 
 \[*Antonello Fabio Caterino*\]
-
-\mainmatter
 
 \hypertarget{archivio}{%
 \chapter{Archivio}\label{archivio}}
@@ -2142,14 +2155,16 @@ Poste J. - Reynolds J., \emph{FILE TRANSFERT PROTOCOL (FTP)},
 
 \[*Alessia Marini*\]
 
-\textbf{Gold Open Access}
+\hypertarget{gold-open-access}{%
+\chapter{Gold Open Access}\label{gold-open-access}}
 
 Si dice che una sede scientifica pubblica in \emph{gold open access} quando i
 singoli contributi di ogni autore -- una volta editi -- sono liberamente
 e immediatamente disponibili online.
 
-\hypertarget{sitografia--}{%
-\section{Sitografia \{-\}:}\label{sitografia--}}
+\hypertarget{sitografia-14}{%
+\section*{Sitografia}\label{sitografia-14}}
+\addcontentsline{toc}{section}{Sitografia}
 
 \emph{*Gold Open Access} (\emph{s.v}.), in \emph{Consiglio Nazionale delle Ricerche.
 Biblioteca d'Area di Bologna},
@@ -2157,7 +2172,8 @@ Biblioteca d'Area di Bologna},
 
 \[*Antonello Fabio Caterino*\]
 
-\textbf{Green Open Access}
+\hypertarget{green-open-access}{%
+\chapter{Green Open Access}\label{green-open-access}}
 
 Si parla di \emph{green open access} quando l'autore contribuisce a
 diffondere il proprio contributo immettendolo in repository
@@ -2165,8 +2181,9 @@ diffondere il proprio contributo immettendolo in repository
 editori vietino espressamente questa pratica, e che dunque siano
 caricate online versioni pre-print o post-print.
 
-\hypertarget{sitografia---1}{%
-\section{Sitografia \{-\}:~}\label{sitografia---1}}
+\hypertarget{sitografia-15}{%
+\section*{Sitografia}\label{sitografia-15}}
+\addcontentsline{toc}{section}{Sitografia}
 
 \emph{*Green Open Access} (\emph{s.v}.), in \emph{Consiglio Nazionale delle Ricerche.
 Biblioteca d'Area di Bologna},
@@ -2174,7 +2191,8 @@ Biblioteca d'Area di Bologna},
 
 \[*Antonello Fabio Caterino*\]
 
-\textbf{Hidden Web}
+\hypertarget{hidden-web}{%
+\chapter{Hidden Web}\label{hidden-web}}
 
 L'\emph{Hidden Web} (o Invisible Web o Deep Web o Undernet) è l'insieme delle
 risorse informative del World Wide Web non indicizzate dai normali
@@ -2293,8 +2311,8 @@ privacy e la protezione dati}, Tesi di Laurea, Università di Bologna,
 2013/2014,
 \textless{}{\url{https://amslaurea.unibo.it/8456/1/wojtowicz_patryk_tesi.pdf}\textgreater{}}
 
-\hypertarget{sitografia-14}{%
-\section*{Sitografia}\label{sitografia-14}}
+\hypertarget{sitografia-16}{%
+\section*{Sitografia}\label{sitografia-16}}
 \addcontentsline{toc}{section}{Sitografia}
 
 AaVv, \emph{Below the Surface: exploring the Deep Web}, 2015,
@@ -2400,8 +2418,8 @@ digitale per download e accesso on line}, Milano, Apogeo, 2017
 Tissoni F., \emph{Lineamenti di editoria multimediale}, Milano, Edizioni
 Unicolpi, 2009
 
-\hypertarget{sitografia-15}{%
-\section*{Sitografia}\label{sitografia-15}}
+\hypertarget{sitografia-17}{%
+\section*{Sitografia}\label{sitografia-17}}
 \addcontentsline{toc}{section}{Sitografia}
 
 *\emph{HTML} (\emph{s.v}.), in \emph{w3schools.com},
@@ -2512,8 +2530,8 @@ Tomasi F.,~\emph{Informatica Umanistica: iniziative, progetti e proposte}, in
 \emph{La macchina nel tempo. Studi di informatica umanistica in onore di Tito
 Orlandi}, Firenze, Le Lettere, 2011, pp.~309 - 327
 
-\hypertarget{sitografia-16}{%
-\section*{Sitografia}\label{sitografia-16}}
+\hypertarget{sitografia-18}{%
+\section*{Sitografia}\label{sitografia-18}}
 \addcontentsline{toc}{section}{Sitografia}
 
 Buzzetti D., \emph{Che cos'è, oggi, l'informatica umanistica? L'impatto della
@@ -2572,8 +2590,8 @@ sviluppo di nuovi software dedicati ad un mercato di consumo di massa.
 Elementi chiave sono: un puntatore, un sistema di puntamento, icone, un
 desktop, finestre e menù.
 
-\hypertarget{sitografia-17}{%
-\section*{Sitografia}\label{sitografia-17}}
+\hypertarget{sitografia-19}{%
+\section*{Sitografia}\label{sitografia-19}}
 \addcontentsline{toc}{section}{Sitografia}
 
 *\emph{User Interface} (\emph{s.v}.), in \emph{Tech} \emph{Terms},
@@ -2768,8 +2786,8 @@ Netherlands, Springer, 2005
 Sutton R.S. - Barto A.G., \emph{Reinforcement Learning: an introduction},
 Cambridge (MA), Bradford Books, 1998
 
-\hypertarget{sitografia-18}{%
-\section*{Sitografia}\label{sitografia-18}}
+\hypertarget{sitografia-20}{%
+\section*{Sitografia}\label{sitografia-20}}
 \addcontentsline{toc}{section}{Sitografia}
 
 *\emph{Apprendimento Automatico} (\emph{s}.\emph{v}.), in \emph{Wikipedia},
@@ -3011,8 +3029,8 @@ professionalità}, Lucca, Civita editoriale, 2016
 Weston P.G. - Sardo L., \emph{Metadati}, Roma, Associazione Italiana
 Biblioteche, 2017
 
-\hypertarget{sitografia-19}{%
-\section*{Sitografia}\label{sitografia-19}}
+\hypertarget{sitografia-21}{%
+\section*{Sitografia}\label{sitografia-21}}
 \addcontentsline{toc}{section}{Sitografia}
 
 \emph{Data Dictionary for preservation Metadata}, 3, 2015,
@@ -3157,8 +3175,8 @@ Tamburini F., \emph{La linguistica computazionale: un crogiolo di esperienze
 multidisciplinari}, in \emph{GRISELDAONLINE} , 2008, pp.~1-11,
 \textless{}\href{http://www.griseldaonline.it/informatica/la-linguistica-computazionale-tamburini.html}{{http://www.griseldaonline.it/informatica/la-linguistica-computazionale-tamburini.html}}\textgreater{}
 
-\hypertarget{sitografia-20}{%
-\section*{Sitografia}\label{sitografia-20}}
+\hypertarget{sitografia-22}{%
+\section*{Sitografia}\label{sitografia-22}}
 \addcontentsline{toc}{section}{Sitografia}
 
 *\emph{Google Ngram Viewer} (\emph{s.v.}), in \emph{Wikipedia} (EN),
@@ -3252,8 +3270,8 @@ Sebastiani M., \emph{Il \enquote{documento digitale}: analisi di un concetto in
 evoluzione}, in \emph{DigItalia}. \emph{Rivista del digitale nel beni culturali},
 1, 2008, pp.~9-31
 
-\hypertarget{sitografia-21}{%
-\section*{Sitografia}\label{sitografia-21}}
+\hypertarget{sitografia-23}{%
+\section*{Sitografia}\label{sitografia-23}}
 \addcontentsline{toc}{section}{Sitografia}
 
 *\emph{Digital Wrapper}, in \emph{CDL -- California Digital Library's Glossary},
@@ -3386,8 +3404,8 @@ Tramullas J. - Garrido P., \emph{Library automation and OPAC 2.0: information
 access and services in the 2.0 landscape}, Hershey (PA), Information
 Science Reference, 2012
 
-\hypertarget{sitografia-22}{%
-\section*{Sitografia}\label{sitografia-22}}
+\hypertarget{sitografia-24}{%
+\section*{Sitografia}\label{sitografia-24}}
 \addcontentsline{toc}{section}{Sitografia}
 
 \emph{AIB Web}, \emph{Il Web dell'Associazione Italiana Biblioteche}: \emph{MAI},
@@ -3461,8 +3479,8 @@ Bologna, Il Mulino, 2017
 Di Donato F., \emph{La scienza e la rete. L'uso pubblico della ragione
 nell'età del web}, Firenze, Firenze University Press, 2009
 
-\hypertarget{sitografia-23}{%
-\section*{Sitografia}\label{sitografia-23}}
+\hypertarget{sitografia-25}{%
+\section*{Sitografia}\label{sitografia-25}}
 \addcontentsline{toc}{section}{Sitografia}
 
 Suber P., \emph{Breve introduzione all'accesso aperto}, traduzione italiana
@@ -3598,8 +3616,8 @@ Zingarelli N., \emph{Lo Zingarelli 1995. Vocabolario della lingua italiana di
 Nicola Zingarelli}, \emph{Dodicesima edizione a cura di Mirco Dogliotti e
 Luigi Rosiello}, Bologna, Zanichelli, 1995
 
-\hypertarget{sitografia-24}{%
-\section*{Sitografia}\label{sitografia-24}}
+\hypertarget{sitografia-26}{%
+\section*{Sitografia}\label{sitografia-26}}
 \addcontentsline{toc}{section}{Sitografia}
 
 *\emph{Paratesto} (\emph{s.v}.), in \emph{Garzanti Linguistica},
@@ -3657,7 +3675,110 @@ consultabile dal sito: \url{http://tlion.sns.it/}.
 \hypertarget{public-history}{%
 \chapter{Public History}\label{public-history}}
 
-\[assegnata a Concetta Damiani\]
+La \emph{Public History} si occupa di definire e organizzare scientificamente
+le attività di ricerca e comunicazione della storia anche in contesti
+esterni a quelli accademici, rivolgendosi ad un'utenza ampia e
+diversificata e prevedendone il coinvolgimento attivo.
+
+Nel nostro Paese la disciplina mutua la forma anglosassone di \emph{Public
+History}, diffidando della traduzione letterale che potrebbe risultare
+riduttiva e fuorviante. Nell'accezione convivono la specifica volontà di
+far riferimento al vasto movimento internazionale nato sul finire degli
+anni settanta - negli Stati Uniti, che vantano la più antica tradizione
+disciplinare, è stato celebrato nel 2010 il trentesimo anniversario del
+\emph{National Council on Public History} - e l'intento di sottolineare il
+taglio innovativo della proposta professionale che l'Italia persegue
+praticando una storiografia attenta alla costruzione pubblica del
+passato, grazie anche all'intensa attività di numerose istituzioni
+culturali - di natura pubblica e privata - orientate alla declinazione
+di strategie interdisciplinari di collaborazione e lavoro collettivo.
+
+«In Italia sono inoltre imprescindibili per la \emph{Public History} sia la
+lezione degli storici orali -- con le riflessioni sul concetto di
+\enquote{autorità condivisa}, sul valore delle memorie individuali e collettive
+e sui processi della loro costruzione -- sia quella della microstoria,
+che ha innovato profondamente la storiografia a partire dallo studio di
+circoscritte realtà territoriali. Infine, non si può dimenticare
+l'esperienza peculiare dell'Italia nella gestione e valorizzazione di un
+patrimonio storico, archivistico, artistico, architettonico,
+paesaggistico e archeologico unico nel mondo», come dichiara il
+\emph{Manifesto della Public History italiana} (2018).
+
+L'esordio ufficiale della \emph{Public History} nel panorama universitario
+italiano è datato al settembre 2013, con un seminario dedicato
+nell'ambito dei \enquote{Cantieri di Storia} promossi dalla SISSCO presso
+l'Università di Salerno; nel giugno 2016 poi, presso la sede della
+Giunta Centrale per gli Studi Storici, ha avuto luogo la riunione
+costitutiva dell'\emph{Associazione Italiana di Public History}, motore di
+numerose iniziative di studio, ricerca, interazione e comunicazione.
+
+La disciplina è volta a promuovere un rinnovato \enquote{senso pubblico} della
+storia - tramite una narrazione che risulti qualificata e rigorosa anche
+al di fuori dei circuiti accademici - e la sua pratica comporta pertanto
+una forte responsabilità civile e culturale nel trattare il tema
+conflittuale delle memorie. Il \emph{public historian} deve quindi essere una
+figura in grado di affrontare platee di pubblico eterogeneo, interessato
+sia alla storia che alla memoria e curare una ricostruzione del
+\enquote{contesto} che diventa necessariamente sempre più interdisciplinare,
+attenta come dovrà essere ad avvenimenti, commemorazioni, musei,
+geografie urbane, ambienti, memorie e testimonianze, ovvero allo spettro
+tematico di una narrazione del passato che si fa storia nel presente,
+all'interno di comunità protagoniste di un evento. Tra i metodi usati
+dai~\emph{public historians}~per la costruzione e la comunicazione pubblica
+del passato, un ruolo strategico va attribuito alla~\emph{Digital Public
+History}, che favorisce la valorizzazione di contenuti generati dagli
+utenti e pratiche di crowdsourcing. Il processo di
+internazionalizzazione della \emph{Public History trova un punto di forza
+nello strutturarsi di pratiche \enquote{glocali} favorite dal digitale.} I nuovi
+mondi digitali, infatti, hanno contribuito a moltiplicare i cosiddetti
+\enquote{creatori di storia}, rendendo virtualmente qualunque individuo capace
+di contribuire alla raccolta, all'interpretazione e alla lettura di
+testimonianze relative al proprio passato; questo ha però rafforzato
+l'indispensabilità di un costante impegno \enquote{pubblico} di accademici e
+operatori che, partendo dal metodo scientifico di analisi delle fonti,
+siano in grado di ricalibrarlo opportunamente sulle novità che il mondo
+digitale ha introdotto nella pratica storica.
+
+\hypertarget{bibliografia-consultata-5}{%
+\section*{Bibliografia consultata}\label{bibliografia-consultata-5}}
+\addcontentsline{toc}{section}{Bibliografia consultata}
+
+Noiret S., \emph{La \enquote{Public History}: una disciplina fantasma?,} in Noiret S.
+(a cura di), \emph{Public History. Pratiche nazionali e identità globale}, in
+\emph{Memoria e Ricerca, Rivista di storia contemporanea}, n.~37,
+maggio-agosto 2011, pp.~10-35
+
+Noiret S., \emph{Storia pubblica digitale}, in \emph{Zapruder}, n.~36,
+gennaio-aprile 2015, pp.~8-23
+
+\hypertarget{bibliografia-consigliata-21}{%
+\section*{Bibliografia consigliata}\label{bibliografia-consigliata-21}}
+\addcontentsline{toc}{section}{Bibliografia consigliata}
+
+Bertella Farnetti P. - Bertuccelli L. - Botti A. (a cura di), \emph{Public
+History. Discussioni e pratiche}, Milano-Udine, Mimesis, 2017
+
+Noiret S. (a cura di), \emph{Musei di storia e Public History,} in \emph{Memoria e
+Ricerca, Rivista di storia contemporanea,} n.~1, gennaio-aprile 2017
+
+Ridolfi M., \emph{Verso la Public History. Fare e raccontare storia nel tempo
+presente}, Pisa, Pacini, 2017
+
+\hypertarget{sitografia-27}{%
+\section*{Sitografia}\label{sitografia-27}}
+\addcontentsline{toc}{section}{Sitografia}
+
+\emph{Il manifesto della Public History Italiana}, in \emph{AIPH} - \emph{Associazione
+Italiana Public History},
+\textless{}\href{https://aiph.hypotheses.org/3193}{{https://aiph.hypotheses.org/3193}}\textgreater{}
+
+Sini G. (a cura di), \emph{Scienze umane, dalla produzione di nuova
+conoscenza alla disseminazione e ritorno}, in \emph{RiMe. Rivista
+dell'Istituto di Storia dell'Europa Mediterranea}, 1/I n.s., dicembre
+2017, DOI:
+\textless{}\href{https://doi.org/10.7410/1287}{{https://doi.org/10.7410/1287}}\textgreater{}
+
+\[*Concetta Damiani*\]
 
 \hypertarget{self-archiving}{%
 \chapter{Self-archiving}\label{self-archiving}}
@@ -3791,8 +3912,8 @@ inevitabili; ma oggi, nell'era post-Gutenberg on line, il funzionamento
 alla vecchia maniera, con i suoi costi elevati deve essere mantenuto
 come opzione complementare invece che come strumento indispensabile».
 
-\hypertarget{bibliografia-consigliata-21}{%
-\section*{Bibliografia consigliata}\label{bibliografia-consigliata-21}}
+\hypertarget{bibliografia-consigliata-22}{%
+\section*{Bibliografia consigliata}\label{bibliografia-consigliata-22}}
 \addcontentsline{toc}{section}{Bibliografia consigliata}
 
 Delle Donne R., \emph{Studi e ricerche di scienze umane e sociali}, Napoli,
@@ -3801,8 +3922,8 @@ fedOA Press, 2014
 De Robbio A., \emph{Archivi aperti e comunicazione scientifica}, Napoli,
 ClioPress, 2007
 
-\hypertarget{sitografia-25}{%
-\section*{Sitografia}\label{sitografia-25}}
+\hypertarget{sitografia-28}{%
+\section*{Sitografia}\label{sitografia-28}}
 \addcontentsline{toc}{section}{Sitografia}
 
 Antelman K., \emph{Self-archiving practice and the influence of publisher
@@ -3924,16 +4045,16 @@ due caratteristiche: la prima è che si tratta di un metalinguaggio, la
 seconda è l'uso del concetto di entità con il quale è possibile
 codificare dei caratteri alfabetici diversi dallo standard inglese.
 
-\hypertarget{bibliografia-consigliata-22}{%
-\section*{Bibliografia consigliata}\label{bibliografia-consigliata-22}}
+\hypertarget{bibliografia-consigliata-23}{%
+\section*{Bibliografia consigliata}\label{bibliografia-consigliata-23}}
 \addcontentsline{toc}{section}{Bibliografia consigliata}
 
 DeRose S.J. - Durand D. - Milonas E. - Renear A.H., \emph{What is Text,
 Really?}, in \emph{Journal of compunting in Higher Education}, 1, 2, 1990,
 pp.~3-26
 
-\hypertarget{sitografia-26}{%
-\section*{Sitografia}\label{sitografia-26}}
+\hypertarget{sitografia-29}{%
+\section*{Sitografia}\label{sitografia-29}}
 \addcontentsline{toc}{section}{Sitografia}
 
 Goldfarb C.F., \emph{Design Considerations For Integrated Text Processing
@@ -4007,15 +4128,15 @@ potenziale da esplicarsi soprattutto nella raccolta e nella
 classificazione delle informazioni, degli strumenti, dei metodi e dei
 progetti di DH necessari a facilitare la ricerca.
 
-\hypertarget{bibliografia-consigliata-23}{%
-\section*{Bibliografia consigliata}\label{bibliografia-consigliata-23}}
+\hypertarget{bibliografia-consigliata-24}{%
+\section*{Bibliografia consigliata}\label{bibliografia-consigliata-24}}
 \addcontentsline{toc}{section}{Bibliografia consigliata}
 
 Isone L., \emph{Strategie SEO per l'E-COMMERCE}, Milano, Hoepli, 2017,
 \textless{}{\url{https://books.google.it/books?id=XjskDwAAQBAJ\&pg=PT99\&lpg=PT99\&dq=tassonomia+orizzontale+e+verticale\&source=bl\&ots=9GuQqPRwYg\&sig=ACfU3U0S6WNix0VGaq70l1yl21x0jk0RVQ\&hl=it\&sa=X\&ved=2ahUKEwjm3v24r5LgAhWGM-wKHUtdDJkQ6AEwCHoECAQQAQ\#v=onepage\&q=tassonomia\%20orizzontale\%20e\%20verticale\&f=false}\textgreater{}}
 
-\hypertarget{sitografia-27}{%
-\section*{Sitografia}\label{sitografia-27}}
+\hypertarget{sitografia-30}{%
+\section*{Sitografia}\label{sitografia-30}}
 \addcontentsline{toc}{section}{Sitografia}
 
 AaVv, \emph{Dall'informatica umanistica alle culture digitali. In memoria di
@@ -4231,8 +4352,8 @@ presentati all'interno del testo.
 \emph{\textless textClass\textgreater{}} è una serie di informazioni che descrivono la natura o
 l'argomento del testo.
 
-\hypertarget{sitografia-28}{%
-\section*{Sitografia}\label{sitografia-28}}
+\hypertarget{sitografia-31}{%
+\section*{Sitografia}\label{sitografia-31}}
 \addcontentsline{toc}{section}{Sitografia}
 
 Burnard L. - Sperberg-McQueen C. M\emph{., TEI Lite: an intorduction to Text
@@ -4315,8 +4436,8 @@ Per una accurata disamina quantitativa dei principali \emph{thesauri}
 liberamente interrogabili in varie lingue europee, cfr. Mochó
 Bezares-Sorli Rojo (2010, 643-663).
 
-\hypertarget{bibliografia-consigliata-24}{%
-\section*{Bibliografia consigliata}\label{bibliografia-consigliata-24}}
+\hypertarget{bibliografia-consigliata-25}{%
+\section*{Bibliografia consigliata}\label{bibliografia-consigliata-25}}
 \addcontentsline{toc}{section}{Bibliografia consigliata}
 
 Aitchinson J. - Gilchrist A. - Bawden D., \emph{Thesaurus construction and
@@ -4361,8 +4482,8 @@ Shiri A. A. - Revie C., Thesauri \emph{on the web: current developments and
 trends}, in \emph{Online Information Review} 24, 4, 2000, pp.~273-279,
 \textless{}\href{https://strathprints.strath.ac.uk/1896/1/strathprints001896.pdf}{{https://strathprints.strath.ac.uk/1896/1/strathprints001896.pdf}}\textgreater{}
 
-\hypertarget{sitografia-29}{%
-\section*{Sitografia}\label{sitografia-29}}
+\hypertarget{sitografia-32}{%
+\section*{Sitografia}\label{sitografia-32}}
 \addcontentsline{toc}{section}{Sitografia}
 
 *\emph{Quick Guide to publishing a Thesaurus on the Semantic Web},
@@ -4455,8 +4576,8 @@ formalismi, ma ottenere che la possibilità di linkare i dati a nuovi
 dati permetta di usarli in maniera sempre più ampia, confidando
 nell'intelligenza distribuita e interconnessa dei navigatori.
 
-\hypertarget{bibliografia-consigliata-25}{%
-\section*{Bibliografia consigliata}\label{bibliografia-consigliata-25}}
+\hypertarget{bibliografia-consigliata-26}{%
+\section*{Bibliografia consigliata}\label{bibliografia-consigliata-26}}
 \addcontentsline{toc}{section}{Bibliografia consigliata}
 
 Berners-Lee T., \emph{L'architettura del nuovo Web. Dall'inventore della
@@ -4466,8 +4587,8 @@ intercreativa}, Milano, Feltrinelli, 2001
 Di Donato F., \emph{La scienza e la rete. L'uso pubblico della ragione
 nell'età del web}, Firenze, Firenze University Press, 2009
 
-\hypertarget{sitografia-30}{%
-\section*{Sitografia}\label{sitografia-30}}
+\hypertarget{sitografia-33}{%
+\section*{Sitografia}\label{sitografia-33}}
 \addcontentsline{toc}{section}{Sitografia}
 
 \emph{*Web semantico} (\emph{s.v}.), in \emph{Treccani} - \emph{Lessico del XXI secolo},
@@ -4514,8 +4635,8 @@ di informazioni secondo le specifiche del foglio di stile dell'output
 (si passerà, quindi, da un file.xml ad un file.html che verrà di
 visualizzato ed organizzato con CSS).
 
-\hypertarget{bibliografia-consigliata-26}{%
-\section*{Bibliografia consigliata}\label{bibliografia-consigliata-26}}
+\hypertarget{bibliografia-consigliata-27}{%
+\section*{Bibliografia consigliata}\label{bibliografia-consigliata-27}}
 \addcontentsline{toc}{section}{Bibliografia consigliata}
 
 Ausiello G. \emph{et al}., \emph{Modelli e linguaggi dell'informatica}, Milano,
@@ -4530,8 +4651,8 @@ XML}, Milano, Pearson, 2007
 Tissoni F., \emph{Lineamenti di editoria multimediale}, Milano, Edizioni
 Unicopli, 2009
 
-\hypertarget{sitografia-31}{%
-\section*{Sitografia}\label{sitografia-31}}
+\hypertarget{sitografia-34}{%
+\section*{Sitografia}\label{sitografia-34}}
 \addcontentsline{toc}{section}{Sitografia}
 
 *\emph{Learn W3C} (\emph{s.v}.), in \emph{w3schools.com},
@@ -4600,8 +4721,8 @@ due tipi, quelle generali, già normalmente inserite nella DTD
 (delimitate da \& e ;), e quelle parametriche, più specifiche, che
 vengono usate solo nelle dichiarazioni di markup (delimitate da \% e ;).
 
-\hypertarget{bibliografia-consigliata-27}{%
-\section*{Bibliografia consigliata}\label{bibliografia-consigliata-27}}
+\hypertarget{bibliografia-consigliata-28}{%
+\section*{Bibliografia consigliata}\label{bibliografia-consigliata-28}}
 \addcontentsline{toc}{section}{Bibliografia consigliata}
 
 Ausiello G. \emph{et al}., \emph{Modelli e linguaggi dell'informatica}, Milano,
@@ -4616,8 +4737,8 @@ XML}, Milano, Pearson, 2007
 Tissoni F., \emph{Lineamenti di editoria multimediale}, Milano, Edizioni
 Unicopli, 2009
 
-\hypertarget{sitografia-32}{%
-\section*{Sitografia}\label{sitografia-32}}
+\hypertarget{sitografia-35}{%
+\section*{Sitografia}\label{sitografia-35}}
 \addcontentsline{toc}{section}{Sitografia}
 
 Sorato A., \emph{Linguaggi per la rete: XML},

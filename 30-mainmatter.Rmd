@@ -1,5 +1,3 @@
-\mainmatter
-
 # Archivio
 
 Il termine *archivio* può avere numerose accezioni: rimandare a
@@ -1563,13 +1561,13 @@ Poste J. - Reynolds J., *FILE TRANSFERT PROTOCOL (FTP)*,
 
 \[*Alessia Marini*\]
 
-**Gold Open Access**
+# Gold Open Access
 
 Si dice che una sede scientifica pubblica in *gold open access* quando i
 singoli contributi di ogni autore -- una volta editi -- sono liberamente
 e immediatamente disponibili online.
 
-## Sitografia {-}:
+## Sitografia {-}
 
 *\*Gold Open Access* (*s.v*.), in *Consiglio Nazionale delle Ricerche.
 Biblioteca d'Area di Bologna*,
@@ -1577,7 +1575,7 @@ Biblioteca d'Area di Bologna*,
 
 \[*Antonello Fabio Caterino*\]
 
-**Green Open Access**
+# Green Open Access
 
 Si parla di *green open access* quando l'autore contribuisce a
 diffondere il proprio contributo immettendolo in repository
@@ -1585,7 +1583,7 @@ diffondere il proprio contributo immettendolo in repository
 editori vietino espressamente questa pratica, e che dunque siano
 caricate online versioni pre-print o post-print.
 
-## Sitografia {-}: 
+## Sitografia {-}
 
 *\*Green Open Access* (*s.v*.), in *Consiglio Nazionale delle Ricerche.
 Biblioteca d'Area di Bologna*,
@@ -1593,7 +1591,7 @@ Biblioteca d'Area di Bologna*,
 
 \[*Antonello Fabio Caterino*\]
 
-**Hidden Web**
+# Hidden Web
 
 L'*Hidden Web* (o Invisible Web o Deep Web o Undernet) è l'insieme delle
 risorse informative del World Wide Web non indicizzate dai normali
@@ -2974,7 +2972,105 @@ consultabile dal sito: http://tlion.sns.it/.
 
 # Public History
 
-\[assegnata a Concetta Damiani\]
+La *Public History* si occupa di definire e organizzare scientificamente
+le attività di ricerca e comunicazione della storia anche in contesti
+esterni a quelli accademici, rivolgendosi ad un'utenza ampia e
+diversificata e prevedendone il coinvolgimento attivo.
+
+Nel nostro Paese la disciplina mutua la forma anglosassone di *Public
+History*, diffidando della traduzione letterale che potrebbe risultare
+riduttiva e fuorviante. Nell'accezione convivono la specifica volontà di
+far riferimento al vasto movimento internazionale nato sul finire degli
+anni settanta - negli Stati Uniti, che vantano la più antica tradizione
+disciplinare, è stato celebrato nel 2010 il trentesimo anniversario del
+*National Council on Public History* - e l'intento di sottolineare il
+taglio innovativo della proposta professionale che l\'Italia persegue
+praticando una storiografia attenta alla costruzione pubblica del
+passato, grazie anche all\'intensa attività di numerose istituzioni
+culturali - di natura pubblica e privata - orientate alla declinazione
+di strategie interdisciplinari di collaborazione e lavoro collettivo.
+
+«In Italia sono inoltre imprescindibili per la *Public History* sia la
+lezione degli storici orali -- con le riflessioni sul concetto di
+"autorità condivisa", sul valore delle memorie individuali e collettive
+e sui processi della loro costruzione -- sia quella della microstoria,
+che ha innovato profondamente la storiografia a partire dallo studio di
+circoscritte realtà territoriali. Infine, non si può dimenticare
+l'esperienza peculiare dell'Italia nella gestione e valorizzazione di un
+patrimonio storico, archivistico, artistico, architettonico,
+paesaggistico e archeologico unico nel mondo», come dichiara il
+*Manifesto della Public History italiana* (2018).
+
+L\'esordio ufficiale della *Public History* nel panorama universitario
+italiano è datato al settembre 2013, con un seminario dedicato
+nell'ambito dei "Cantieri di Storia" promossi dalla SISSCO presso
+l'Università di Salerno; nel giugno 2016 poi, presso la sede della
+Giunta Centrale per gli Studi Storici, ha avuto luogo la riunione
+costitutiva dell'*Associazione Italiana di Public History*, motore di
+numerose iniziative di studio, ricerca, interazione e comunicazione.
+
+La disciplina è volta a promuovere un rinnovato "senso pubblico" della
+storia - tramite una narrazione che risulti qualificata e rigorosa anche
+al di fuori dei circuiti accademici - e la sua pratica comporta pertanto
+una forte responsabilità civile e culturale nel trattare il tema
+conflittuale delle memorie. Il *public historian* deve quindi essere una
+figura in grado di affrontare platee di pubblico eterogeneo, interessato
+sia alla storia che alla memoria e curare una ricostruzione del
+"contesto" che diventa necessariamente sempre più interdisciplinare,
+attenta come dovrà essere ad avvenimenti, commemorazioni, musei,
+geografie urbane, ambienti, memorie e testimonianze, ovvero allo spettro
+tematico di una narrazione del passato che si fa storia nel presente,
+all'interno di comunità protagoniste di un evento. Tra i metodi usati
+dai *public historians* per la costruzione e la comunicazione pubblica
+del passato, un ruolo strategico va attribuito alla *Digital Public
+History*, che favorisce la valorizzazione di contenuti generati dagli
+utenti e pratiche di crowdsourcing. Il processo di
+internazionalizzazione della *Public History trova un punto di forza
+nello strutturarsi di pratiche 'glocali' favorite dal digitale.* I nuovi
+mondi digitali, infatti, hanno contribuito a moltiplicare i cosiddetti
+"creatori di storia", rendendo virtualmente qualunque individuo capace
+di contribuire alla raccolta, all'interpretazione e alla lettura di
+testimonianze relative al proprio passato; questo ha però rafforzato
+l'indispensabilità di un costante impegno "pubblico" di accademici e
+operatori che, partendo dal metodo scientifico di analisi delle fonti,
+siano in grado di ricalibrarlo opportunamente sulle novità che il mondo
+digitale ha introdotto nella pratica storica.
+
+## Bibliografia consultata {-}
+
+Noiret S., *La "Public History": una disciplina fantasma?,* in Noiret S.
+(a cura di), *Public History. Pratiche nazionali e identità globale*, in
+*Memoria e Ricerca, Rivista di storia contemporanea*, n. 37,
+maggio-agosto 2011, pp. 10-35
+
+Noiret S., *Storia pubblica digitale*, in *Zapruder*, n. 36,
+gennaio-aprile 2015, pp. 8-23
+
+## Bibliografia consigliata {-}
+
+Bertella Farnetti P. - Bertuccelli L. - Botti A. (a cura di), *Public
+History. Discussioni e pratiche*, Milano-Udine, Mimesis, 2017
+
+Noiret S. (a cura di), *Musei di storia e Public History,* in *Memoria e
+Ricerca, Rivista di storia contemporanea,* n. 1, gennaio-aprile 2017
+
+Ridolfi M., *Verso la Public History. Fare e raccontare storia nel tempo
+presente*, Pisa, Pacini, 2017
+
+## Sitografia {-}
+
+*Il manifesto della Public History Italiana*, in *AIPH* - *Associazione
+Italiana Public History*,
+\<[[https://aiph.hypotheses.org/3193]{.underline}](https://aiph.hypotheses.org/3193)\>
+
+Sini G. (a cura di), *Scienze umane, dalla produzione di nuova
+conoscenza alla disseminazione e ritorno*, in *RiMe. Rivista
+dell'Istituto di Storia dell'Europa Mediterranea*, 1/I n.s., dicembre
+2017, DOI:
+\<[[https://doi.org/10.7410/1287]{.underline}](https://doi.org/10.7410/1287)\>
+
+\[*Concetta Damiani*\]
+
 
 # Self-archiving
 
