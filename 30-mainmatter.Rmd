@@ -1060,7 +1060,7 @@ servizi (SaaS).
 Howell A., *Perfect One Day -- Digital The Next: Challenges in
 Preserving Digital Information*, in *Australian Academic & Research
 Libraries,* 31, 4, 2013, pp. 121-141
-<https://www.tandfonline.com/doi/pdf/10.1080/00048623.2000.10755130]](https://www.tandfonline.com/doi/pdf/10.1080/00048623.2000.10755130)>
+<https://www.tandfonline.com/doi/pdf/10.1080/00048623.2000.10755130>
 
 Ross H. D., *Preserving Digital Materials*, München, Rowman &
 Littlfield, 2005
@@ -1068,7 +1068,7 @@ Littlfield, 2005
 ## Sitografia {-}
 
 \**Digital Dark Ages* (*s.v*.), in *LisWiki*,
-<https://liswiki.org/wiki/Digital\_Dark\_Ages>
+<https://liswiki.org/wiki/Digital_Dark_Ages>
 
 *IFLA - International Federation of Library Associations and
 Institutions*,
