@@ -5,21 +5,21 @@
 
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>24 HTML | GLODIUM</title>
-  <meta name="description" content="24 HTML | GLODIUM">
+  <title>Colophon | GLODIUM</title>
+  <meta name="description" content="Colophon | GLODIUM">
   <meta name="generator" content="bookdown  and GitBook 2.6.7">
 
-  <meta property="og:title" content="24 HTML | GLODIUM" />
+  <meta property="og:title" content="Colophon | GLODIUM" />
   <meta property="og:type" content="book" />
   
   
-  <meta property="og:description" content="24 HTML | GLODIUM" />
+  <meta property="og:description" content="Colophon | GLODIUM" />
   <meta name="github-repo" content="https://github.com/glo-d-i-um/glo-d-i-um.github.io/" />
 
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="24 HTML | GLODIUM" />
+  <meta name="twitter:title" content="Colophon | GLODIUM" />
   
-  <meta name="twitter:description" content="24 HTML | GLODIUM" />
+  <meta name="twitter:description" content="Colophon | GLODIUM" />
   
 
 <meta name="author" content="Antonello Fabio Caterino">
@@ -36,8 +36,8 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black">
   
   
-<link rel="prev" href="hidden-web.html">
-<link rel="next" href="informatica-umanistica.html">
+<link rel="prev" href="xml.html">
+
 <script src="libs/jquery-2.2.3/jquery.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
@@ -226,6 +226,7 @@
 <li class="chapter" data-level="" data-path="xml.html"><a href="xml.html#bibliografia-consigliata-28"><i class="fa fa-check"></i>Bibliografia consigliata</a></li>
 <li class="chapter" data-level="" data-path="xml.html"><a href="xml.html#sitografia-35"><i class="fa fa-check"></i>Sitografia</a></li>
 </ul></li>
+<li class="chapter" data-level="" data-path="colophon.html"><a href="colophon.html"><i class="fa fa-check"></i>Colophon</a></li>
 </ul>
 
       </nav>
@@ -243,92 +244,36 @@
           <div class="page-inner">
 
             <section class="normal" id="section-">
-<div id="html" class="section level1">
-<h1><span class="header-section-number">24</span> HTML</h1>
-<p>(ingl. Acronimo per <em>HyperText Markup Language</em>)</p>
-<p>È un linguaggio di marcatura che descrive la struttura delle pagine web
-e definirne i collegamenti ipertestuali, utilizzando una serie di
-marcatori predefiniti e non modificabili; rappresenta, quindi, uno
-standard riconosciuto dal <em>World Wide Web Consortium</em> (W3C). Come SGML,
-suo progenitore, e XML, l’<em>HTML</em> attua una fondamentale distinzione tra
-il testo, ovvero il contenuto vero e proprio della pagina web, e i
-markup che rappresentano, invece, l’ossatura del documento che lo
-rendono ‘leggibile’ dai browser.</p>
-<p>Il linguaggio venne sviluppato da Tim Barners-Lee presso il CERN DI
-Ginevra (Svizzera) durante i primissimi anni ‘90 in concomitanza con il
-protocollo HTTP pensato per il trasferimento dei documenti codificati
-con tale formato. L’idea, però, risale al 1989, quando lo stesso Lee
-propose un progetto, denominato World Wide Web, che riguardava la
-pubblicazione di ipertesti in un ambiente condiviso: i risultati e
-l’applicazione di tale progetto furono utilizzati solamente all’interno
-del CERN fino al 1991; generalmente si tende a far risalire anche la
-nascita di Internet così come lo conosciamo a quella stessa data. Con
-questa ’liberalizzazione’ ebbe inizio una sorta di ‘guerra dei browser’
-durante la quale ogni browser esistente utilizzava la propria struttura
-basata su <em>HTML</em> il che, però, rendeva impossibile la corretta
-visualizzazione di una pagina web su un browser diverso da quello per in
-cui era stata creata. La questione venne definitivamente risolta nel
-1995 quando, un anno dopo la nascita del W3C, venne proposta la versione
-3.0 del linguaggio che divenne così uno standard. Nel 1999, con l’<em>HTML</em>
-4, venne introdotta una novità fondamentale, ovvero la possibilità di
-creare un foglio di stile, denominato CSS, che fosse esterno al
-documento <em>HTML</em>, in modo da rendere più snella la codifica alleggerendo
-di conseguenza il documento. L’ultima versione del linguaggio è la 5.0 e
-risale al 28 ottobre 2014: grazie ad essa ora il linguaggio può
-avvalersi senza problemi di controlli più sofisticati sulla resa grafica
-e interazioni dinamiche con l’utente, avvalendosi di altri linguaggi
-come il JavaScript, il JSON o altre applicazioni multimediali per
-l’animazione vettoriale o di streaming audio/video.</p>
-<p>Al livello strutturale un documento <em>HTML</em> ha bisogno di una
-dichiarazione iniziale in cui si specificano la versione del linguaggio
-utilizzata e la conseguente codifica caratteri (che è lo standard UTF-8)
-e l’uso necessario di determinato marcatori, come <em>&lt;html&gt; &lt;head&gt;</em> e
-<em>&lt;body&gt;</em>. A differenza del fratellastro XML, l’<em>HTML</em> non dà la
-possibilità di ampliare la gamma di marcatori utilizzabili, quindi la
-struttura di qualsiasi file <em>HTML</em> risulta grossomodo uguale:</p>
-<ol style="list-style-type: decimal">
-<li><p>Inizia con <em>&lt;html&gt;</em> e deve necessariamente chiudersi con
-<em>&lt;/html&gt;</em>;</p></li>
-<li><p>successivamente deve essere utilizzato il tag <em>&lt;head&gt;</em> nel quale
-vanno inserite informazioni scontate come il <em>&lt;title&gt;</em> o più
-complesse come quelle necessarie alla visualizzazione del contenuto,
-definite dal tag <em>&lt;style&gt;</em>.</p></li>
-<li><p>Chiuso l’<em>&lt;/head&gt;</em> viene aperto il <em>&lt;body&gt;</em>, che rappresenta il
-vero ‘corpo’ del documento in cui verrà inserito il testo, le
-immagini, i link con pagine esterne, eventuali video o animazioni
-con JavaScript.</p></li>
-<li><p>Il testo viene definito da marcatori prettamente tipografici come
-<em>&lt;p&gt;</em> per i vari paragrafi o <em>&lt;h1&gt; &lt;h2&gt; &lt;h3&gt;</em> per i vari
-livelli di titolazione. All’interno del testo, poi, sarò possibile
-inserire tags come <em>&lt;i&gt;</em> per il corsivo o <em>&lt;b&gt;</em> per il
-grassetto; notiamo subito come essi siano marcatori prettamente
-fisici, il che rappresenta una delle fondamentali differenze con
-l’XML, il quale, invece, si serve di marcatori logici. Ciò non
-toglie che anche nella sintassi <em>HTML</em> è possibile ritrovare
-marcatori logici come <em>&lt;em&gt;</em> (che evidenzia una porzione di testo
-più estesa del singolo rigo), ma è raro trovarli o utilizzarli.</p></li>
-</ol>
-<div id="bibliografia-consigliata-12" class="section level2 unnumbered">
-<h2>Bibliografia consigliata</h2>
-<p>Duckett J., <em>HTML e CSS. Progettare e costruire siti web. Con Contenuto
-digitale per download e accesso on line</em>, Milano, Apogeo, 2017</p>
-<p>Tissoni F., <em>Lineamenti di editoria multimediale</em>, Milano, Edizioni
-Unicolpi, 2009</p>
+<div id="colophon" class="section level1 unnumbered">
+<h1>Colophon</h1>
+
+<p>Finito di stampare nel mese di Aprile 2019.</p>
+
+<p>Questo lavoro è stato realizzato con LATEX su sistema GNU/Linux, utilizzando il carattere ``EB Garamond" corpo 11pt per il testo. La pagina è in formato B5 con margini da 24mm, a cui vanno aggiunti 10mm di spazio di rilegatura.</p>
+<p>I nomi commerciali, i loghi e i marchi registrati menzionati nel prodotto appartengono ai rispettivi proprietari e autori.</p>
+
 </div>
-<div id="sitografia-17" class="section level2 unnumbered">
-<h2>Sitografia</h2>
-<p>*<em>HTML</em> (<em>s.v</em>.), in <em>w3schools.com</em>,
-<a href="http://www.w3schools.com" class="uri">http://www.w3schools.com</a></p>
-<p><span class="math display">\[*Alessia~Marini*\]</span></p>
-</div>
-</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
             </section>
 
           </div>
         </div>
       </div>
-<a href="hidden-web.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
-<a href="informatica-umanistica.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+<a href="xml.html" class="navigation navigation-prev navigation-unique" aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+
     </div>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>
@@ -348,7 +293,7 @@ gitbook.start({
 "size": 2
 },
 "edit": {
-"link": "github.com/glo-d-i-um/glo-d-i-um.github.io/edit/master/30-mainmatter.Rmd",
+"link": "github.com/glo-d-i-um/glo-d-i-um.github.io/edit/master/50-colophon.Rmd",
 "text": "Edit"
 },
 "history": {

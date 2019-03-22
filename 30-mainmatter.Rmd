@@ -94,13 +94,13 @@ Valacchi F., *Diventare archivisti*, Milano, Editrice Bibliografica,
 ## Sitografia {-}
 
 \**Archivio* (*s.v*.), in *DGA. Direzione Generale Archivi*,
-<http://www.archivi.beniculturali.it/index.php/abc-degli-archivi/glossario>{.underline}
+<http://www.archivi.beniculturali.it/index.php/abc-degli-archivi/glossario>
 
 *\*Archivio* (*s*.*v*.), in *Lombardia Beni Culturali. Glossario*,
-<http://www.lombardiabeniculturali.it/archivi/glossario/>{.underline}
+<http://www.lombardiabeniculturali.it/archivi/glossario/>
 
 *ICA. International Council on Archives*,
-<https://www.ica.org/en>{.underline}
+<https://www.ica.org/en>
 
 \[*Concetta~Damiani*\]
 
@@ -382,7 +382,7 @@ infrastructure*, in *Library trends*, 51, 4, 2003, p. 652
 
 Borgman C. L., *What are digital libraries? Competing visions*, in
 *Pergamon. Information Processing and Managment*, 35, 1999, pp. 227-243,
-<https://pdfs.semanticscholar.org/d0e6/90b74b3b9513d9d1f97cf366e31a3920a4bf.pdf>{.underline}
+<https://pdfs.semanticscholar.org/d0e6/90b74b3b9513d9d1f97cf366e31a3920a4bf.pdf>
 
 Faba Pérez C., *Bibliotecas digitales: concepto y principales
 proyectos*, in *Investigación Bibliotecológica*, 13, 26, 1999, pp. 64-78
@@ -391,7 +391,7 @@ Marchionini G. - Fox E. A., *Progress towards digital libraries:
 augmentation through innovation*, in *Information processing and
 management*, 35, 3, 1999, pp. 219-225
 
-<https://ac.els-cdn.com/S0306457398000582/1-s2.0-S0306457398000582-main.pdf?_tid=25a411f0-fe0b-11e7-9e69-00000aacb35d&acdnat=1516471137_5866310621e56d197c1a9a06dce0917d>{.underline}
+<https://ac.els-cdn.com/S0306457398000582/1-s2.0-S0306457398000582-main.pdf?_tid=25a411f0-fe0b-11e7-9e69-00000aacb35d&acdnat=1516471137_5866310621e56d197c1a9a06dce0917d>
 
 Oppenheim C.-Smithson D., *What is the hybrid library?*, in *Journal of
 Information Science*, 25, 2, 1999, pp. 97-112
@@ -409,37 +409,37 @@ media*, Roma-Bari, Laterza, 2002
 Malinconico S. M., *Biblioteche digitali: prospettive e sviluppo*, in
 *Bollettino AIB. Rivista Italiana di biblioteconomia e scienze
 dell'informazione*, 38, 3, 1998
-<http://bollettino.aib.it/article/view/8394/7498>{.underline}
+<http://bollettino.aib.it/article/view/8394/7498>
 
 Salarelli, A. - Tammaro, A. M., *Biblioteca digitale*, Milano, Editrice
 Bibliografica, 2000
 
 Tammaro A. M., *Che cos'è una biblioteca digitale?*, in *Digitali Web.
 Rivista del Digitale nei Beni Culturali*, 1, 2005,
-<http://digitalia.sbn.it/article/view/325/215>{.underline}
+<http://digitalia.sbn.it/article/view/325/215>
 
 ## Sitografia {-}
 
 \**Biblioteca digitale* (*s.v.*), in *Treccani*,
-<http://www.treccani.it/enciclopedia/biblioteca-digitale_(Enciclopedia-Italiana)>]{.underline}
+<http://www.treccani.it/enciclopedia/biblioteca-digitale_(Enciclopedia-Italiana)>]
 
 \**Biblioteca virtuale* (*s.v.*), in *Treccani*,
-<http://www.treccani.it/enciclopedia/biblioteca-virtuale\_%28XXI-Secolo%29>]{.underline}
+<http://www.treccani.it/enciclopedia/biblioteca-virtuale\_%28XXI-Secolo%29>]
 
 *BNCF - Biblioteca Nazionale Centrale di Firenze*,
-<http://thes.bncf.firenze.sbn.it/termine.php?id=30683>{.underline}
+<http://thes.bncf.firenze.sbn.it/termine.php?id=30683>
 
 *DLF - Digital Library Federation*,
-<https://old.diglib.org/about/dldefinition.htm>{.underline}
+<https://old.diglib.org/about/dldefinition.htm>
 
 *DLF - Digital Library Federation*,
-<https://www.diglib.org/?s=definition+of+digital+librar>{.underline}
+<https://www.diglib.org/?s=definition+of+digital+librar>
 
 *ICCU*, *Studio di fattibilità per la realizzazione della Biblioteca
 Digitale*:
 <http://www.iccu.sbn.it/upload/documenti/BDI-SDF.pdf>
 (sezione prima);
-<http://www.iccu.sbn.it/upload/documenti/BDI-SDF-Prog.pdf>{.underline}
+<http://www.iccu.sbn.it/upload/documenti/BDI-SDF-Prog.pdf>
 (sezione seconda)
 
 \[*Giovanna~Battaglino*\]
@@ -577,13 +577,13 @@ di visualizzazione più avanzata da un punto di vista grafico.
 ## Sitografia {-}
 
 \**Browser* (*s*.*v*.), in *Tech Terms*,
-<https://techterms.com>{.underline}
+<https://techterms.com>
 
 *How Browsers Work: Behind the scenes of modern web browsers*,
-<https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/#The_browser_main_functionality>{.underline}
+<https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/#The_browser_main_functionality>
 
 \**Web Browser* (*s*.*v*.), in *Intro to ITC*,
-<http://openbookproject.net/courses/intro2ict/web/web\_browsers.html>{.underline}
+<http://openbookproject.net/courses/intro2ict/web/web\_browsers.html>
 
 \[*Antonio~Marson~Franchini*\]
 
@@ -663,14 +663,14 @@ Stella F., *Testi letterari e analisi digitale*, Roma, Carocci editore,
 ## Sitografia {-}
 
 \**Concordanza* (*s*.*v*.), in *Dizionario italiano Sabatini Coletti*,
-<http://dizionari.corriere.it/dizionario_italiano/C/concordanza.shtml>{.underline}
+<http://dizionari.corriere.it/dizionario_italiano/C/concordanza.shtml>
 
 \**Concordance* (*s.v*.), in *Wikipedia* (EN),
-<https://en.wikipedia.org/wiki/Concordance_(publishing)>{.underline}
+<https://en.wikipedia.org/wiki/Concordance_(publishing)>
 
 *The rise of the* *machines* in *Humanities*. *The Magazine of the
 National Endowment for the humanities*,
-<https://www.neh.gov/humanities/2013/julyaugust/feature/the-rise-the-machines>{.underline}
+<https://www.neh.gov/humanities/2013/julyaugust/feature/the-rise-the-machines>
 
 \[*Alessandra~Di~Meglio*\]
 
@@ -813,22 +813,22 @@ Chichester, Wiley-Blackwell, 2016, pp. 420-439
 ## Sitografia {-}
 
 \**Crowdsourcing* (*s.v*.), in *Wikipedia*,
-<https://it.wikipedia.org/wiki/Crowdsourcing>{.underline}
+<https://it.wikipedia.org/wiki/Crowdsourcing>
 
 Frost D. R., *Crowdsourcing, Undergraduates, and Digital Humanities
 Projects*,
-<https://rebeccafrostdavis.wordpress.com/2012/09/03/crowdsourcing-undergraduates-and-digital-humanities-projects/>{.underline}
+<https://rebeccafrostdavis.wordpress.com/2012/09/03/crowdsourcing-undergraduates-and-digital-humanities-projects/>
 
 Howe J., *The rise of crowdsourcing*,
-<https://www.wired.com/2006/06/crowds/>{.underline}
+<https://www.wired.com/2006/06/crowds/>
 
 Mazzini E.*, Il crowdsourcing tra necessità di coordinamento e perdita
 di controllo*/Capitolo 1 -- *Il Crowdsourcing*,
-<https://it.wikisource.org/wiki/Il_crowdsourcing_tra_necessità_di_coordinamento_e_perdita_di_controllo>{.underline}
+<https://it.wikisource.org/wiki/Il_crowdsourcing_tra_necessità_di_coordinamento_e_perdita_di_controllo>
 
 Pezzali M., *Crowdsourcing: quando la rete... trova la soluzione*, in
 *Il Sole 24 ore*,
-<https://www.ilsole24ore.com/art/SoleOnLine4/Economia%20e%20Lavoro/2009/02/crowdsourcing-rete-soluzione.shtml>{.underline}
+<https://www.ilsole24ore.com/art/SoleOnLine4/Economia%20e%20Lavoro/2009/02/crowdsourcing-rete-soluzione.shtml>
 
 Van Ess H., *Harvesting Knowledge. Success criteria and strategies for
 crowdsourcing*,
@@ -889,7 +889,7 @@ Unicolpi, 2009
 ## Sitografia {-}
 
 \**W3CSS* (*s.v*.), in *w3schools.com*,
-<http://www.w3schools.com/>{.underline}
+<http://www.w3schools.com/>
 
 \[*Alessia~Marini*\]
 
@@ -967,28 +967,28 @@ Telea A. C., *Data Visualization. Principles and Practice*, Boca Raton
 ## Sitografia {-}
 
 \**Data Visualization* (*s.v*.), in *Wikipedia*,
-<https://en.wikipedia.org/wiki/Data_visualization>{.underline}
+<https://en.wikipedia.org/wiki/Data_visualization>
 
 *Mapping the Republic of Letters,
-\<*[<http://republicofletters.stanford.edu/index.html>{.underline}
+<http://republicofletters.stanford.edu/index.html>
 
 Minguzzi G., *Data Visualization: quando i numeri raccontano le storie*,
-<https://www.merita.biz/data-visualization/>{.underline}
+<https://www.merita.biz/data-visualization/>
 
 Minto P., *Data Visualization, una storia/1*,
-<https://www.rivistastudio.com/data-visualization-una-storia/>{.underline}
+<https://www.rivistastudio.com/data-visualization-una-storia/>
 
 Minto P., *Data Visualization, una storia/2*,
-<https://www.rivistastudio.com/data-visualization-2/>{.underline}
+<https://www.rivistastudio.com/data-visualization-2/>
 
 *TACC* - *Texas Advanced Computing Center*,
-<https://www.tacc.utexas.edu/research-development/tacc-projects/a-thousand-words>{.underline}
+<https://www.tacc.utexas.edu/research-development/tacc-projects/a-thousand-words>
 
 Zambon M., *Glossario: Data Visualization*,
-<https://www.tagmanageritalia.it/glossario-data-visualization/#gref>{.underline}
+<https://www.tagmanageritalia.it/glossario-data-visualization/#gref>
 
 Zepel T., *Visualization as Digital Humanities?*,
-<https://www.hastac.org/blogs/tzepel/2013/05/02/visualization-digital-humanities>{.underline}
+<https://www.hastac.org/blogs/tzepel/2013/05/02/visualization-digital-humanities>
 
 \[*Alessandra~Di~Meglio*\]
 
@@ -1057,7 +1057,7 @@ servizi (SaaS).
 Howell A., *Perfect One Day -- Digital The Next: Challenges in
 Preserving Digital Information*, in *Australian Academic & Research
 Libraries,* 31, 4, 2013, pp. 121-141
-<https://www.tandfonline.com/doi/pdf/10.1080/00048623.2000.10755130]{.underline}](https://www.tandfonline.com/doi/pdf/10.1080/00048623.2000.10755130)>
+<https://www.tandfonline.com/doi/pdf/10.1080/00048623.2000.10755130]](https://www.tandfonline.com/doi/pdf/10.1080/00048623.2000.10755130)>
 
 Ross H. D., *Preserving Digital Materials*, München, Rowman &
 Littlfield, 2005
@@ -1169,19 +1169,19 @@ Digital Object Identifier system*, Switzerland, ISO, 2012
 ## Sitografia {-}
 
 \**DOI-Digital Object Identifier* (*s.v*.), in *Wikipedia*,
-<https://it.wikipedia.org/wiki/Digital_object_identifier>{.underline}
+<https://it.wikipedia.org/wiki/Digital_object_identifier>
 
 *DOI. Un código esencial para citas bibliográficas y búsquedas
 científicas,
-<http://infobib.blogspot.com/2009/04/doi-un-codigo-esencial-para-citas.html>{.underline}
+<http://infobib.blogspot.com/2009/04/doi-un-codigo-esencial-para-citas.html>
 
-*mEDRA*, <https://www.medra.org/it/DOI.htm>{.underline}
+*mEDRA*, <https://www.medra.org/it/DOI.htm>
 
 *mEDRA -- multilingual DOI Registration Agency*,
-<http://www.aie.it/Portals/_default/Skede/Allegati/Skeda105-1466-2007.5.2/Medra%20brochure%20applicazioni%20IT.pdf>{.underline}
+<http://www.aie.it/Portals/_default/Skede/Allegati/Skeda105-1466-2007.5.2/Medra%20brochure%20applicazioni%20IT.pdf>
 
 *Servizi SBA: Informazioni sul DOI*,
-<http://biblioteche.unige.it/node/255>{.underline}
+<http://biblioteche.unige.it/node/255>
 
 \[*Alessandra~Di~Meglio*\]
 
@@ -1355,10 +1355,10 @@ consultabile.
 <https://techterms.com>
 
 *RSS Advisory Board*,
-<http://www.rssboard.org/rss-specification#whatIsRss>{.underline}
+<http://www.rssboard.org/rss-specification#whatIsRss>
 
 *Rss20AndAtom10Compared*,
-<http://www.intertwingly.net/wiki/pie/Rss20AndAtom10Compared>{.underline}
+<http://www.intertwingly.net/wiki/pie/Rss20AndAtom10Compared>
 
 \[*Antonio~Marson~Franchini*\]
 
@@ -1467,7 +1467,7 @@ Informazione Bibliografica*, II, pp. 355-362,
 
 Mattioda E., *Alcune considerazioni su filologia e testi digitali*, in
 *Philologie et Politique*, 7, 2007, pp. 163-172,
-<http://journals.openedition.org/laboratoireitalien/143>{.underline}
+<http://journals.openedition.org/laboratoireitalien/143>
 
 Mordenti R., *Filologia digitale (a partire dal lavoro per l'edizione
 informatica dello Zibaldone Laurenziano di Boccaccio*, in *Humanist
@@ -1490,7 +1490,7 @@ papiro: un esempio*, in *Griselda online -- Portale di letteratura*
 <http://www.griseldaonline.it/informatica/edizione-digitale-di-fonti-primarie.html>
 
 \**Informatica umanistica* (*s.v*.), in *Treccani*,
-<http://www.treccani.it/enciclopedia/informatica-umanistica_(XXI-Secolo)>{.underline}
+<http://www.treccani.it/enciclopedia/informatica-umanistica_(XXI-Secolo)>
 
 Rosselli Del Turco R., *Filologia digitale: ragioni, problemi,
 prospettive di una disciplina*, III incontro di filologia digitale,
@@ -1567,7 +1567,7 @@ e immediatamente disponibili online.
 
 *\*Gold Open Access* (*s.v*.), in *Consiglio Nazionale delle Ricerche.
 Biblioteca d'Area di Bologna*,
-<http://biblioteca.bo.cnr.it/index.php/it/open-access/pubblicare-oa/item/272-gold-road>{.underline}
+<http://biblioteca.bo.cnr.it/index.php/it/open-access/pubblicare-oa/item/272-gold-road>
 
 \[*Antonello~Fabio~Caterino*\]
 
@@ -1583,7 +1583,7 @@ caricate online versioni pre-print o post-print.
 
 *\*Green Open Access* (*s.v*.), in *Consiglio Nazionale delle Ricerche.
 Biblioteca d'Area di Bologna*,
-<http://biblioteca.bo.cnr.it/index.php/it/open-access/pubblicare-oa/item/271-green-open-access>{.underline}
+<http://biblioteca.bo.cnr.it/index.php/it/open-access/pubblicare-oa/item/271-green-open-access>
 
 \[*Antonello~Fabio~Caterino*\]
 
@@ -1698,7 +1698,7 @@ Unlimited, 2012
 Wojtowicz P., *Darknet and deep web: il lato oscuro del web per la
 privacy e la protezione dati*, Tesi di Laurea, Università di Bologna,
 2013/2014,
-<https://amslaurea.unibo.it/8456/1/wojtowicz_patryk_tesi.pdf>{.underline}
+<https://amslaurea.unibo.it/8456/1/wojtowicz_patryk_tesi.pdf>
 
 ## Sitografia {-}
 
@@ -1706,16 +1706,16 @@ AaVv, *Below the Surface: exploring the Deep Web*, 2015,
 <https://documents.trendmicro.com/assets/wp/wp_below_the_surface.pdf>
 
 *Cybercrime in the Deep Web*,
-<https://www.blackhat.com/docs/eu-15/materials/eu-15-Balduzzi-Cybercrmine-In-The-Deep-Web-wp.pdf>{.underline}
+<https://www.blackhat.com/docs/eu-15/materials/eu-15-Balduzzi-Cybercrmine-In-The-Deep-Web-wp.pdf>
 
 *Motori di ricerca scientifici*,
-<https://www.unipa.it/biblioteche/Cerca-una-risorsa/Motori-di-ricerca-scientifici-/>{.underline}
+<https://www.unipa.it/biblioteche/Cerca-una-risorsa/Motori-di-ricerca-scientifici-/>
 
 *\*Web Sommerso* (*s.v*.), in *Wikipedia*,
 <https://it.wikipedia.org/wiki/Web_sommerso>
 
 *What is the Deep Web? A first trip into the abyss*,
-<http://www.aofs.org/wp-content/uploads/2013/04/130925-What-is-the-Deep-Web.pdf>{.underline}
+<http://www.aofs.org/wp-content/uploads/2013/04/130925-What-is-the-Deep-Web.pdf>
 
 \[*Alessandra~Di~Meglio*\]
 
@@ -1801,7 +1801,7 @@ Unicolpi, 2009
 ## Sitografia {-}
 
 \**HTML* (*s.v*.), in *w3schools.com*,
-\<[[http://www.w3schools.com/]{.underline}](http://www.w3schools.com/)\>
+<http://www.w3schools.com>
 
 \[*Alessia~Marini*\]
 
@@ -1911,23 +1911,23 @@ Buzzetti D., *Che cos'è, oggi, l'informatica umanistica? L'impatto della
 tecnologia*, in Ciotti F. - Crupi G. (a cura di), *Dall'Informatica
 umanistica alle culture digitali. Atti del convegno di studi (Roma,
 27-28 ottobre 2011) in memoria di Giuseppe Gigliozzi*,
-[[https://www.academia.edu/2305364/Che\_cos\_e\_oggi\_l\_informatica\_umanistica\_L\_impatto\_della\_tecnologia]{.underline}](https://www.academia.edu/2305364/Che_cos_e_oggi_l_informatica_umanistica_L_impatto_della_tecnologia)
+<https://www.academia.edu/2305364/Che_cos_e_oggi_l_informatica_umanistica_L_impatto_della_tecnologia>
 
 Catalani L., *Informatica Umanistica e Digital Humanities*,
-\<[[https://medium.com/\@luigicatalani/informatica-umanistica-e-digital-humanities-ff57c44d68be]{.underline}](https://medium.com/@luigicatalani/informatica-umanistica-e-digital-humanities-ff57c44d68be)\>
+<https://medium.com/@luigicatalani/informatica-umanistica-e-digital-humanities-ff57c44d68be>
 
 \**Informatica* (*s*.*v*.), in *Treccani*,
-\<http://www.treccani.it/enciclopedia/informatica/\>
+<http://www.treccani.it/enciclopedia/informatica/>
 
 \**Informatica* *umanistica* (*s*.*v*.), in *Wikipedia*,
-\<https://it.wikipedia.org/wiki/Informatica\_umanistica\>
+<https://it.wikipedia.org/wiki/Informatica_umanistica\>
 
 Monella P., *L'informatica umanistica tra istituzionalizzazione e
 strumentalismo*,
-[[http://www1.unipa.it/paolo.monella/lincei/files/where/strumenti\_v2.0.pdf]{.underline}](http://www1.unipa.it/paolo.monella/lincei/files/where/strumenti_v2.0.pdf)
+<http://www1.unipa.it/paolo.monella/lincei/files/where/strumenti_v2.0.pdf>
 
 \**Umanistico* (*s*.*v*.), in *Treccani*,
-[[http://www.treccani.it/vocabolario/umanistico/]{.underline}](http://www.treccani.it/vocabolario/umanistico/)
+<http://www.treccani.it/vocabolario/umanistico/>
 
 \[*Alessandra~Di~Meglio*\]
 
@@ -2134,22 +2134,22 @@ Cambridge (MA), Bradford Books, 1998
 ## Sitografia {-}
 
 \**Apprendimento Automatico* (*s*.*v*.), in *Wikipedia*,
-\<[[https://it.wikipedia.org/wiki/Apprendimento\_automatico]{.underline}](https://it.wikipedia.org/wiki/Apprendimento_automatico)\>
+<https://it.wikipedia.org/wiki/Apprendimento_automatico>
 
 Mitchell T.M., *Machine Learning*, Maidenhead 1997,
-\<[[https://www.cs.ubbcluj.ro/\~gabis/ml/ml-books/McGrawHill%20-%20Machine%20Learning%20-Tom%20Mitchell.pdf]{.underline}](https://www.cs.ubbcluj.ro/~gabis/ml/ml-books/McGrawHill%20-%20Machine%20Learning%20-Tom%20Mitchell.pdf)\>
+<https://www.cs.ubbcluj.ro/~gabis/ml/ml-books/McGrawHill%20-%20Machine%20Learning%20-Tom%20Mitchell.pdf>
 
 Nilsson N.J., *Introduction to Machine Learning. An early draft of a
 proposed textbook*, Stanford 1998
-\<[[https://ai.stanford.edu/\~nilsson/MLBOOK.pdf]{.underline}](https://ai.stanford.edu/~nilsson/MLBOOK.pdf)\>
+<https://ai.stanford.edu/~nilsson/MLBOOK.pdf>
 
 Shai S.S.-Shai B.D., *Understanding Machine Learning. From theory to
 algorithms*, USA 2014
-\<[[https://www.cs.huji.ac.il/\~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf]{.underline}](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)\>
+<https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf>
 
 Stefenelli M., *Apprendimento automatico nei giochi di strategia*, Tesi
 di Laurea, Università di Bologna Campus di Cesena, 2013/2014
-<https://amslaurea.unibo.it/7660/1/TESI_Marco_Stefenelli.pdf>{.underline}
+<https://amslaurea.unibo.it/7660/1/TESI_Marco_Stefenelli.pdf>
 
 \[*Alessandra~Di~Meglio*\]
 
@@ -2361,28 +2361,26 @@ Biblioteche, 2017
 ## Sitografia {-}
 
 *Data Dictionary for preservation Metadata*, 3, 2015,
-\<[[www.loc.gov/standards/premis/v3/premis-3-0-final.pdf](http://www.loc.gov/standards/premis/v3/premis-3-0-final.pdf)\>]{.underline}
+<http://www.loc.gov/standards/premis/v3/premis-3-0-final.pdf>
 
 *Linee guida per la digitalizzazione e metadati*, in *ICCU -- Istituto
 Centrale per il Catalogo Unico, delle Biblioteche italiane e per le
 informazioni bibliografiche*,
-**\<**[<http://www.iccu.sbn.it/opencms/opencms/it/main/standard/metadati>{.underline}
+<http://www.iccu.sbn.it/opencms/opencms/it/main/standard/metadati>
 
 *METS -- Metadata Encoding & Transmission Standard*,
-
-\<[[www.loc.gov/standards/mets/METSita.html]{.underline}](http://www.loc.gov/standards/mets/METSita.html)\>
+<http://www.loc.gov/standards/mets/METSita.html>
 
 Pierazzo E. (a cura di), *MAG -- Metadati Amministrativi e Gestionali.
 Manuale Utente*,
-
-<http://www.iccu.sbn.it/upload/documenti/Manuale.pdf>{.underline}
+<http://www.iccu.sbn.it/upload/documenti/Manuale.pdf>
 
 *Metadata Object Description Schema,*
-\<[[http://www.loc.gov/standards/mods/]{.underline}](http://www.loc.gov/standards/mods/)\>
+<http://www.loc.gov/standards/mods/>
 
 \**OAIS Reference Model*, in *Conservazione Digitale. Centro di
 eccellenza italiano sulla Conservazione Digitale*,
-<http://www.conservazionedigitale.org/wp/approfondimenti/depositi-di-conservazione/oais-reference-model>{.underline}
+<http://www.conservazionedigitale.org/wp/approfondimenti/depositi-di-conservazione/oais-reference-model>
 
 \[*Concetta~Damiani*\]
 
@@ -2456,77 +2454,77 @@ cultural data has been made available».
 Basile C. - Benedetto D. - Caglioti E. - Degli Esposti M., *An example
 of mathematical authorship attribution*, in *Journal of Mathematical
 Physics*, 49, 2008, pp. 2-20,
-\<[[https://www.researchgate.net/publication/228663468\_An\_example\_of\_mathematical\_authorship\_attribution]{.underline}](https://www.researchgate.net/publication/228663468_An_example_of_mathematical_authorship_attribution)\>
+<https://www.researchgate.net/publication/228663468_An_example_of_mathematical_authorship_attribution>
 
 Basile C. - Lana M., *L'attribuzione di testi con metodi quantitativi:
 riconoscimento di testi gramsciani*, in *AIDA Informazioni*, 1-2, 2008,
 pp. 165-183,
-\<[[https://www.academia.edu/6604207/Lattribuzione\_di\_testi\_con\_metodi\_quantitativi\_riconoscimento\_di\_testi\_gramsciani]{.underline}](https://www.academia.edu/6604207/Lattribuzione_di_testi_con_metodi_quantitativi_riconoscimento_di_testi_gramsciani)\>
+<https://www.academia.edu/6604207/Lattribuzione_di_testi_con_metodi_quantitativi_riconoscimento_di_testi_gramsciani>
 
 Battaglino G., *La tessitura matematica dei testi. Filologia e metodi
 matematico-statistici: l'auspicabile* σύγκρισις *tra metodi qualitativi
 e metodi quantitativi*, in *FRI -- Filologia Risorse Informatiche*
 (*Carnet de recherche and online journal -- Italian Digital
 Humanities*),
-\<[[https://fri.hypotheses.org/915]{.underline}](https://fri.hypotheses.org/915)\>
+<https://fri.hypotheses.org/915>
 
 Battaglino G., *Note minime sul* TLG*: brevi cenni sulle 'origini' del*
 TLG *e piccolo* vademecum, in *FRI -- Filologia Risorse Informatiche*
 (*Carnet de recherche and online journal -- Italian Digital
 Humanities*),
-\<[[https://fri.hypotheses.org/1391]{.underline}](https://fri.hypotheses.org/1391)\>
+<https://fri.hypotheses.org/1391>
 
 Boschetti F., *Copisti digitali e filologi computazionali*, Roma, CNR
 Edizioni, 2018,
-\<[[http://eprints.bice.rm.cnr.it/17545/1/bookBoschetti2018.pdf]{.underline}](http://eprints.bice.rm.cnr.it/17545/1/bookBoschetti2018.pdf)\>
+<http://eprints.bice.rm.cnr.it/17545/1/bookBoschetti2018.pdf>
 
 Caterino A.F., *Note minime su* Google Books, in *FRI -- Filologia
 Risorse Informatiche* (*Carnet de recherche and online journal --
 Italian Digital Humanities*),
-\<[[https://fri.hypotheses.org/128]{.underline}](https://fri.hypotheses.org/128)\>
+<https://fri.hypotheses.org/128>
 
 Gorman V. B. - Gorman R. J., *Approaching Questions of the Text Reuse in
 Ancient Greek using Computational Syntactic Stylometry*, in *Open
 Linguistic*, 2, 2016, pp. 500-510,
-\<[[https://www.degruyter.com/downloadpdf/j/opli.2016.2.issue-1/opli-2016-0026/opli-2016-0026.pdf]{.underline}](https://www.degruyter.com/downloadpdf/j/opli.2016.2.issue-1/opli-2016-0026/opli-2016-0026.pdf)\>
+<https://www.degruyter.com/downloadpdf/j/opli.2016.2.issue-1/opli-2016-0026/opli-2016-0026.pdf>
 
 Knight G. P. - Tabrizi N., *Using n-Grams to Identify Time Periods of
 Cultural Influence*, in *Journal on Computing and Cultural Heritage*, 9,
 3, 2016, art. n. 15, pp. 1-19,
-\<[[https://dl.acm.org/citation.cfm?id=2940332]{.underline}](https://dl.acm.org/citation.cfm?id=2940332)\>
+<https://dl.acm.org/citation.cfm?id=2940332>
 
 Tamburini F., *La linguistica computazionale: un crogiolo di esperienze
 multidisciplinari*, in *GRISELDAONLINE*, 2008, pp. 1-11,
-\<[[http://www.griseldaonline.it/informatica/la-linguistica-computazionale-tamburini.html]{.underline}](http://www.griseldaonline.it/informatica/la-linguistica-computazionale-tamburini.html)\>
+<http://www.griseldaonline.it/informatica/la-linguistica-computazionale-tamburini.html>
 
 ## Sitografia {-}
 
 \**Google Ngram Viewer* (*s.v.*), in *Wikipedia* (EN),
-\<[[https://en.wikipedia.org/wiki/Google\_Ngram\_Viewer]{.underline}](https://en.wikipedia.org/wiki/Google_Ngram_Viewer)\>
+<https://en.wikipedia.org/wiki/Google_Ngram_Viewer>
 
 \**Intertestualità* (*s.v.*), in *Treccani*,
-\<[[http://www.treccani.it/vocabolario/intertestualita/]{.underline}](http://www.treccani.it/vocabolario/intertestualita/)\>
+<http://www.treccani.it/vocabolario/intertestualita>
 
 \* *N-gram* (*s.v*.), in *Wikipedia* (EN),
-\<[[https://en.wikipedia.org/wiki/N-gram]{.underline}](https://en.wikipedia.org/wiki/N-gram)\>
+<https://en.wikipedia.org/wiki/N-gram>
 
 \**N-gramma* (*s.v.*), in *Wikipedia,*
-\<[[https://it.wikipedia.org/wiki/N-gramma]{.underline}](https://it.wikipedia.org/wiki/N-gramma)\>
+<https://it.wikipedia.org/wiki/N-gramma>
 
 \**Stop words* (*s.v.*), in *Wikipedia* (EN),
-\<[[https://en.wikipedia.org/wiki/Stop\_words]{.underline}](https://en.wikipedia.org/wiki/Stop_words)\>
+<https://en.wikipedia.org/wiki/Stop_words>
 
 \**TLG* (*sub-corpus* del) in *open access*: *Canon of Greek Authors and
 Works (Abridged TLG*),
-\<[[http://stephanus.tlg.uci.edu/Iris/canon/csearch.jsp]{.underline}](http://stephanus.tlg.uci.edu/Iris/canon/csearch.jsp)\>
+<http://stephanus.tlg.uci.edu/Iris/canon/csearch.jsp>
 
 \**TLG* (ultima versione digitale del *TLG: Thesaurus Linguae Graeciae.
 Digital Library*. Ed. Maria C. Pantelia. University of California,
 Irvine), \<
-[[http://stephanus.tlg.uci.edu/]{.underline}](http://stephanus.tlg.uci.edu/)\>
+<http://stephanus.tlg.uci.edu/>
 
 \**Thesaurus Linguae Graeciae* (*s.v.*), in *Wikipedia*,
-\<[[https://en.wikipedia.org/wiki/Thesaurus\_Linguae\_Graecae]{.underline}](https://en.wikipedia.org/wiki/Thesaurus_Linguae_Graecae)\>
+<https://en.wikipedia.org/wiki/Thesaurus_Linguae_Graecae>
 
 \[*Giovanna~Battaglino*\]
 
@@ -2592,12 +2590,11 @@ evoluzione*, in *DigItalia*. *Rivista del digitale nel beni culturali*,
 ## Sitografia {-}
 
 \**Digital Wrapper*, in *CDL -- California Digital Library's Glossary*,
-\<[[http://www.cdlib.org/gateways/technology/glossary.html?field=glossary&action=search&query=oac\#d]{.underline}](http://www.cdlib.org/gateways/technology/glossary.html?field=glossary&action=search&query=oac#d)\>
+<http://www.cdlib.org/gateways/technology/glossary.html?field=glossary&action=search&query=oac#d>
 
 Pierazzo E. (a cura di), *MAG -- Metadati Amministrativi e Gestionali.
 Manuale Utente*,
-
-<http://www.iccu.sbn.it/upload/documenti/Manuale.pdf>{.underline}
+<http://www.iccu.sbn.it/upload/documenti/Manuale.pdf>
 
 \[*Antonio~Marson~Franchini*\]
 
@@ -2661,11 +2658,11 @@ Si distinguono varie tipologie di *OPAC*:
     sono in grado di interrogare più *OPAC* mediante una sola richiesta,
     e di restituire i risultati dei diversi *OPAC* coperti. Un esempio
     italiano di metaopac è il MAI (*Metaopac Azalai Italiano*),
-    [[http://www.aib.it/progetti/opac-italiani/mai-ricerca-globale/]{.underline}](http://www.aib.it/progetti/opac-italiani/mai-ricerca-globale/).
+    [[http://www.aib.it/progetti/opac-italiani/mai-ricerca-globale/]](http://www.aib.it/progetti/opac-italiani/mai-ricerca-globale/).
 
 Per facilitare la ricerca alcune pagine Web raccolgono link di *OPAC*,
 sia italiani che stranieri (ad esempio il *Gateway to Library Catalogs*:
-[[https://www.loc.gov/z3950/gateway.html]{.underline}](https://www.loc.gov/z3950/gateway.html)),
+(<https://www.loc.gov/z3950/gateway.html>),
 nei quali sono contenuti un gran numero di cataloghi. Tra questi vi è
 l'italiano *OPAC SBN* (*Servizio Bibliotecario Nazionale*), ossia una
 rete di biblioteche italiane promossa dal MiBAC, dalle Regioni e dalle
@@ -2712,23 +2709,23 @@ Science Reference, 2012
 ## Sitografia {-}
 
 *AIB Web*, *Il Web dell'Associazione Italiana Biblioteche*: *MAI*,
-<http://www.aib.it/progetti/opac-italiani/mai-ricerca-globale/>{.underline}
+<http://www.aib.it/progetti/opac-italiani/mai-ricerca-globale/>
 
 *Gateway to Library Catalogs*,
-<https://www.loc.gov/z3950/gateway.html>{.underline}
+<https://www.loc.gov/z3950/gateway.html>
 
 Gnoli Claudio, *Opac in Italia: una panoramica delle tipologie e delle
 modalità di consultazione*,
-[[http://www.aib.it/aib/sezioni/emr/bibtime/num-ii-1/gnoli.htm\#nota1]{.underline}](http://www.aib.it/aib/sezioni/emr/bibtime/num-ii-1/gnoli.htm#nota1)
+<http://www.aib.it/aib/sezioni/emr/bibtime/num-ii-1/gnoli.htm#nota1>
 
 \**OPAC* (*s.v*.), in *Wikipedia*,
-<https://it.wikipedia.org/wiki/OPAC>{.underline}
+<https://it.wikipedia.org/wiki/OPAC>
 
 *OPAC SBN*, *Catalogo del Servizio Bibliotecario Nazionale*,
-<https://opac.sbn.it/opacsbn/opac/iccu/informazioni.jsp>{.underline}
+<https://opac.sbn.it/opacsbn/opac/iccu/informazioni.jsp>
 
 \**Telnet* (*s.v*.), in *Wikipedia*,
-<https://it.wikipedia.org/wiki/Telnet>{.underline}
+<https://it.wikipedia.org/wiki/Telnet>
 
 \[*Alessandra~Di~Meglio*\]
 
@@ -2783,11 +2780,14 @@ nell\'età del web*, Firenze, Firenze University Press, 2009
 
 Suber P., *Breve introduzione all\'accesso aperto*, traduzione italiana
 di Susanna Mornati, 2004,
-\<[[http://www.iss.it/binary/bibl/cont/Suber.1110468892.pdf]{.underline}](http://www.iss.it/binary/bibl/cont/Suber.1110468892.pdf)\>
+<http://www.iss.it/binary/bibl/cont/Suber.1110468892.pdf>
 
  
 
 \[*Concetta~Damiani*\]
+
+
+
 
 # Paratesto
 
@@ -2914,10 +2914,10 @@ Luigi Rosiello*, Bologna, Zanichelli, 1995
 ## Sitografia {-}
 
 \**Paratesto* (*s.v*.), in *Garzanti Linguistica*,
-<http://www.garzantilinguistica.it/ricerca/?q=paratesto>{.underline}
+<http://www.garzantilinguistica.it/ricerca/?q=paratesto>
 
 \**Paratesto* (*s.v*.), in *Treccani*,
-\<[[http://www.treccani.it/vocabolario/paratesto/]{.underline}](http://www.treccani.it/vocabolario/paratesto/)\>
+<http://www.treccani.it/vocabolario/paratesto>
 
 \[*Cristiano Rocchio*\]
 
@@ -3053,13 +3053,13 @@ presente*, Pisa, Pacini, 2017
 
 *Il manifesto della Public History Italiana*, in *AIPH* - *Associazione
 Italiana Public History*,
-\<[[https://aiph.hypotheses.org/3193]{.underline}](https://aiph.hypotheses.org/3193)\>
+<https://aiph.hypotheses.org/3193>
 
 Sini G. (a cura di), *Scienze umane, dalla produzione di nuova
 conoscenza alla disseminazione e ritorno*, in *RiMe. Rivista
 dell'Istituto di Storia dell'Europa Mediterranea*, 1/I n.s., dicembre
 2017, DOI:
-\<[[https://doi.org/10.7410/1287]{.underline}](https://doi.org/10.7410/1287)\>
+<https://doi.org/10.7410/1287>
 
 \[*Concetta~Damiani*\]
 
@@ -3161,9 +3161,9 @@ preliminare, potendo le case editrici imporre particolari condizioni a
 loro discrezione.
 
 I ricercatori usano diversi Academic social networks, come ResearchGate
-([[https://www.researchgate.net/about]{.underline}](https://www.researchgate.net/about))
+(<https://www.researchgate.net/about>)
 e Academia.edu
-([[https://www.academia.edu/about]{.underline}](https://www.academia.edu/about)),
+(<https://www.academia.edu/about>),
 principalmente utilizzati per condividere documenti, monitorare il loro
 impatto e seguire i progressi della ricerca, selezionando un'area di
 interesse ed esplorando i profili di utenti con interessi affini.
@@ -3193,45 +3193,44 @@ ClioPress, 2007
 
 Antelman K., *Self-archiving practice and the influence of publisher
 policies in the social sciences*,
-\<[[https://repository.lib.ncsu.edu/bitstream/handle/1840.2/83/antelman\_self-archiving.pdf?sequence=1&isAllowed=y]{.underline}](https://repository.lib.ncsu.edu/bitstream/handle/1840.2/83/antelman_self-archiving.pdf?sequence=1&isAllowed=y)\>
+<https://repository.lib.ncsu.edu/bitstream/handle/1840.2/83/antelman_self-archiving.pdf>
 
 \**Autoarchiviazione* (*s.v*.), in *Wikipedia*
-\<[[https://it.wikipedia.org/wiki/Autoarchiviazione]{.underline}](https://it.wikipedia.org/wiki/Autoarchiviazione)\>
+<https://it.wikipedia.org/wiki/Autoarchiviazione>
 
 Brody T. *et* *al*., *The effect of Open Access on citation impact*,
-\<[[http://opcit.eprints.org/feb19oa/brody-impact.pdf]{.underline}](http://opcit.eprints.org/feb19oa/brody-impact.pdf)\>
+<http://opcit.eprints.org/feb19oa/brody-impact.pdf>
 
 De Robbio A., *Auto-archiviazione per la ricerca: problemi aperti e
 sviluppi futuri*,
-\<[[file:///C:/Users/Utente/Downloads/Auto-archiviazione\_per\_la\_ricerca\_problemi\_aperti\_.pdf]{.underline}](file:///C:/Users/Utente/Downloads/Auto-archiviazione_per_la_ricerca_problemi_aperti_.pdf)\>
+<http://eprints.rclis.org/4096/>
 
 Eberechukwu Eze M. - Chukwuma Okeji C. - Ejiobi Bosah G.,
 *Self-Archiving options on social networks: a review of options*,
-[[file:///C:/Users/Utente/Downloads/Self-archivingonsocialmedia.pdf]{.underline}](file:///C:/Users/Utente/Downloads/Self-archivingonsocialmedia.pdf)
+<https://www.researchgate.net/publication/328771143_Self-archiving_options_on_social_networks_a_review_of_options>
 
 Gadd E. A. -- Troll Covey D., *What does "green" open access mean?
 Tracking twelve years of changes to journal publisher self-archiving
-policies*,
-\<[[https://dspace.lboro.ac.uk/dspace-jspui/bitstream/2134/21555/5/Article%20-%20What%20does%20green%20mean%20v6%20Submitted%20%20reformatted%20for%20IR.pdf]{.underline}](https://dspace.lboro.ac.uk/dspace-jspui/bitstream/2134/21555/5/Article%20-%20What%20does%20green%20mean%20v6%20Submitted%20%20reformatted%20for%20IR.pdf)\>
+policies*,<https://dspace.lboro.ac.uk/dspace-jspui/bitstream/2134/21555/5/Article%20-%20What%20does%20green%20mean%20v6%20Submitted%20%20reformatted%20for%20IR.pdf>
 
 Harnad S., *Self-Archive Unto Others as Ye Would Have them Self-Archive
 Unto You,*
-\<[[https://jcom.sissa.it/sites/default/files/documents/jcom0203%282003%29F03.pdf]{.underline}](https://jcom.sissa.it/sites/default/files/documents/jcom0203%282003%29F03.pdf)\>
+<https://jcom.sissa.it/sites/default/files/documents/jcom0203%282003%29F03.pdf>
 
 Jenkins C. *et* *al*., *RoMEO Studies 8: Self-archiving -- when Yellow
 and Blue make Green: the logic behind the colour-coding in the Copyright
 Knowledge Bank*,
-\<[[https://www.researchgate.net/publication/28693015\_RoMEO\_Studies\_8\_Self-archiving\_The\_logic\_behind\_the\_colour-coding\_used\_in\_the\_Copyright\_Knowledge\_Bank]{.underline}](https://www.researchgate.net/publication/28693015_RoMEO_Studies_8_Self-archiving_The_logic_behind_the_colour-coding_used_in_the_Copyright_Knowledge_Bank)\>
+<https://www.researchgate.net/publication/28693015_RoMEO_Studies_8_Self-archiving_The_logic_behind_the_colour-coding_used_in_the_Copyright_Knowledge_Bank>
 
 Mallikarjun D. - Bulu M., *Driving on the Green Road: Self -- Archiving
 Research for Open Access in India*,
-\<[[https://www.questia.com/library/journal/1G1-331807690/driving-on-the-green-road-self-archiving-research]{.underline}](https://www.questia.com/library/journal/1G1-331807690/driving-on-the-green-road-self-archiving-research)\>
+<https://www.questia.com/library/journal/1G1-331807690/driving-on-the-green-road-self-archiving-research>
 
 \**Self-Archiving* (*s.v*.), in *Wikipedia*
-\<[[https://en.wikipedia.org/wiki/Self-archiving]{.underline}](https://en.wikipedia.org/wiki/Self-archiving)\>
+<https://en.wikipedia.org/wiki/Self-archiving>
 
 Swan A. - Brown S., *Open access self-archiving: an author study*,
-\<[[https://eprints.soton.ac.uk/260999/1/jisc2.pdf]{.underline}](https://eprints.soton.ac.uk/260999/1/jisc2.pdf)\>
+<https://eprints.soton.ac.uk/260999/1/jisc2.pdf>
 
 \[*Alessandra~Di~Meglio*\]
 
@@ -3317,9 +3316,9 @@ Goldfarb C.F., *Design Considerations For Integrated Text Processing
 System*, in *IBM Cambridge*
 
 *Scientific Center -- Technical Report* *No. 320-2094*, 1973,
-\<[[http://www.sgmlsource.com/history/G320-2094/G320-2094.html]{.underline}](http://www.sgmlsource.com/history/G320-2094/G320-2094.html)\>
+<http://www.sgmlsource.com/history/G320-2094/G320-2094.html>
 
-*SGML Web Page*, <http://www.sil.org/sgml/sgml.html>{.underline}
+*SGML Web Page*, <http://www.sil.org/sgml/sgml.html>
 
 \[*Alessia~Marini*\]
 
@@ -3380,29 +3379,28 @@ progetti di DH necessari a facilitare la ricerca.
 ## Bibliografia consigliata {-}
 
 Isone L., *Strategie SEO per l'E-COMMERCE*, Milano, Hoepli, 2017,
-\<[[https://books.google.it/books?id=XjskDwAAQBAJ&pg=PT99&lpg=PT99&dq=tassonomia+orizzontale+e+verticale&source=bl&ots=9GuQqPRwYg&sig=ACfU3U0S6WNix0VGaq70l1yl21x0jk0RVQ&hl=it&sa=X&ved=2ahUKEwjm3v24r5LgAhWGM-wKHUtdDJkQ6AEwCHoECAQQAQ\#v=onepage&q=tassonomia%20orizzontale%20e%20verticale&f=false](https://books.google.it/books?id=XjskDwAAQBAJ&pg=PT99&lpg=PT99&dq=tassonomia+orizzontale+e+verticale&source=bl&ots=9GuQqPRwYg&sig=ACfU3U0S6WNix0VGaq70l1yl21x0jk0RVQ&hl=it&sa=X&ved=2ahUKEwjm3v24r5LgAhWGM-wKHUtdDJkQ6AEwCHoECAQQAQ#v=onepage&q=tassonomia orizzontale e verticale&f=false)\>]{.underline}
 
 ## Sitografia {-}
 
 AaVv, *Dall'informatica umanistica alle culture digitali. In memoria di
 Giuseppe Gigliozzi*,
-<file:///C:/Users/Utente/Downloads/DallInformatica_umanistica_alle_culture.pdf>{.underline}
+<http://www.editricesapienza.it/node/7688>
 
 Minini A., *Le tassonomie verticali e orizzontali*,
-<http://www.andreaminini.com/seo/la-tassonomia-del-sito-web-nella-seo>{.underline}
+<http://www.andreaminini.com/seo/la-tassonomia-del-sito-web-nella-seo>
 
 Ruecker S., *A brief taxonomy of prototypes for the Digital Humanities*,
-\<[[file:///C:/Users/Utente/Downloads/222-Article%20Text-2065-2-10-20151015.pdf](file:///C:\Users\Utente\Downloads\222-Article%20Text-2065-2-10-20151015.pdf)\>]{.underline}
+<https://src-online.ca/index.php/src/article/view/222/415>
 
 \**Tassonomia* (*s.v*.), in *Treccani* *Enciclopedia*,
-\<[[http://www.treccani.it/enciclopedia/tassonomia/]{.underline}](http://www.treccani.it/enciclopedia/tassonomia/)\>
+<http://www.treccani.it/enciclopedia/tassonomia>
 
 \**Tassonomia* (*s.v*.), in *Wikipedia*,
-<https://it.wikipedia.org/wiki/Tassonomia>{.underline}
+<https://it.wikipedia.org/wiki/Tassonomia>
 
 Wahl Z. - Busch J., *Il valore della tassonomia nella ricerca delle
 informazioni*,
-<http://www.datamanager.it/rivista/searching/il-valore-della-tassonomia-nella-ricerca-delle-informazioni/999/>{.underline}
+<http://www.datamanager.it/rivista/searching/il-valore-della-tassonomia-nella-ricerca-delle-informazioni/999/>
 
 \[*Alessandra~Di~Meglio*\]
 
@@ -3574,10 +3572,10 @@ l'argomento del testo.
 
 Burnard L. - Sperberg-McQueen C. M*., TEI Lite: an intorduction to Text
 Encodign for Interchange*, 1995 (revisited May 2002),
-\<[[https://www.tei-c.org/Vault/P4/Lite/teiu5\_en.pdf]{.underline}](https://www.tei-c.org/Vault/P4/Lite/teiu5_en.pdf)\>
+<https://www.tei-c.org/Vault/P4/Lite/teiu5_en.pdf>
 
 *TEI: Guidelines,* in *Text Encoding Initiative*,
-\<[[http://www.tei-c.org/Guidelines/]{.underline}](http://www.tei-c.org/Guidelines/)\>
+<http://www.tei-c.org/Guidelines>
 
 \[*Alessia~Marini*\]
 
@@ -3662,17 +3660,17 @@ Publishing, 2006
 Broughton, V., *The need for a faceted classification as the basis of
 all methods of information retrieval*, in *Aslib Proceedings: New
 Information Perspectives*, 58, 1/2, 2006, pp. 49-72,
-\<[[https://www.researchgate.net/publication/32895215\_The\_need\_for\_a\_FC\_as\_the\_basis\_of\_all\_methods\_of\_Information\_retrieval]{.underline}](https://www.researchgate.net/publication/32895215_The_need_for_a_FC_as_the_basis_of_all_methods_of_Information_retrieval)\>
+<https://www.researchgate.net/publication/32895215_The_need_for_a_FC_as_the_basis_of_all_methods_of_Information_retrieval>
 
 Davies R., *Publishing thesauri on the World Wide Web*, in *Proceedings
 of the 7th ASIS SIG/CR Classification Research Workshop* (1996), pp.
 37-48,
-\<[[http://journals.lib.washington.edu/index.php/acro/article/view/12688/11192]{.underline}](http://journals.lib.washington.edu/index.php/acro/article/view/12688/11192)\>
+<http://journals.lib.washington.edu/index.php/acro/article/view/12688/11192>
 
 Feldvari K., *Thesauri usage in Information Retrieval Systems: Example
 of LISTA and ERIC Database Thesaurus*, in *INFuture 2009-Digital
 Resources and Knowledge Sharing*, 2009, pp. 279-288
-\<[[https://infoz.ffzg.hr/infuture/2009/papers/4-09%20Feldvari,%20Thesauri%20usage%20in%20information%20retrieval%20systems.pdf]{.underline}](https://infoz.ffzg.hr/infuture/2009/papers/4-09%20Feldvari,%20Thesauri%20usage%20in%20information%20retrieval%20systems.pdf)\>
+<https://infoz.ffzg.hr/infuture/2009/papers/4-09%20Feldvari,%20Thesauri%20usage%20in%20information%20retrieval%20systems.pdf>
 
 International Organization for Standardization, information and
 documentation, *Thesauri and interoperability with other vocabularies.
@@ -3685,38 +3683,38 @@ Part 2: interoperability with other vocabularies*, Geneva, ISO, 2013
 Mochón Bezares G. - Sorli Rojo A., *Thesauros en acceso abierto en
 Internet. Un análisis cuantitativo*, in *Revista Española de
 Documentación Cientifica*, 33, 4, 2010, pp. 643-663,
-\<[[http://redc.revistas.csic.es/index.php/redc/article/view/675/750]{.underline}](http://redc.revistas.csic.es/index.php/redc/article/view/675/750)\>
+<http://redc.revistas.csic.es/index.php/redc/article/view/675/750>
 
 Ryan C., *Thesauri Construction Guidelines: An Introduction to thesauri
 and guidelines on their construction*, Dublin 2014,
-\<[[http://apps.dri.ie/motif/docs/guidelines.pdf]{.underline}](http://apps.dri.ie/motif/docs/guidelines.pdf)\>
+<http://apps.dri.ie/motif/docs/guidelines.pdf>
 
 Shiri A. A. - Revie C., Thesauri *on the web: current developments and
 trends*, in *Online Information Review* 24, 4, 2000, pp. 273-279,
-\<[[https://strathprints.strath.ac.uk/1896/1/strathprints001896.pdf]{.underline}](https://strathprints.strath.ac.uk/1896/1/strathprints001896.pdf)\>
+<https://strathprints.strath.ac.uk/1896/1/strathprints001896.pdf>
 
 ## Sitografia {-}
 
 \**Quick Guide to publishing a Thesaurus on the Semantic Web*,
-\<[[https://www.w3.org/TR/2005/WD-swbp-thesaurus-pubguide-20050517/]{.underline}](https://www.w3.org/TR/2005/WD-swbp-thesaurus-pubguide-20050517/)\>
+<https://www.w3.org/TR/2005/WD-swbp-thesaurus-pubguide-20050517/>
 
 \* *Thesaurus* (*s. v.*)*,* in *Treccani*,
-\<[[http://www.treccani.it/enciclopedia/thesaurus/]{.underline}](http://www.treccani.it/enciclopedia/thesaurus/)\>
+<http://www.treccani.it/enciclopedia/thesaurus/>
 
 \* *Thesaurus* *interrogabili* (*s. v.*)*,* in *Treccani*,
-\<[[http://www.treccani.it/vocabolario/thesaurus/]{.underline}](http://www.treccani.it/vocabolario/thesaurus/)\>
+<http://www.treccani.it/vocabolario/thesaurus/>
 
 \**Thesaurus Linguae Grecae* (online),
-\<[[http://stephanus.tlg.uci.edu/]{.underline}](http://stephanus.tlg.uci.edu/)\>
+<http://stephanus.tlg.uci.edu/>
 
 \**Thesaurus Linguae Latinae* (online),
-\<[[https://www.degruyter.com/view/db/tll]{.underline}](https://www.degruyter.com/view/db/tll)\>
+<https://www.degruyter.com/view/db/tll>
 
 \**Thesaurus Linguae Latinae Epigraphicae* (online, scaricabile), I,
-\<[[https://archive.org/details/ThesaurusLinguaeLatinaeEpigraphicae]{.underline}](https://archive.org/details/ThesaurusLinguaeLatinaeEpigraphicae)\>
+<https://archive.org/details/ThesaurusLinguaeLatinaeEpigraphicae>
 
 \**Thesaurus Musicarum Latinarum* (online),
-\<[[http://boethius.music.indiana.edu/tml/]{.underline}](http://boethius.music.indiana.edu/tml/)\>
+<http://boethius.music.indiana.edu/tml/>
 
 \[*Giovanna~Battaglino*\]
 
@@ -3798,7 +3796,7 @@ nell\'età del web*, Firenze, Firenze University Press, 2009
 ## Sitografia {-}
 
 *\*Web semantico* (*s.v*.), in *Treccani* - *Lessico del XXI secolo*,
-\<[[http://www.treccani.it/enciclopedia/web-semantico\_%28Lessico-del-XXI-Secolo%29/]{.underline}](http://www.treccani.it/enciclopedia/web-semantico_%28Lessico-del-XXI-Secolo%29/)\>
+<http://www.treccani.it/enciclopedia/web-semantico_%28Lessico-del-XXI-Secolo%29/>
 
 \[*Concetta~Damiani*\]
 
@@ -3857,7 +3855,7 @@ Unicopli, 2009
 ## Sitografia {-}
 
 \**Learn W3C* (*s.v*.), in *w3schools.com*,
-<http://www.w3schools.com/>{.underline}
+<http://www.w3schools.com/>
 
 \[*Alessia~Marini*\]
 
@@ -3938,9 +3936,9 @@ Unicopli, 2009
 ## Sitografia {-}
 
 Sorato A., *Linguaggi per la rete: XML*,
-<http://www.dsi.unive.it/~asorato/SlideXML/DTD.pdf>{.underline}
+<http://www.dsi.unive.it/~asorato/SlideXML/DTD.pdf>
 
 \**Learn W3C* (*s.v*.), in *w3schools.com*,
-<http://www.w3schools.com/>{.underline}
+<http://www.w3schools.com/>
 
 \[*Alessia~Marini*\]

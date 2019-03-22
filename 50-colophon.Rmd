@@ -1,0 +1,30 @@
+\newpage
+\thispagestyle{empty}
+
+\vspace*{\fill}
+\centering{\Large{*}}
+
+\centering{\Large{*~~~*}}
+
+\centering{\Large{*}}
+
+
+\vfill
+\pagebreak
+
+\thispagestyle{empty}
+
+\vspace*{\fill}
+
+
+
+Finito di stampare nel mese di Aprile 2019.
+
+\vspace{2em}
+
+Questo  lavoro  è  stato  realizzato  con  LaTeX su sistema GNU/Linux, utilizzando il carattere \`\`EB Garamond\" corpo 12pt per il testo. La pagina è in formato B5 con margini da 24mm, a cui vanno aggiunti 10mm di spazio di rilegatura.
+
+\vspace{2em}
+
+
+I nomi commerciali,  i loghi e i marchi registrati menzionati nel prodotto appartengono  ai  rispettivi  proprietari e autori.
