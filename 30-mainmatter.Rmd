@@ -102,12 +102,11 @@ Valacchi F., *Diventare archivisti*, Milano, Editrice Bibliografica,
 *ICA. International Council on Archives*,
 <https://www.ica.org/en>{.underline}
 
-\[*Concetta Damiani*\]
+\[*Concetta~Damiani*\]
 
 # ASCII
 
-(ingl. Acronimo per *American Standard Code for Information
-Interchange*)
+(*American Standard Code for Information Interchange*)
 
 È il primo standard, sviluppato nel 1968, che è ancora oggi l'unica
 pagina di caratteri che viene interpretata e trasmessa univocamente su
@@ -115,13 +114,11 @@ qualsiasi sistema informatico. Il suo funzionamento è pressoché
 semplice, *ASCII* codifica ogni carattere in codice binario in modo da
 permettere al computer di comprendere ed immagazzinare quelle
 informazioni.
-
 Alla sua nascita si basava su un sistema a 7 bit, ciò vuol dire che era
 in grado di codificare 27=128 caratteri: da 0 a 32 e il 127 non sono
 stampabili, in quanto rappresentano dei caratteri di controllo che
 permettono di compiere alcune azioni, come l'andare a capo; da 65 a 90
 rappresentano le maiuscole; da 97 a 122 sono le minuscole. 
-
 Nonostante la sua effettiva utilità *ASCII* si rivelò insufficiente per
 la circolazione di informazioni in un ambiente condiviso più ampio del
 sistema nazionale statunitense. Si cercò, quindi, di creare un sistema
@@ -129,7 +126,6 @@ di codifica, chiamato '*ASCII* esteso', a 8 bit in modo da ampliare la
 gamma di caratteri codificabili (28=256). Nemmeno l'aggiunta di un bit
 nella codifica riuscì a risolvere i problemi causati da un sistema di
 scambio dell'informazione sempre più complesso.
-
 Per questi motivi, nel 1991, venne sviluppato un nuovo sistema di
 codifica chiamato Unicode, il cui sistema non è esente da difetti, ma
 resta comunque lo standard universale con cui bisogna fare i conti nel
@@ -828,7 +824,7 @@ Howe J., *The rise of crowdsourcing*,
 
 Mazzini E.*, Il crowdsourcing tra necessità di coordinamento e perdita
 di controllo*/Capitolo 1 -- *Il Crowdsourcing*,
-<https://it.wikisource.org/wiki/Il\_crowdsourcing\_tra\_necessit%C3%A0\_di\_coordinamento\_e\_perdita\_di\_controllo/Capitolo\_1\_%E2%80%93\_Il\_Crowdsourcing>{.underline}
+<https://it.wikisource.org/wiki/Il_crowdsourcing_tra_necessità_di_coordinamento_e_perdita_di_controllo>{.underline}
 
 Pezzali M., *Crowdsourcing: quando la rete... trova la soluzione*, in
 *Il Sole 24 ore*,
@@ -927,7 +923,7 @@ Visualization* attualmente in vigore è il *Mapping the Republic of
 Letters*, che utilizza rappresentazioni grafiche per aiutare gli
 studiosi ad analizzare oltre 55.000 lettere e documenti archiviati
 digitalmente nel proprio database
-(<http://republicofletters.stanford.edu/index.html>).
+(<http://republicofletters.stanford.edu/>).
 
 Tra i principali tool delle *Data Visualization* si annoverano:
 
@@ -1298,10 +1294,10 @@ Standard for Archival Finding Aids*, in *The American Archivist*, 60, 3,
 ## Sitografia {-}
 
 *EAD - Encoded Archival Description* (official site),
-\<[[http://www.loc.gov/ead/index.html]{.underline}](http://www.loc.gov/ead/index.html)\>
+<http://www.loc.gov/ead/index.html>
 
 *ICAR - Istituto Centrale per gli Archivi*,
-\<[[http://www.icar.beniculturali.it/index.php?id=52]{.underline}](http://www.icar.beniculturali.it/index.php?id=52)\>
+<http://www.icar.beniculturali.it/index.php?id=52>
 
 \[*Concetta Damiani*\]
 
@@ -1356,7 +1352,7 @@ consultabile.
 ## Sitografia {-}
 
 \**RSS* (*s.v*.), in *Tech Terms*,
-\<[[https://techterms.com](https://techterms.com/)\>]{.underline}
+<https://techterms.com>
 
 *RSS Advisory Board*,
 <http://www.rssboard.org/rss-specification#whatIsRss>{.underline}
@@ -1435,7 +1431,7 @@ visualizzazione e nel confronto dei testi, ma soprattutto supera l'idea
 del testo definitivo: non solo il filologo non sceglie un testo più
 importante, ma modifica il suo lavoro grazie ai linguaggi di codifica e
 ai codici di mark up*.* Il testo che il filologo dovrà preparare
-\[\...\] non è soltanto un testo univoco, ma un ipotesto che può
+[...] non è soltanto un testo univoco, ma un ipotesto che può
 contenere in sé varie trascrizioni».
 
 Infine, non bisogna credere che l'approccio filologico digitale annulli
@@ -1467,7 +1463,7 @@ Boringhieri, 2003
 Fiormonte D., *Note sul problema della filologia digitale*, in *Parole
 online. Quale editoria e filologia nell'era digitale? -- Nuova
 Informazione Bibliografica*, II, pp. 355-362,
-\<[[https://infolet.it/files/2009/04/per\_rcicala4.pdf]{.underline}](https://infolet.it/files/2009/04/per_rcicala4.pdf)\>
+<https://infolet.it/files/2009/04/per\_rcicala4.pdf>
 
 Mattioda E., *Alcune considerazioni su filologia e testi digitali*, in
 *Philologie et Politique*, 7, 2007, pp. 163-172,
@@ -1476,7 +1472,7 @@ Mattioda E., *Alcune considerazioni su filologia e testi digitali*, in
 Mordenti R., *Filologia digitale (a partire dal lavoro per l'edizione
 informatica dello Zibaldone Laurenziano di Boccaccio*, in *Humanist
 Studies & the Digital Age*, 2, 1, 2012, pp. 37-56
-\<[[http://journals.oregondigital.org/hsda/article/download/2991/2676]{.underline}](http://journals.oregondigital.org/hsda/article/download/2991/2676)\>
+<http://journals.oregondigital.org/hsda/article/download/2991/2676>
 
 Spinazzè L., *Filologia digitale. Dalla ricerca alla didattica.
 L'informatica umanistica al servizio delle scienze dell'antichità*,
@@ -1486,27 +1482,27 @@ Trento, Tangram Edizioni Scientifiche, 2015
 
 Andrews T. L., *The third way: philology and critical edition in the
 digital Age*,
-\<[[https://boris.unibe.ch/43071/1/variants\_postprint.pdf]{.underline}](https://boris.unibe.ch/43071/1/variants_postprint.pdf)\> 
+<https://boris.unibe.ch/43071/1/variants\_postprint.pdf> 
 
 Giacomelli I., *Edizione digitale di fonti primarie. Elegie tirtaiche su
 papiro: un esempio*, in *Griselda online -- Portale di letteratura*
 (2012),
-\<[[http://www.griseldaonline.it/informatica/edizione-digitale-di-fonti-primarie.html]{.underline}](http://www.griseldaonline.it/informatica/edizione-digitale-di-fonti-primarie.html)\>
+<http://www.griseldaonline.it/informatica/edizione-digitale-di-fonti-primarie.html>
 
 \**Informatica umanistica* (*s.v*.), in *Treccani*,
-\<[[http://www.treccani.it/enciclopedia/informatica-umanistica\_%28XXI-Secolo%29/](http://www.treccani.it/enciclopedia/informatica-umanistica_(XXI-Secolo)/)\>]{.underline}
+<http://www.treccani.it/enciclopedia/informatica-umanistica_(XXI-Secolo)>{.underline}
 
 Rosselli Del Turco R., *Filologia digitale: ragioni, problemi,
 prospettive di una disciplina*, III incontro di filologia digitale,
 Verona 3-5 marzo 2010,
-\<[[http://www.dfll.univr.it/documenti/Iniziativa/dall/dall639204.pdf]{.underline}](http://www.dfll.univr.it/documenti/Iniziativa/dall/dall639204.pdf)\>
+<http://www.dfll.univr.it/documenti/Iniziativa/dall/dall639204.pdf>
 
 Rosselli Del Turco R., *L'edizione scientifica digitale: strumenti e
 progetti*, Verona 20-21 aprile 2017,
-\<[[http://filologiadigitale-verona.it/wp-content/uploads/2017/04/Introduzione-alla-Filologia-Digitale-1.pdf]{.underline}](http://filologiadigitale-verona.it/wp-content/uploads/2017/04/Introduzione-alla-Filologia-Digitale-1.pdf)\>
+<http://filologiadigitale-verona.it/wp-content/uploads/2017/04/Introduzione-alla-Filologia-Digitale-1.pdf>
 
 Tomasi F., *Le nuove frontiere della filologia*, in *Argo*, 2, 2018
-\<[[http://www.argonline.it/argo/argo-n-2/argo-n-2-\_-francesca-tomasi-nuove-frontiere-filologia/]{.underline}](http://www.argonline.it/argo/argo-n-2/argo-n-2-_-francesca-tomasi-nuove-frontiere-filologia/)\>
+<http://www.argonline.it/argo/argo-n-2/argo-n-2-\_-francesca-tomasi-nuove-frontiere-filologia>
 
 \[*Giovanna Battaglino*\]
 
@@ -1557,7 +1553,7 @@ comprensibile all'uomo e quindi relativamente di facile utilizzo.
 ## Sitografia {-}
 
 Poste J. - Reynolds J., *FILE TRANSFERT PROTOCOL (FTP)*,
-\<[[http://www.rfc.altervista.org/rfctradotte/rfc959\_tradotta.txt]{.underline}](http://www.rfc.altervista.org/rfctradotte/rfc959_tradotta.txt)\>
+<http://www.rfc.altervista.org/rfctradotte/rfc959\_tradotta.txt>
 
 \[*Alessia Marini*\]
 
@@ -1694,7 +1690,7 @@ Apogeo, 2012
 Sui D.- Caverlee J.- Rudesill D., *The deep web and the darknet: a look
 inside the internet's massive black box*, Washington, Wilson Center,
 2015,
-\<[[https://www.wilsoncenter.org/sites/default/files/stip\_dark\_web.pdf]{.underline}](https://www.wilsoncenter.org/sites/default/files/stip_dark_web.pdf)\>
+<https://www.wilsoncenter.org/sites/default/files/stip\_dark\_web.pdf>
 
 Scheeren W. O., *The hidden web. A sourcebook*, Santa Barbara, Libraries
 Unlimited, 2012
@@ -1707,7 +1703,7 @@ privacy e la protezione dati*, Tesi di Laurea, Università di Bologna,
 ## Sitografia {-}
 
 AaVv, *Below the Surface: exploring the Deep Web*, 2015,
-\<[[https://documents.trendmicro.com/assets/wp/wp\_below\_the\_surface.pdf]{.underline}](https://documents.trendmicro.com/assets/wp/wp_below_the_surface.pdf)\>
+<https://documents.trendmicro.com/assets/wp/wp_below_the_surface.pdf>
 
 *Cybercrime in the Deep Web*,
 <https://www.blackhat.com/docs/eu-15/materials/eu-15-Balduzzi-Cybercrmine-In-The-Deep-Web-wp.pdf>{.underline}
@@ -1716,7 +1712,7 @@ AaVv, *Below the Surface: exploring the Deep Web*, 2015,
 <https://www.unipa.it/biblioteche/Cerca-una-risorsa/Motori-di-ricerca-scientifici-/>{.underline}
 
 *\*Web Sommerso* (*s.v*.), in *Wikipedia*,
-\<[[https://it.wikipedia.org/wiki/Web\_sommerso]{.underline}](https://it.wikipedia.org/wiki/Web_sommerso)\>
+<https://it.wikipedia.org/wiki/Web_sommerso>
 
 *What is the Deep Web? A first trip into the abyss*,
 <http://www.aofs.org/wp-content/uploads/2013/04/130925-What-is-the-Deep-Web.pdf>{.underline}
@@ -1938,7 +1934,7 @@ strumentalismo*,
 # Interfaccia utente (UI)
 
 In termini generali si tratta di un termine generale per ogni sistema,
-fisico o digitale che permette all'utente l'accesso ad una data
+fisico o digitale, che permette all'utente l'accesso ad una data
 tecnologia. È quindi il punto di contatto tra l'uomo e il programma del
 computer. Ogni *interfaccia utente* (UI) è unica e legata alla funzione
 che deve svolgere ma tutte hanno in comune certi elementi di base. Una
@@ -1969,10 +1965,10 @@ desktop, finestre e menù.
 ## Sitografia {-}
 
 \**User Interface* (*s.v*.), in *Tech* *Terms*,
-\<[[https://techterms.com](https://techterms.com/)\>]{.underline}
+<https://techterms.com>
 
 \**User Interface* (*s.v*.), in *webopedia*,
-\<[[https://www.webopedia.com/TERM/U/user\_interface.html]{.underline}](https://www.webopedia.com/TERM/U/user_interface.html)\>
+<https://www.webopedia.com/TERM/U/user\_interface.html>
 
 \[*Antonio Marson Franchini*\]
 
@@ -1990,7 +1986,7 @@ algoritmi man mano che riceve informazioni. Il primo a coniare il
 termine *Machine Learning* fu un noto scienziato americano e pioniere
 dell'IA, Arthur Lee Samuel, nel 1959, anche se la definizione oggi più
 accreditata è quella di Tom Michael Mitchell, direttore del
-'Dipartimento Machine Learning' della Carnegie Mellon University, il
+Dipartimento Machine Learning della Carnegie Mellon University, il
 quale ha affermato che: «si dice che un programma apprende
 dall'esperienza E rispetto ad una certa classe di compiti T e ad una
 misura della performance P, se la sua performance nell'eseguire i
@@ -2012,7 +2008,7 @@ macchina costruisce da sola le regole -- previa introduzione di esempi
 ricavato.
 
 Caratteristica comune ai vari algoritmi di apprendimento automatico è la
-presenza di dati in input, detti 'Training Pattern', che inducono alla
+presenza di dati in input, detti \`\`Training Pattern\", che inducono alla
 generazione di output, o Istanze dell'esperienza. A seconda
 dell'algoritmo utilizzato -- ossia a seconda delle modalità con cui la
 macchina impara ed accumula dati e informazioni -- si distinguono
@@ -2167,7 +2163,6 @@ tradurre con linguaggio di 'marcatura' o di 'codifica'. Permette di
 descrivere la struttura, composizione, impaginazione del testo (o di
 qualsiasi altro file di contenuto) attraverso comandi visibili (sequenze
 di caratteri ASCII) immessi nel file di testo.
-
 Se ne possono distinguere due tipi: 'procedurali' (basati su un
 linguaggio specifico) e 'dichiarativi' (basati su un linguaggio
 generico). Il primo consiste in un insieme di istruzioni operative che
@@ -2184,7 +2179,6 @@ discorso all'interno del file di testo ma solo i linguaggi di tipo
 tipografiche. Questo sistema di marcatori viene sempre utilizzato in una
 forma gerarchizzata che dall'elemento più grande da definire giunge fino
 al più piccolo.
-
 I linguaggi di *markup* sono lo strumento standard per lo sviluppo di
 oggetti digitali. Il capostipite di questi linguaggi è SGML (*Standard
 Generalized Markup Language*) creato nel 1986 da Charles Goldfarb e
@@ -2958,9 +2952,7 @@ confronto alle precedenti.
 Nelle DH, *PHP* è uno dei linguaggi più comuni per la creazione di
 interfacce per database di vario tipo. (vd. Database)
 
-Esempio:
-
-Tlion -- *Tradizione della Letteratura Italiana Online*:
+Esempio: Tlion -- *Tradizione della Letteratura Italiana Online*:
 
 Il Tlion -- assieme ad altri DB che ne condividono l'impianto -- è
 sviluppato in *PHP* e MySql su server Apache. Si tratta di una banca
@@ -3253,7 +3245,7 @@ suo lavoro per la IBM sotto la supervisione di Steve Furth, e ne definì
 i presupposti teorici: «This analysis of the markup process suggest that
 it should be possible to design a generalized markup language so that
 markup would be useful for more than one application or computer system.
-\[...\] This could be done, for example, with mnemonic "tags". The
+[...] This could be done, for example, with mnemonic \`\`tags\". The
 designation of a component as being of a particular type would mean only
 that it will be processed identically to other components of that type».
 

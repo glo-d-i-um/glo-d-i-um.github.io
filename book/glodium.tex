@@ -4,10 +4,10 @@
 \documentclass[
   b5paper,
   twoside,
-  11pt,
+  12pt,
   chapterprefix=false,
   bibliography=totocnumbered,
-  parskip=0]{scrbook}
+  parskip=false]{scrbook}
 \usepackage{lmodern}
 \usepackage{amssymb,amsmath}
 \usepackage{ifxetex,ifluatex}
@@ -41,7 +41,7 @@
 \IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
 \hypersetup{
   pdftitle={GLODIUM},
-  pdfauthor={Antonello Fabio Caterino, Marcello Bolpagni, Marco Petolicchio},
+  pdfauthor={Antonello Fabio Caterino; Marcello Bolpagni; Marco Petolicchio; Alessandra Di Meglio; Vincenzo Vozza},
   pdfborder={0 0 0},
   breaklinks=true}
 \urlstyle{same}  % don't use monospace font for urls
@@ -91,7 +91,7 @@
 
 
 \setmainfont[Numbers=Lowercase]{EB Garamond}
-\setsansfont[Numbers=Lowercase]{PT Sans}
+\setsansfont[Numbers=Lowercase]{EB Garamond}
 \setmonofont[Numbers=Lowercase]{IBMPlexMono}
 
 
@@ -102,8 +102,8 @@
 %\usepackage[usenames, dvipsnames]{color}
 \usepackage{xcolor}
 
-\definecolor{upol-dGrey}{rgb}{0.36470588235,0.36862745098,0.37647058823}
-\definecolor{upol-lGrey}{rgb}{0.8,0.8,0.8}
+\definecolor{upol-dGrey}{rgb}{0.2,0.2,0.2}
+\definecolor{upol-lGrey}{rgb}{0.95,0.95,0.95}
 \definecolor{upol-brandBlue}{rgb}{0,0.43529411764,0.67843137254}
 
 
@@ -113,7 +113,7 @@
 \usepackage{textcase}
 
 
-\usepackage{setspace}
+%\usepackage[onehalfspacing]{setspace}
 
 \makeatletter\let\Title\@title\makeatother
 %\makeatletter\let\Author\@author\makeatother
@@ -243,7 +243,7 @@
   }}
 % For the case \chapter*:
 \renewcommand*{\@makeschapterhead}[1]{%
-  \vspace*{10\p@}%
+  \vspace*{0\p@}%
   {\parindent \z@ \raggedright
     \normalfont
     \interlinepenalty\@M
@@ -295,7 +295,7 @@
 
 
 \makeatletter
-\newcommand\HUGE{\@setfontsize\Huge{36}{48}} 
+\newcommand\HUGE{\@setfontsize\Huge{42}{56}} 
 \makeatother
 
 \usepackage{tikz}
@@ -336,7 +336,7 @@
 }
 \makeatother
 \subtitle{Glossario di Informatica Umanistica}
-\author{Antonello Fabio Caterino, Marcello Bolpagni, Marco Petolicchio}
+\author{Antonello Fabio Caterino \and Marcello Bolpagni \and Marco Petolicchio \and Alessandra Di Meglio \and Vincenzo Vozza}
 \date{2019-03-22}
 
 \begin{document}
@@ -369,10 +369,17 @@
 \end{flushleft}
 
 \noindent
-{\large{\sffamily\MakeTextUppercase{\@author}}\par} 
-\vspace{4em}
+%{\large{\sffamily\MakeTextUppercase{\@author}}\par} 
+%$if(author)$
+%  \author{$for(author)$$author$$sep$ \\ $endfor$}
+%$endif$
 
-\vspace{3em}
+%\author{$for(author){\large{\sffamily\MakeTextUppercase{\@author}}\par} $endfor$}
+
+\vspace{4em}
+\noindent{\large{\textbf{A cura di}\\ \\ Antonello Fabio Caterino \\ Marcello Bolpagni \\ Marco Petolicchio \\ Alessandra Di Meglio \\ Vincenzo Vozza\par}}
+
+\vfill
 
  {\footnotesize   \ttfamily{draft : : \today   : :  \currenttime} \par}
 
@@ -400,19 +407,15 @@ Pagina di copyright
 }
 
 \mainmatter
-\hypertarget{prefazione}{%
-\chapter*{Prefazione}\label{prefazione}}
-\addcontentsline{toc}{chapter}{Prefazione}
-
-\markboth{GLODIUM}{Prefazione}
-
 \hypertarget{glodium-glossario-di-informatica-umanistica.-cui-prodest}{%
-\section*{GLODIUM -- Glossario di Informatica Umanistica. Cui prodest?}\label{glodium-glossario-di-informatica-umanistica.-cui-prodest}}
-\addcontentsline{toc}{section}{GLODIUM -- Glossario di Informatica Umanistica. Cui prodest?}
+\chapter*{GLODIUM -- Glossario di Informatica Umanistica. Cui prodest?}\label{glodium-glossario-di-informatica-umanistica.-cui-prodest}}
+\addcontentsline{toc}{chapter}{GLODIUM -- Glossario di Informatica Umanistica. Cui prodest?}
+
+\markboth{GLODIUM -- Glossario di Informatica Umanistica. Cui prodest?}{Antonello Fabio Caterino}
 
 \hypertarget{le-grandi-quantita-di-dati-fanno-paura-a-molte-discipline-informatica-economia-matematica-statistica-filosofia.-perche-non-dovrebbero-terrorizzare-anche-noi-umanisti}{%
-\subsection*{Le grandi quantità di dati fanno paura a molte discipline: informatica, economia, matematica, statistica, filosofia. Perché non dovrebbero terrorizzare anche noi umanisti?}\label{le-grandi-quantita-di-dati-fanno-paura-a-molte-discipline-informatica-economia-matematica-statistica-filosofia.-perche-non-dovrebbero-terrorizzare-anche-noi-umanisti}}
-\addcontentsline{toc}{subsection}{Le grandi quantità di dati fanno paura a molte discipline: informatica, economia, matematica, statistica, filosofia. Perché non dovrebbero terrorizzare anche noi umanisti?}
+\section*{Le grandi quantità di dati fanno paura a molte discipline: informatica, economia, matematica, statistica, filosofia. Perché non dovrebbero terrorizzare anche noi umanisti?}\label{le-grandi-quantita-di-dati-fanno-paura-a-molte-discipline-informatica-economia-matematica-statistica-filosofia.-perche-non-dovrebbero-terrorizzare-anche-noi-umanisti}}
+\addcontentsline{toc}{section}{Le grandi quantità di dati fanno paura a molte discipline: informatica, economia, matematica, statistica, filosofia. Perché non dovrebbero terrorizzare anche noi umanisti?}
 
 Ci avviciniamo con cautela a un futuro pieno di informazioni
 immediatamente disponibili, lasciandoci sempre più alle spalle un
@@ -503,7 +506,7 @@ GLODIUM nasce come strumento online\footnote{GLODIUM -- Glossario di informatica
   Antonello Fabio Caterino e Marco Petolicchio. ISBN 9788832173086. Al
   momento, il progetto è ospitato all'interno del \emph{carnet de
   recherche} \emph{Filologia Risorse Informatiche},
-  \href{https://fri.hypotheses.org/}{https://fri.hypotheses.org}.} e come tale è stato inserito
+  \url{https://fri.hypotheses.org}.} e come tale è stato inserito
 dall'EADH tra i progetti più significativi degli ultimi cinque anni\footnote{Si rimanda al sito
   \url{https://eadh.org/projects/glodium-glossario-di-informatica-umanistica}.}
 -- in europa -- nel campo delle \emph{digital humanities}. L'intento della
@@ -515,6 +518,21 @@ cui è possibile imbattersi, e per cui occorre una definizione chiara e
 lineare, senza eccessivi rimandi o appesantimenti.
 
 \[*Antonello Fabio Caterino*\]
+
+\hypertarget{esiste-unumanistica-non-digitale}{%
+\chapter*{Esiste un'umanistica non digitale?}\label{esiste-unumanistica-non-digitale}}
+\addcontentsline{toc}{chapter}{Esiste un'umanistica non digitale?}
+
+\markboth{Esiste un'umanistica non digitale?}{Marco Petolicchio}
+
+Appare a molti, e in maniera trasparente, quanto l'utilizzo degli strumenti informatici stia contribuendo ad un ripensamento sostanziale delle forme tipiche del lavoro umanistico. Lo testimonia il crescente numero di convegni, riviste, progetti internazionali, studi interdisciplinari, corsi di laurea, vòlti a domandarsi il senso e la funzione di questa figura emergente all'interno degli studi umanistici in senso lato: quella dell'umanista digitale.
+Appare nondimeno evidente il ruolo cardinale dei mezzi informatici nella designazione degli spazi tipici d'interesse e di lavoro di uno studioso di materie umanistiche. Una dissezione operata nella frammentazione di un \emph{continuo} quale l'oggetto-libro, da atomo inscindibile nelle sue parti costituenti alla piena dissezione, quasi uno smantellamento minuzioso della topografia di quelle che erano le forme tipiche di fruizione della conoscenza.
+Così, nozioni che fino a qualche decennio fa potevano apparire come un campo esclusivo delle ``scienze dure" rientrano oggi nello spazio esplorabile dalla curiosità dell'umanista, laddove la ricerca del \emph{dato} diviene una misura analitica della quantità di \emph{informazione} di un elemento di studio, aprendo la via ad un'investigazione ad ampio spettro del testo letterario, non più univocamente legato al proprio contenuto referenziale bensì interfaccia esso stesso di una complessa relazione di elementi interni ed esterni, che configura una rete di conoscenza complessa, dalla geometria sfuggevole e seducente\footnote{Sull'idea di ``granularità" e ``frammentazione" si può fare riferimento al recente Roncaglia, G., \emph{L'età della frammentazione. Cultura del libro e scuola digitale}, Roma-Bari, Laterza, 2018}.
+Slegata l'informazione dal suo \emph{integumentum} essa può essere manipolata, analizzata, comparata nelle sue più piccole componenti in un continuo gioco di scomposizione, tale da rendere possibile la formazione di nuove e fino ad ora impensabili analogie tra i dati, che si offrono allo studioso in una dimensione agnostica, nuda, pronta ad accogliere le sue curiosità.
+
+Ma non solamente il modo di approcciare un testo ha conosciuto questo epocale cambio di paradigma. Non solo dunque gli strumenti, quanto il tipo stesso dell'oggetto dell'indagine di studio conosce uno slittamento orizzontale delle sue definizioni.
+
+\[*Marco Petolicchio*\]
 
 \hypertarget{archivio}{%
 \chapter{Archivio}\label{archivio}}
@@ -627,13 +645,12 @@ Valacchi F., \emph{Diventare archivisti}, Milano, Editrice Bibliografica,
 \emph{ICA. International Council on Archives},
 \url{https://www.ica.org/en}
 
-\[*Concetta Damiani*\]
+\[*Concetta~Damiani*\]
 
 \hypertarget{ascii}{%
 \chapter{ASCII}\label{ascii}}
 
-(ingl. Acronimo per \emph{American Standard Code for Information
-Interchange})
+(\emph{American Standard Code for Information Interchange})
 
 È il primo standard, sviluppato nel 1968, che è ancora oggi l'unica
 pagina di caratteri che viene interpretata e trasmessa univocamente su
@@ -641,13 +658,11 @@ qualsiasi sistema informatico. Il suo funzionamento è pressoché
 semplice, \emph{ASCII} codifica ogni carattere in codice binario in modo da
 permettere al computer di comprendere ed immagazzinare quelle
 informazioni.
-
 Alla sua nascita si basava su un sistema a 7 bit, ciò vuol dire che era
 in grado di codificare 27=128 caratteri: da 0 a 32 e il 127 non sono
 stampabili, in quanto rappresentano dei caratteri di controllo che
 permettono di compiere alcune azioni, come l'andare a capo; da 65 a 90
 rappresentano le maiuscole; da 97 a 122 sono le minuscole.~
-
 Nonostante la sua effettiva utilità \emph{ASCII} si rivelò insufficiente per
 la circolazione di informazioni in un ambiente condiviso più ampio del
 sistema nazionale statunitense. Si cercò, quindi, di creare un sistema
@@ -655,7 +670,6 @@ di codifica, chiamato \enquote{\emph{ASCII} esteso}, a 8 bit in modo da ampliare
 gamma di caratteri codificabili (28=256). Nemmeno l'aggiunta di un bit
 nella codifica riuscì a risolvere i problemi causati da un sistema di
 scambio dell'informazione sempre più complesso.
-
 Per questi motivi, nel 1991, venne sviluppato un nuovo sistema di
 codifica chiamato Unicode, il cui sistema non è esente da difetti, ma
 resta comunque lo standard universale con cui bisogna fare i conti nel
@@ -1382,7 +1396,7 @@ Howe J., \emph{The rise of crowdsourcing},
 
 Mazzini E.\emph{, Il crowdsourcing tra necessità di coordinamento e perdita
 di controllo}/Capitolo 1 -- \emph{Il Crowdsourcing},
-\url{https://it.wikisource.org/wiki/Il/_crowdsourcing/_tra/_necessit\%C3\%A0/_di/_coordinamento/_e/_perdita/_di/_controllo/Capitolo/_1/_\%E2\%80\%93/_Il/_Crowdsourcing}
+\url{https://it.wikisource.org/wiki/Il_crowdsourcing_tra_necessità_di_coordinamento_e_perdita_di_controllo}
 
 Pezzali M., \emph{Crowdsourcing: quando la rete\ldots{} trova la soluzione}, in
 \emph{Il Sole 24 ore},
@@ -1491,7 +1505,7 @@ Visualization} attualmente in vigore è il \emph{Mapping the Republic of
 Letters}, che utilizza rappresentazioni grafiche per aiutare gli
 studiosi ad analizzare oltre 55.000 lettere e documenti archiviati
 digitalmente nel proprio database
-(\url{http://republicofletters.stanford.edu/index.html}).
+(\url{http://republicofletters.stanford.edu/}).
 
 Tra i principali tool delle \emph{Data Visualization} si annoverano:
 
@@ -2028,7 +2042,7 @@ visualizzazione e nel confronto dei testi, ma soprattutto supera l'idea
 del testo definitivo: non solo il filologo non sceglie un testo più
 importante, ma modifica il suo lavoro grazie ai linguaggi di codifica e
 ai codici di mark up\emph{.} Il testo che il filologo dovrà preparare
-\[\...\] non è soltanto un testo univoco, ma un ipotesto che può
+{[}\ldots{]} non è soltanto un testo univoco, ma un ipotesto che può
 contenere in sé varie trascrizioni».
 
 Infine, non bisogna credere che l'approccio filologico digitale annulli
@@ -2572,7 +2586,7 @@ strumentalismo},
 \chapter{Interfaccia utente (UI)}\label{interfaccia-utente-ui}}
 
 In termini generali si tratta di un termine generale per ogni sistema,
-fisico o digitale che permette all'utente l'accesso ad una data
+fisico o digitale, che permette all'utente l'accesso ad una data
 tecnologia. È quindi il punto di contatto tra l'uomo e il programma del
 computer. Ogni \emph{interfaccia utente} (UI) è unica e legata alla funzione
 che deve svolgere ma tutte hanno in comune certi elementi di base. Una
@@ -2605,10 +2619,10 @@ desktop, finestre e menù.
 \addcontentsline{toc}{section}{Sitografia}
 
 *\emph{User Interface} (\emph{s.v}.), in \emph{Tech} \emph{Terms},
-\textless{}{\href{https://techterms.com/}{https://techterms.com}\textgreater{}}
+\url{https://techterms.com}
 
 *\emph{User Interface} (\emph{s.v}.), in \emph{webopedia},
-\textless{}\href{https://www.webopedia.com/TERM/U/user_interface.html}{{https://www.webopedia.com/TERM/U/user\_interface.html}}\textgreater{}
+\url{https://www.webopedia.com/TERM/U/user/_interface.html}
 
 \[*Antonio Marson Franchini*\]
 
@@ -2627,7 +2641,7 @@ algoritmi man mano che riceve informazioni. Il primo a coniare il
 termine \emph{Machine Learning} fu un noto scienziato americano e pioniere
 dell'IA, Arthur Lee Samuel, nel 1959, anche se la definizione oggi più
 accreditata è quella di Tom Michael Mitchell, direttore del
-\enquote{Dipartimento Machine Learning} della Carnegie Mellon University, il
+Dipartimento Machine Learning della Carnegie Mellon University, il
 quale ha affermato che: «si dice che un programma apprende
 dall'esperienza E rispetto ad una certa classe di compiti T e ad una
 misura della performance P, se la sua performance nell'eseguire i
@@ -2649,7 +2663,7 @@ macchina costruisce da sola le regole -- previa introduzione di esempi
 ricavato.
 
 Caratteristica comune ai vari algoritmi di apprendimento automatico è la
-presenza di dati in input, detti \enquote{Training Pattern}, che inducono alla
+presenza di dati in input, detti ``Training Pattern", che inducono alla
 generazione di output, o Istanze dell'esperienza. A seconda
 dell'algoritmo utilizzato -- ossia a seconda delle modalità con cui la
 macchina impara ed accumula dati e informazioni -- si distinguono
@@ -2831,7 +2845,6 @@ tradurre con linguaggio di \enquote{marcatura} o di \enquote{codifica}. Permette
 descrivere la struttura, composizione, impaginazione del testo (o di
 qualsiasi altro file di contenuto) attraverso comandi visibili (sequenze
 di caratteri ASCII) immessi nel file di testo.
-
 Se ne possono distinguere due tipi: \enquote{procedurali} (basati su un
 linguaggio specifico) e \enquote{dichiarativi} (basati su un linguaggio
 generico). Il primo consiste in un insieme di istruzioni operative che
@@ -2848,7 +2861,6 @@ discorso all'interno del file di testo ma solo i linguaggi di tipo
 tipografiche. Questo sistema di marcatori viene sempre utilizzato in una
 forma gerarchizzata che dall'elemento più grande da definire giunge fino
 al più piccolo.
-
 I linguaggi di \emph{markup} sono lo strumento standard per lo sviluppo di
 oggetti digitali. Il capostipite di questi linguaggi è SGML (\emph{Standard
 Generalized Markup Language}) creato nel 1986 da Charles Goldfarb e
@@ -3670,9 +3682,7 @@ confronto alle precedenti.
 Nelle DH, \emph{PHP} è uno dei linguaggi più comuni per la creazione di
 interfacce per database di vario tipo. (vd. Database)
 
-Esempio:
-
-Tlion -- \emph{Tradizione della Letteratura Italiana Online}:
+Esempio: Tlion -- \emph{Tradizione della Letteratura Italiana Online}:
 
 Il Tlion -- assieme ad altri DB che ne condividono l'impianto -- è
 sviluppato in \emph{PHP} e MySql su server Apache. Si tratta di una banca
@@ -3991,7 +4001,7 @@ suo lavoro per la IBM sotto la supervisione di Steve Furth, e ne definì
 i presupposti teorici: «This analysis of the markup process suggest that
 it should be possible to design a generalized markup language so that
 markup would be useful for more than one application or computer system.
-\[...\] This could be done, for example, with mnemonic \enquote{tags}. The
+{[}\ldots{]} This could be done, for example, with mnemonic ``tags". The
 designation of a component as being of a particular type would mean only
 that it will be processed identically to other components of that type».
 

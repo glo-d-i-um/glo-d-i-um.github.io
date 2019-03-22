@@ -21,7 +21,7 @@
 
 
 \setmainfont[Numbers=Lowercase]{EB Garamond}
-\setsansfont[Numbers=Lowercase]{PT Sans}
+\setsansfont[Numbers=Lowercase]{EB Garamond}
 \setmonofont[Numbers=Lowercase]{IBMPlexMono}
 
 
@@ -32,8 +32,8 @@
 %\usepackage[usenames, dvipsnames]{color}
 \usepackage{xcolor}
 
-\definecolor{upol-dGrey}{rgb}{0.36470588235,0.36862745098,0.37647058823}
-\definecolor{upol-lGrey}{rgb}{0.8,0.8,0.8}
+\definecolor{upol-dGrey}{rgb}{0.2,0.2,0.2}
+\definecolor{upol-lGrey}{rgb}{0.95,0.95,0.95}
 \definecolor{upol-brandBlue}{rgb}{0,0.43529411764,0.67843137254}
 
 
@@ -43,7 +43,7 @@
 \usepackage{textcase}
 
 
-\usepackage{setspace}
+%\usepackage[onehalfspacing]{setspace}
 
 \makeatletter\let\Title\@title\makeatother
 %\makeatletter\let\Author\@author\makeatother
@@ -173,7 +173,7 @@
   }}
 % For the case \chapter*:
 \renewcommand*{\@makeschapterhead}[1]{%
-  \vspace*{10\p@}%
+  \vspace*{0\p@}%
   {\parindent \z@ \raggedright
     \normalfont
     \interlinepenalty\@M
@@ -225,7 +225,7 @@
 
 
 \makeatletter
-\newcommand\HUGE{\@setfontsize\Huge{36}{48}} 
+\newcommand\HUGE{\@setfontsize\Huge{42}{56}} 
 \makeatother
 
 \usepackage{tikz}
@@ -255,3 +255,5 @@
 \renewcommand{\UrlFont}{\footnotesize}
 
 \DeclareUrlCommand\url{\def\UrlLeft{$<$}\def\UrlRight{$>$}}
+
+

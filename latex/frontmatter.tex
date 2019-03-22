@@ -24,10 +24,17 @@
 \end{flushleft}
 
 \noindent
-{\large{\sffamily\MakeTextUppercase{\@author}}\par} 
-\vspace{4em}
+%{\large{\sffamily\MakeTextUppercase{\@author}}\par} 
+%$if(author)$
+%  \author{$for(author)$$author$$sep$ \\ $endfor$}
+%$endif$
 
-\vspace{3em}
+%\author{$for(author){\large{\sffamily\MakeTextUppercase{\@author}}\par} $endfor$}
+
+\vspace{4em}
+\noindent{\large{\textbf{A cura di}\\ \\ Antonello Fabio Caterino \\ Marcello Bolpagni \\ Marco Petolicchio \\ Alessandra Di Meglio \\ Vincenzo Vozza\par}}
+
+\vfill
 
  {\footnotesize   \ttfamily{draft : : \today   : :  \currenttime} \par}
 
