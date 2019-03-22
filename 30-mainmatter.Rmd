@@ -139,7 +139,7 @@ Media, 2000, p. 162
 Tissoni F., *Lineamenti di Editoria Multimediale*, Milano, Edizioni
 Unicopli, 2009, p. 61
 
-\[*Alessia Marini*\]
+\[*Alessia~Marini*\]
 
 
 
@@ -253,7 +253,7 @@ Irvine),
 \**Unicode* (*s.v.*), in *Wikipedia*,
 <https://it.wikipedia.org/wiki/Unicode>
 
-\[*Giovanna Battaglino*\]
+\[*Giovanna~Battaglino*\]
 
 # Biblioteca digitale
 
@@ -442,7 +442,7 @@ Digitale*:
 <http://www.iccu.sbn.it/upload/documenti/BDI-SDF-Prog.pdf>{.underline}
 (sezione seconda)
 
-\[*Giovanna Battaglino*\]
+\[*Giovanna~Battaglino*\]
 
 # Big data
 
@@ -535,7 +535,7 @@ presentato in una sua versione durante la sesta conferenza dell'AIUCD,
 per un'indagine sul sentimento del dibattito su determinati eventi
 storici su Twitter.
 
-\[*Flavia Sciolette*\]
+\[*Flavia~Sciolette*\]
 
 # Browser
 
@@ -585,7 +585,7 @@ di visualizzazione più avanzata da un punto di vista grafico.
 \**Web Browser* (*s*.*v*.), in *Intro to ITC*,
 <http://openbookproject.net/courses/intro2ict/web/web\_browsers.html>{.underline}
 
-\[*Antonio Marson Franchini*\]
+\[*Antonio~Marson~Franchini*\]
 
 # Concordanze
 
@@ -672,7 +672,7 @@ Stella F., *Testi letterari e analisi digitale*, Roma, Carocci editore,
 National Endowment for the humanities*,
 <https://www.neh.gov/humanities/2013/julyaugust/feature/the-rise-the-machines>{.underline}
 
-\[*Alessandra Di Meglio*\]
+\[*Alessandra~Di~Meglio*\]
 
 
 # Corpus
@@ -699,7 +699,7 @@ tempi del Dizionario della Crusca.
 Esempio: CT -- *Corpus Taurinense* (direzione: Manuel Barbera): un
 *corpus* di testi in fiorentino del secondo Duecento molto annotato.
 
-\[*Flavia Sciolette*\]
+\[*Flavia~Sciolette*\]
 
 
 
@@ -834,7 +834,7 @@ Van Ess H., *Harvesting Knowledge. Success criteria and strategies for
 crowdsourcing*,
 <https://www.slideshare.net/StifoPers/presentatie-henk-van-ess>
 
-\[*Alessandra Di Meglio*\]
+\[*Alessandra~Di~Meglio*\]
 
 # CSS
 
@@ -891,7 +891,7 @@ Unicolpi, 2009
 \**W3CSS* (*s.v*.), in *w3schools.com*,
 <http://www.w3schools.com/>{.underline}
 
-\[*Alessia Marini*\]
+\[*Alessia~Marini*\]
 
 # Data visualization
 
@@ -990,7 +990,7 @@ Zambon M., *Glossario: Data Visualization*,
 Zepel T., *Visualization as Digital Humanities?*,
 <https://www.hastac.org/blogs/tzepel/2013/05/02/visualization-digital-humanities>{.underline}
 
-\[*Alessandra Di Meglio*\]
+\[*Alessandra~Di~Meglio*\]
 
 
 # Database
@@ -1014,7 +1014,7 @@ Esempio: *BEDT -- Bibliografia Elettronica dei Trovatori* (Direzione
 Scientifica: Stefano Asperti, Direzione tecnica: Luca De Nigro) una base
 di dati su modello relazionale dedicata alla poesia provenzale.
 
-\[*Flavia Sciolette*\]
+\[*Flavia~Sciolette*\]
 
 # Digital Dark Age
 
@@ -1092,7 +1092,7 @@ Shave L., *It's a digital world. Records and information Management
 Professionals. Guide to avoid Digital Dark Ages*,
 <http://rimpa.com.au/assets/2015/09/eBook-Avoiding-the-digital-dark-age.pdf>
 
-\[*Giovanna Battaglino*\]
+\[*Giovanna~Battaglino*\]
 
 # Digital Death
 
@@ -1183,7 +1183,7 @@ científicas,
 *Servizi SBA: Informazioni sul DOI*,
 <http://biblioteche.unige.it/node/255>{.underline}
 
-\[*Alessandra Di Meglio*\]
+\[*Alessandra~Di~Meglio*\]
 
 # DTD
 
@@ -1225,7 +1225,7 @@ XML*, Milano, Pearson, 2007
 Tissoni F., *Lineamenti di editoria multimediale*, Milano, Edizioni
 Unicopli, 2009
 
-\[*Alessia Marini*\]
+\[*Alessia~Marini*\]
 
 # EAD
 
@@ -1299,7 +1299,7 @@ Standard for Archival Finding Aids*, in *The American Archivist*, 60, 3,
 *ICAR - Istituto Centrale per gli Archivi*,
 <http://www.icar.beniculturali.it/index.php?id=52>
 
-\[*Concetta Damiani*\]
+\[*Concetta~Damiani*\]
 
 # Feed RSS
 
@@ -1360,7 +1360,7 @@ consultabile.
 *Rss20AndAtom10Compared*,
 <http://www.intertwingly.net/wiki/pie/Rss20AndAtom10Compared>{.underline}
 
-\[*Antonio Marson Franchini*\]
+\[*Antonio~Marson~Franchini*\]
 
 
 
@@ -1504,7 +1504,7 @@ progetti*, Verona 20-21 aprile 2017,
 Tomasi F., *Le nuove frontiere della filologia*, in *Argo*, 2, 2018
 <http://www.argonline.it/argo/argo-n-2/argo-n-2-\_-francesca-tomasi-nuove-frontiere-filologia>
 
-\[*Giovanna Battaglino*\]
+\[*Giovanna~Battaglino*\]
 
 # FTP
 
@@ -1555,7 +1555,7 @@ comprensibile all'uomo e quindi relativamente di facile utilizzo.
 Poste J. - Reynolds J., *FILE TRANSFERT PROTOCOL (FTP)*,
 <http://www.rfc.altervista.org/rfctradotte/rfc959\_tradotta.txt>
 
-\[*Alessia Marini*\]
+\[*Alessia~Marini*\]
 
 # Gold Open Access
 
@@ -1569,7 +1569,7 @@ e immediatamente disponibili online.
 Biblioteca d'Area di Bologna*,
 <http://biblioteca.bo.cnr.it/index.php/it/open-access/pubblicare-oa/item/272-gold-road>{.underline}
 
-\[*Antonello Fabio Caterino*\]
+\[*Antonello~Fabio~Caterino*\]
 
 # Green Open Access
 
@@ -1585,7 +1585,7 @@ caricate online versioni pre-print o post-print.
 Biblioteca d'Area di Bologna*,
 <http://biblioteca.bo.cnr.it/index.php/it/open-access/pubblicare-oa/item/271-green-open-access>{.underline}
 
-\[*Antonello Fabio Caterino*\]
+\[*Antonello~Fabio~Caterino*\]
 
 # Hidden Web
 
@@ -1717,7 +1717,7 @@ AaVv, *Below the Surface: exploring the Deep Web*, 2015,
 *What is the Deep Web? A first trip into the abyss*,
 <http://www.aofs.org/wp-content/uploads/2013/04/130925-What-is-the-Deep-Web.pdf>{.underline}
 
-\[*Alessandra Di Meglio*\]
+\[*Alessandra~Di~Meglio*\]
 
 # HTML
 
@@ -1803,7 +1803,7 @@ Unicolpi, 2009
 \**HTML* (*s.v*.), in *w3schools.com*,
 \<[[http://www.w3schools.com/]{.underline}](http://www.w3schools.com/)\>
 
-\[*Alessia Marini*\]
+\[*Alessia~Marini*\]
 
 
 
@@ -1929,7 +1929,7 @@ strumentalismo*,
 \**Umanistico* (*s*.*v*.), in *Treccani*,
 [[http://www.treccani.it/vocabolario/umanistico/]{.underline}](http://www.treccani.it/vocabolario/umanistico/)
 
-\[*Alessandra Di Meglio*\]
+\[*Alessandra~Di~Meglio*\]
 
 # Interfaccia utente (UI)
 
@@ -1970,7 +1970,7 @@ desktop, finestre e menù.
 \**User Interface* (*s.v*.), in *webopedia*,
 <https://www.webopedia.com/TERM/U/user\_interface.html>
 
-\[*Antonio Marson Franchini*\]
+\[*Antonio~Marson~Franchini*\]
 
 # Machine learning
 
@@ -2151,7 +2151,7 @@ Stefenelli M., *Apprendimento automatico nei giochi di strategia*, Tesi
 di Laurea, Università di Bologna Campus di Cesena, 2013/2014
 <https://amslaurea.unibo.it/7660/1/TESI_Marco_Stefenelli.pdf>{.underline}
 
-\[*Alessandra Di Meglio*\]
+\[*Alessandra~Di~Meglio*\]
 
 # Markup
 
@@ -2188,7 +2188,7 @@ dell'informatica umanistica lo standard è il linguaggio di *markup* TEI
 (*Text Encoding Initiative*) basato sullo standard XML (*eXstensible
 Markup Language*).
 
-\[*Antonio Marson Franchini*\]
+\[*Antonio~Marson~Franchini*\]
 
 # Metadato
 
@@ -2384,7 +2384,7 @@ Manuale Utente*,
 eccellenza italiano sulla Conservazione Digitale*,
 <http://www.conservazionedigitale.org/wp/approfondimenti/depositi-di-conservazione/oais-reference-model>{.underline}
 
-\[*Concetta Damiani*\]
+\[*Concetta~Damiani*\]
 
 # N-gramma
 
@@ -2528,7 +2528,7 @@ Irvine), \<
 \**Thesaurus Linguae Graeciae* (*s.v.*), in *Wikipedia*,
 \<[[https://en.wikipedia.org/wiki/Thesaurus\_Linguae\_Graecae]{.underline}](https://en.wikipedia.org/wiki/Thesaurus_Linguae_Graecae)\>
 
-\[*Giovanna Battaglino*\]
+\[*Giovanna~Battaglino*\]
 
 # Oggetto digitale
 
@@ -2599,7 +2599,7 @@ Manuale Utente*,
 
 <http://www.iccu.sbn.it/upload/documenti/Manuale.pdf>{.underline}
 
-\[*Antonio Marson Franchini*\]
+\[*Antonio~Marson~Franchini*\]
 
 # Ontologia
 
@@ -2625,7 +2625,7 @@ Christophorus Clavius (1538-1612), matematico ed astronomo gesuita. I
 concetti (terminologia ed entità di dominio) formano un'*ontologia*
 legata a risorse già disponibili in rete.
 
-\[*Flavia Sciolette*\]
+\[*Flavia~Sciolette*\]
 
 # OPAC
 
@@ -2730,7 +2730,7 @@ modalità di consultazione*,
 \**Telnet* (*s.v*.), in *Wikipedia*,
 <https://it.wikipedia.org/wiki/Telnet>{.underline}
 
-\[*Alessandra Di Meglio*\]
+\[*Alessandra~Di~Meglio*\]
 
 # Open Access
 
@@ -2787,7 +2787,7 @@ di Susanna Mornati, 2004,
 
  
 
-\[*Concetta Damiani*\]
+\[*Concetta~Damiani*\]
 
 # Paratesto
 
@@ -2960,7 +2960,7 @@ dati a schede, catalogate per autore e opera, con notizie relative alla
 tradizione dei testi della letteratura italiana e liberamente
 consultabile dal sito: http://tlion.sns.it/.
 
-\[*Flavia Sciolette*\]
+\[*Flavia~Sciolette*\]
 
 # Public History
 
@@ -3061,7 +3061,7 @@ dell'Istituto di Storia dell'Europa Mediterranea*, 1/I n.s., dicembre
 2017, DOI:
 \<[[https://doi.org/10.7410/1287]{.underline}](https://doi.org/10.7410/1287)\>
 
-\[*Concetta Damiani*\]
+\[*Concetta~Damiani*\]
 
 
 # Self-archiving
@@ -3233,7 +3233,7 @@ Research for Open Access in India*,
 Swan A. - Brown S., *Open access self-archiving: an author study*,
 \<[[https://eprints.soton.ac.uk/260999/1/jisc2.pdf]{.underline}](https://eprints.soton.ac.uk/260999/1/jisc2.pdf)\>
 
-\[*Alessandra Di Meglio*\]
+\[*Alessandra~Di~Meglio*\]
 
 # SGML
 
@@ -3321,7 +3321,7 @@ System*, in *IBM Cambridge*
 
 *SGML Web Page*, <http://www.sil.org/sgml/sgml.html>{.underline}
 
-\[*Alessia Marini*\]
+\[*Alessia~Marini*\]
 
 # Tassonomia
 
@@ -3404,7 +3404,7 @@ Wahl Z. - Busch J., *Il valore della tassonomia nella ricerca delle
 informazioni*,
 <http://www.datamanager.it/rivista/searching/il-valore-della-tassonomia-nella-ricerca-delle-informazioni/999/>{.underline}
 
-\[*Alessandra Di Meglio*\]
+\[*Alessandra~Di~Meglio*\]
 
 # TEI
 
@@ -3579,7 +3579,7 @@ Encodign for Interchange*, 1995 (revisited May 2002),
 *TEI: Guidelines,* in *Text Encoding Initiative*,
 \<[[http://www.tei-c.org/Guidelines/]{.underline}](http://www.tei-c.org/Guidelines/)\>
 
-\[*Alessia Marini*\]
+\[*Alessia~Marini*\]
 
 # Thesaurus
 
@@ -3718,7 +3718,7 @@ trends*, in *Online Information Review* 24, 4, 2000, pp. 273-279,
 \**Thesaurus Musicarum Latinarum* (online),
 \<[[http://boethius.music.indiana.edu/tml/]{.underline}](http://boethius.music.indiana.edu/tml/)\>
 
-\[*Giovanna Battaglino*\]
+\[*Giovanna~Battaglino*\]
 
 # Web Semantico
 
@@ -3800,7 +3800,7 @@ nell\'età del web*, Firenze, Firenze University Press, 2009
 *\*Web semantico* (*s.v*.), in *Treccani* - *Lessico del XXI secolo*,
 \<[[http://www.treccani.it/enciclopedia/web-semantico\_%28Lessico-del-XXI-Secolo%29/]{.underline}](http://www.treccani.it/enciclopedia/web-semantico_%28Lessico-del-XXI-Secolo%29/)\>
 
-\[*Concetta Damiani*\]
+\[*Concetta~Damiani*\]
 
 # XSL
 
@@ -3859,7 +3859,7 @@ Unicopli, 2009
 \**Learn W3C* (*s.v*.), in *w3schools.com*,
 <http://www.w3schools.com/>{.underline}
 
-\[*Alessia Marini*\]
+\[*Alessia~Marini*\]
 
 # XML
 
@@ -3943,4 +3943,4 @@ Sorato A., *Linguaggi per la rete: XML*,
 \**Learn W3C* (*s.v*.), in *w3schools.com*,
 <http://www.w3schools.com/>{.underline}
 
-\[*Alessia Marini*\]
+\[*Alessia~Marini*\]
