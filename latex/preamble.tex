@@ -1,4 +1,4 @@
-\usepackage[a4paper,margin=4cm, bindingoffset=1cm, heightrounded, headsep=2em, footskip=11mm, vmarginratio=1:1]{geometry}
+\usepackage[b5paper,margin=24mm, bindingoffset=1cm, heightrounded, headsep=2em, footskip=11mm, vmarginratio=1:1]{geometry}
 \makeatletter
 \DeclareOldFontCommand{\rm}{\normalfont\rmfamily}{\mathrm}
 \DeclareOldFontCommand{\sf}{\normalfont\sffamily}{\mathsf}
@@ -245,3 +245,13 @@
 \setlength{\parindent}{1em}
 \setlength{\parskip}{0cm}
 \usepackage{indentfirst}
+
+\usepackage{enumitem}
+\setlist{nosep} % or \setlist{noitemsep}
+
+\PassOptionsToPackage{hyphens}{url}
+\usepackage{hyperref}
+\usepackage{url}
+\renewcommand{\UrlFont}{\footnotesize}
+
+\DeclareUrlCommand\url{\def\UrlLeft{$<$}\def\UrlRight{$>$}}

@@ -68,7 +68,7 @@
 \def\fps@figure{htbp}
 \makeatother
 
-\usepackage[a4paper,margin=4cm, bindingoffset=1cm, heightrounded, headsep=2em, footskip=11mm, vmarginratio=1:1]{geometry}
+\usepackage[b5paper,margin=24mm, bindingoffset=1cm, heightrounded, headsep=2em, footskip=11mm, vmarginratio=1:1]{geometry}
 \makeatletter
 \DeclareOldFontCommand{\rm}{\normalfont\rmfamily}{\mathrm}
 \DeclareOldFontCommand{\sf}{\normalfont\sffamily}{\mathsf}
@@ -315,6 +315,16 @@
 \setlength{\parindent}{1em}
 \setlength{\parskip}{0cm}
 \usepackage{indentfirst}
+
+\usepackage{enumitem}
+\setlist{nosep} % or \setlist{noitemsep}
+
+\PassOptionsToPackage{hyphens}{url}
+\usepackage{hyperref}
+\usepackage{url}
+\renewcommand{\UrlFont}{\footnotesize}
+
+\DeclareUrlCommand\url{\def\UrlLeft{$<$}\def\UrlRight{$>$}}
 \usepackage[]{natbib}
 \bibliographystyle{plainnat}
 
@@ -327,7 +337,7 @@
 \makeatother
 \subtitle{Glossario di Informatica Umanistica}
 \author{Antonello Fabio Caterino, Marcello Bolpagni, Marco Petolicchio}
-\date{2019-03-21}
+\date{2019-03-22}
 
 \begin{document}
 \frontmatter
@@ -609,13 +619,13 @@ Valacchi F., \emph{Diventare archivisti}, Milano, Editrice Bibliografica,
 \addcontentsline{toc}{section}{Sitografia}
 
 *\emph{Archivio} (\emph{s.v}.), in \emph{DGA. Direzione Generale Archivi},
-\textless{}{\url{http://www.archivi.beniculturali.it/index.php/abc-degli-archivi/glossario}\textgreater{}}
+\url{http://www.archivi.beniculturali.it/index.php/abc-degli-archivi/glossario}
 
 \emph{*Archivio} (\emph{s}.\emph{v}.), in \emph{Lombardia Beni Culturali. Glossario},
-\textless{}{\url{http://www.lombardiabeniculturali.it/archivi/glossario/}\textgreater{}}
+\url{http://www.lombardiabeniculturali.it/archivi/glossario/}
 
 \emph{ICA. International Council on Archives},
-\textless{}{\url{https://www.ica.org/en}\textgreater{}}
+\url{https://www.ica.org/en}
 
 \[*Concetta Damiani*\]
 
@@ -718,7 +728,7 @@ tardoantico. Struttura, canone e questioni aperte di codifica e
 visualizzazione}, in P. Mastandrea (a cura di), \emph{Strumenti digitali e
 collaborativi per le Scienze dell'Antichità}, Venezia, Edizioni Ca'
 Foscari, 2017, pp.~69-94,
-\textless{}\href{http://edizionicafoscari.unive.it/media/pdf/books/978-88-6969-183-6/978-88-6969-183-6_IhKmUbC.pdf}{{http://edizionicafoscari.unive.it/media/pdf/books/978-88-6969-183-6/978-88-6969-183-6\_IhKmUbC.pdf}}\textgreater{}
+\url{http://edizionicafoscari.unive.it/media/pdf/books/978-88-6969-183-6/978-88-6969-183-6_IhKmUbC.pdf}
 
 Fusi D., \emph{Tecnologie informatiche per l'umanista digitale}, Roma, Nuova
 Cultura, 2017, pp.~24-29
@@ -728,55 +738,55 @@ Cultura, 2017, pp.~24-29
 \addcontentsline{toc}{section}{Sitografia}
 
 *\emph{ASCII} (\emph{s.v.}), in \emph{GloDIUM},
-\textless{}\href{https://fri.hypotheses.org/glossario-di-informatica-umanistica}{{https://fri.hypotheses.org/glossario-di-informatica-umanistica}}\textgreater{}
+\url{https://fri.hypotheses.org/glossario-di-informatica-umanistica}
 
 Battaglino G., \emph{Note minime sul} TLG\emph{: brevi cenni sulle \enquote{origini} del}
 TLG \emph{e piccolo} vademecum, in \emph{FRI} -- \emph{Filologia Risorse Informatiche}
 \emph{(Carnet de recherche and online journal} -- \emph{Italian Digital
-Humanities} ,
-\textless{}\href{https://fri.hypotheses.org/1391}{{https://fri.hypotheses.org/1391}}\textgreater{}
+Humanities},
+\url{https://fri.hypotheses.org/1391}
 
 *\emph{Beta code} (\emph{s.v}.), in \emph{Wikipedia},
-\textless{}\href{https://en.wikipedia.org/wiki/Beta_Code}{{https://en.wikipedia.org/wiki/Beta\_Code}}\textgreater{}
+\url{https://en.wikipedia.org/wiki/Beta/_Code}
 
 \emph{Duke Databank of Documentary Papyri},
-\textless{}\href{https://papyri.info/docs/ddbdp}{{https://papyri.info/docs/ddbdp}}\textgreater{}
+\url{https://papyri.info/docs/ddbdp}
 
 \emph{Greek Beta code converter},
-\textless{}\href{https://chrome.google.com/webstore/detail/greek-beta-code-converter/abelaepcjjpjpkhpbbeggnijcccphpnp}{{https://chrome.google.com/webstore/detail/greek-beta-code-converter/abelaepcjjpjpkhpbbeggnijcccphpnp}}\textgreater{}
+\url{https://chrome.google.com/webstore/detail/greek-beta-code-converter}
 
-\emph{Packard Humanities Institute} (official website), \textless{}
-\href{https://packhum.org/}{{https://packhum.org/}}\textgreater{}
+\emph{Packard Humanities Institute} (official website),
+\url{https://packhum.org/}
 
 *\emph{Packard Humanities Institute} (\emph{s.v.}), in \emph{Wikipedia},
-\textless{}\href{https://en.wikipedia.org/wiki/Packard_Humanities_Institute}{{https://en.wikipedia.org/wiki/Packard\_Humanities\_Institute}}\textgreater{}
+\url{https://en.wikipedia.org/wiki/Packard/_Humanities/_Institute}
 
-\emph{Perseus Project} (official website), \textless{}
-\href{http://www.perseus.tufts.edu/hopper/}{{http://www.perseus.tufts.edu/hopper/}}\textgreater{}
+\emph{Perseus Project} (official website),
+\url{http://www.perseus.tufts.edu/hopper}
 
-*\emph{Perseus Project} (\emph{s.v.}), in \emph{Wikipedia}, \textless{}
-\href{https://en.wikipedia.org/wiki/Perseus_Project}{{https://en.wikipedia.org/wiki/Perseus\_Project}}\textgreater{}
+*\emph{Perseus Project} (\emph{s.v.}), in \emph{Wikipedia},
+\url{https://en.wikipedia.org/wiki/Perseus_Project}
 
 \emph{The Beta code manual}, in \emph{TLG},
-\textless{}\href{http://www.tlg.uci.edu/encoding/}{{http://www.tlg.uci.edu/encoding/}}\textgreater{}
+\url{http://www.tlg.uci.edu/encoding}
 
 *\emph{Thesaurus Linguae Graeciae} (\emph{s.v.}), in \emph{Wikipedia},
-\textless{}\href{https://en.wikipedia.org/wiki/Thesaurus_Linguae_Graecae}{{https://en.wikipedia.org/wiki/Thesaurus\_Linguae\_Graecae}}\textgreater{}
+\url{https://en.wikipedia.org/wiki/Thesaurus_Linguae_Graecae}
 
 \emph{TLG Beta code quick Reference Guide},
-\textless{}\href{https://www.tlg.uci.edu/encoding/quickbeta.pdf}{{https://www.tlg.uci.edu/encoding/quickbeta.pdf}}\textgreater{}
+\url{https://www.tlg.uci.edu/encoding/quickbeta.pdf}
 
 \emph{TLG} (\emph{sub-corpus} del) in \emph{open access}: \emph{Canon of Greek Authors and
 Works (Abridged TLG}),
-\textless{}\href{http://stephanus.tlg.uci.edu/Iris/canon/csearch.jsp}{{http://stephanus.tlg.uci.edu/Iris/canon/csearch.jsp}}\textgreater{}
+\url{http://stephanus.tlg.uci.edu/Iris/canon/csearch.jsp}
 
 \emph{TLG} (ultima versione digitale del \emph{TLG: Thesaurus Linguae Graeciae.
 Digital Library}. Ed. Maria C. Pantelia, University of California,
-Irvine), \textless{}
-\href{http://stephanus.tlg.uci.edu/}{{http://stephanus.tlg.uci.edu/}}\textgreater{}
+Irvine),
+\url{http://stephanus.tlg.uci.edu}
 
 *\emph{Unicode} (\emph{s.v.}), in \emph{Wikipedia},
-\textless{}\href{https://it.wikipedia.org/wiki/Unicode}{{https://it.wikipedia.org/wiki/Unicode}}\textgreater{}
+\url{https://it.wikipedia.org/wiki/Unicode}
 
 \[*Giovanna Battaglino*\]
 
@@ -910,7 +920,7 @@ infrastructure}, in \emph{Library trends}, 51, 4, 2003, p.~652
 
 Borgman C. L., \emph{What are digital libraries? Competing visions}, in
 \emph{Pergamon. Information Processing and Managment}, 35, 1999, pp.~227-243,
-\textless{}{\url{https://pdfs.semanticscholar.org/d0e6/90b74b3b9513d9d1f97cf366e31a3920a4bf.pdf}\textgreater{}}
+\url{https://pdfs.semanticscholar.org/d0e6/90b74b3b9513d9d1f97cf366e31a3920a4bf.pdf}
 
 Faba Pérez C., \emph{Bibliotecas digitales: concepto y principales
 proyectos}, in \emph{Investigación Bibliotecológica}, 13, 26, 1999, pp.~64-78
@@ -919,7 +929,7 @@ Marchionini G. - Fox E. A., \emph{Progress towards digital libraries:
 augmentation through innovation}, in \emph{Information processing and
 management}, 35, 3, 1999, pp.~219-225
 
-\textless{}{\url{https://ac.els-cdn.com/S0306457398000582/1-s2.0-S0306457398000582-main.pdf?_tid=25a411f0-fe0b-11e7-9e69-00000aacb35d\&acdnat=1516471137_5866310621e56d197c1a9a06dce0917d}\textgreater{}}
+\url{https://ac.els-cdn.com/S0306457398000582/1-s2.0-S0306457398000582-main.pdf?_tid=25a411f0-fe0b-11e7-9e69-00000aacb35d\&acdnat=1516471137_5866310621e56d197c1a9a06dce0917d}
 
 Oppenheim C.-Smithson D., \emph{What is the hybrid library?}, in \emph{Journal of
 Information Science}, 25, 2, 1999, pp.~97-112
@@ -939,39 +949,39 @@ media}, Roma-Bari, Laterza, 2002
 Malinconico S. M., \emph{Biblioteche digitali: prospettive e sviluppo}, in
 \emph{Bollettino AIB. Rivista Italiana di biblioteconomia e scienze
 dell'informazione}, 38, 3, 1998
-\textless{}{\url{http://bollettino.aib.it/article/view/8394/7498}\textgreater{}}
+\url{http://bollettino.aib.it/article/view/8394/7498}
 
 Salarelli, A. - Tammaro, A. M., \emph{Biblioteca digitale}, Milano, Editrice
 Bibliografica, 2000
 
 Tammaro A. M., \emph{Che cos'è una biblioteca digitale?}, in \emph{Digitali Web.
 Rivista del Digitale nei Beni Culturali}, 1, 2005,
-\textless{}{\url{http://digitalia.sbn.it/article/view/325/215}\textgreater{}}
+\url{http://digitalia.sbn.it/article/view/325/215}
 
 \hypertarget{sitografia-2}{%
 \section*{Sitografia}\label{sitografia-2}}
 \addcontentsline{toc}{section}{Sitografia}
 
 *\emph{Biblioteca digitale} (\emph{s.v.}), in \emph{Treccani},
-\textless{}{\href{http://www.treccani.it/enciclopedia/biblioteca-digitale_(Enciclopedia-Italiana)/}{http://www.treccani.it/enciclopedia/biblioteca-digitale\_\%28Enciclopedia-Italiana\%29/}\textgreater{}}
+\url{http://www.treccani.it/enciclopedia/biblioteca-digitale_(Enciclopedia-Italiana)}{]}\{.underline\}
 
 *\emph{Biblioteca virtuale} (\emph{s.v.}), in \emph{Treccani},
-\textless{}{\href{http://www.treccani.it/enciclopedia/biblioteca-virtuale_(XXI-Secolo)/}{http://www.treccani.it/enciclopedia/biblioteca-virtuale\_\%28XXI-Secolo\%29/}\textgreater{}}
+\url{http://www.treccani.it/enciclopedia/biblioteca-virtuale/_\%28XXI-Secolo\%29}{]}\{.underline\}
 
 \emph{BNCF - Biblioteca Nazionale Centrale di Firenze},
-\textless{}{\url{http://thes.bncf.firenze.sbn.it/termine.php?id=30683}\textgreater{}}
+\url{http://thes.bncf.firenze.sbn.it/termine.php?id=30683}
 
 \emph{DLF - Digital Library Federation},
-\textless{}{\url{https://old.diglib.org/about/dldefinition.htm}\textgreater{}}
+\url{https://old.diglib.org/about/dldefinition.htm}
 
 \emph{DLF - Digital Library Federation},
-\emph{\textless{}}{\url{https://www.diglib.org/?s=definition+of+digital+librar}\textgreater{}}
+\url{https://www.diglib.org/?s=definition+of+digital+librar}
 
 \emph{ICCU}, \emph{Studio di fattibilità per la realizzazione della Biblioteca
 Digitale}:
-\textless{}\href{http://www.iccu.sbn.it/upload/documenti/BDI-SDF.pdf}{{http://www.iccu.sbn.it/upload/documenti/BDI-SDF.pdf}}\textgreater{}
+\url{http://www.iccu.sbn.it/upload/documenti/BDI-SDF.pdf}
 (sezione prima);
-\textless{}{\url{http://www.iccu.sbn.it/upload/documenti/BDI-SDF-Prog.pdf}\textgreater{}}
+\url{http://www.iccu.sbn.it/upload/documenti/BDI-SDF-Prog.pdf}
 (sezione seconda)
 
 \[*Giovanna Battaglino*\]
@@ -1113,13 +1123,13 @@ di visualizzazione più avanzata da un punto di vista grafico.
 \addcontentsline{toc}{section}{Sitografia}
 
 *\emph{Browser} (\emph{s}.\emph{v}.), in \emph{Tech Terms},
-\textless{}{\href{https://techterms.com/}{https://techterms.com}\textgreater{}}
+\url{https://techterms.com}
 
 \emph{How Browsers Work: Behind the scenes of modern web browsers},
-\textless{}{\url{https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/\#The_browser_main_functionality}\textgreater{}}
+\url{https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/\#The_browser_main_functionality}
 
 *\emph{Web Browser} (\emph{s}.\emph{v}.), in \emph{Intro to ITC},
-\textless{}{h\href{http://openbookproject.net/courses/intro2ict/web/web_browsers.html}{ttp://openbookproject.net/courses/intro2ict/web/web\_browsers.html}\textgreater{}}
+\url{http://openbookproject.net/courses/intro2ict/web/web/_browsers.html}
 
 \[*Antonio Marson Franchini*\]
 
@@ -1204,14 +1214,14 @@ Stella F., \emph{Testi letterari e analisi digitale}, Roma, Carocci editore,
 \addcontentsline{toc}{section}{Sitografia}
 
 *\emph{Concordanza} (\emph{s}.\emph{v}.), in \emph{Dizionario italiano Sabatini Coletti},
-\textless{}{\url{http://dizionari.corriere.it/dizionario_italiano/C/concordanza.shtml}\textgreater{}}
+\url{http://dizionari.corriere.it/dizionario_italiano/C/concordanza.shtml}
 
 *\emph{Concordance} (\emph{s.v}.), in \emph{Wikipedia} (EN),
-\textless{}{\url{https://en.wikipedia.org/wiki/Concordance_(publishing)}\textgreater{}}
+\url{https://en.wikipedia.org/wiki/Concordance_(publishing)}
 
 \emph{The rise of the} \emph{machines} in \emph{Humanities}. \emph{The Magazine of the
 National Endowment for the humanities},
-\textless{}{\url{https://www.neh.gov/humanities/2013/julyaugust/feature/the-rise-the-machines}\textgreater{}}
+\url{https://www.neh.gov/humanities/2013/julyaugust/feature/the-rise-the-machines}
 
 \[*Alessandra Di Meglio*\]
 
@@ -1354,33 +1364,33 @@ Science}, 38, 2, 2012, pp.~189-200
 Terras M., \emph{Crowdsourcing in the Digital Humanities,} in Schreibman S.-
 Siemens R.- Unsworth J. (eds.), \emph{A New Companion to Digital Humanities},
 Chichester, Wiley-Blackwell, 2016, pp.~420-439
-\textless{}\href{http://discovery.ucl.ac.uk/1447269/1/MTerras_Crowdsourcing\%20in\%20Digital\%20Humanities_Final.pdf}{{http://discovery.ucl.ac.uk/1447269/1/MTerras\_Crowdsourcing\%20in\%20Digital\%20Humanities\_Final.pdf}}\textgreater{}
+\url{http://discovery.ucl.ac.uk/1447269/1/MTerras/_Crowdsourcing\%20in\%20Digital\%20Humanities/_Final.pdf}
 
 \hypertarget{sitografia-5}{%
 \section*{Sitografia}\label{sitografia-5}}
 \addcontentsline{toc}{section}{Sitografia}
 
 *\emph{Crowdsourcing} (\emph{s.v}.), in \emph{Wikipedia},
-\textless{}{\url{https://it.wikipedia.org/wiki/Crowdsourcing}\textgreater{}}
+\url{https://it.wikipedia.org/wiki/Crowdsourcing}
 
 Frost D. R., \emph{Crowdsourcing, Undergraduates, and Digital Humanities
 Projects},
-\textless{}{\url{https://rebeccafrostdavis.wordpress.com/2012/09/03/crowdsourcing-undergraduates-and-digital-humanities-projects/}\textgreater{}}
+\url{https://rebeccafrostdavis.wordpress.com/2012/09/03/crowdsourcing-undergraduates-and-digital-humanities-projects/}
 
 Howe J., \emph{The rise of crowdsourcing},
-\textless{}{\url{https://www.wired.com/2006/06/crowds/}\textgreater{}}
+\url{https://www.wired.com/2006/06/crowds/}
 
 Mazzini E.\emph{, Il crowdsourcing tra necessità di coordinamento e perdita
 di controllo}/Capitolo 1 -- \emph{Il Crowdsourcing},
-\textless{}{\href{https://it.wikisource.org/wiki/Il_crowdsourcing_tra_necessità_di_coordinamento_e_perdita_di_controllo/Capitolo_1_–_Il_Crowdsourcing}{https://it.wikisource.org/wiki/Il\_crowdsourcing\_tra\_necessit\%C3\%A0\_di\_coordinamento\_e\_perdita\_di\_controllo/Capitolo\_1\_\%E2\%80\%93\_Il\_Crowdsourcing}\textgreater{}}
+\url{https://it.wikisource.org/wiki/Il/_crowdsourcing/_tra/_necessit\%C3\%A0/_di/_coordinamento/_e/_perdita/_di/_controllo/Capitolo/_1/_\%E2\%80\%93/_Il/_Crowdsourcing}
 
 Pezzali M., \emph{Crowdsourcing: quando la rete\ldots{} trova la soluzione}, in
 \emph{Il Sole 24 ore},
-\textless{}{\url{https://www.ilsole24ore.com/art/SoleOnLine4/Economia\%20e\%20Lavoro/2009/02/crowdsourcing-rete-soluzione.shtml}\textgreater{}}
+\url{https://www.ilsole24ore.com/art/SoleOnLine4/Economia\%20e\%20Lavoro/2009/02/crowdsourcing-rete-soluzione.shtml}
 
 Van Ess H., \emph{Harvesting Knowledge. Success criteria and strategies for
 crowdsourcing},
-\textless{}\href{https://www.slideshare.net/StifoPers/presentatie-henk-van-ess}{{https://www.slideshare.net/StifoPers/presentatie-henk-van-ess}}\textgreater{}
+\url{https://www.slideshare.net/StifoPers/presentatie-henk-van-ess}
 
 \[*Alessandra Di Meglio*\]
 
@@ -1446,7 +1456,7 @@ Unicolpi, 2009
 \addcontentsline{toc}{section}{Sitografia}
 
 *\emph{W3CSS} (\emph{s.v}.), in \emph{w3schools.com},
-\textless{}{\url{http://www.w3schools.com/}\textgreater{}}
+\url{http://www.w3schools.com/}
 
 \[*Alessia Marini*\]
 
@@ -1481,7 +1491,7 @@ Visualization} attualmente in vigore è il \emph{Mapping the Republic of
 Letters}, che utilizza rappresentazioni grafiche per aiutare gli
 studiosi ad analizzare oltre 55.000 lettere e documenti archiviati
 digitalmente nel proprio database
-(\href{http://republicofletters.stanford.edu/index.html}{{http://republicofletters.stanford.edu/index.html}}).
+(\url{http://republicofletters.stanford.edu/index.html}).
 
 Tra i principali tool delle \emph{Data Visualization} si annoverano:
 
@@ -1510,7 +1520,7 @@ esempio, si propone la creazione di software grafici specifici per gli
 studi umanistici e promuove la combinazione di testo, video, grafica 3D,
 animazione, audio etc. per rimediare, in questo modo, alla scarsità di
 mezzi di cui dispongono gli umanisti nel campo grafico
-(\href{https://www.tacc.utexas.edu/research-development/tacc-projects/a-thousand-words}{{https://www.tacc.utexas.edu/research-development/tacc-projects/a-thousand-words}}).
+(\url{https://www.tacc.utexas.edu/research-development/tacc-projects/a-thousand-words}).
 
 \hypertarget{bibliografia-consigliata-5}{%
 \section*{Bibliografia consigliata}\label{bibliografia-consigliata-5}}
@@ -1533,28 +1543,28 @@ Telea A. C., \emph{Data Visualization. Principles and Practice}, Boca Raton
 \addcontentsline{toc}{section}{Sitografia}
 
 *\emph{Data Visualization} (\emph{s.v}.), in \emph{Wikipedia},
-\textless{}{\url{https://en.wikipedia.org/wiki/Data_visualization}\textgreater{}}
+\url{https://en.wikipedia.org/wiki/Data_visualization}
 
 \emph{Mapping the Republic of Letters,
-\textless{}}{\url{http://republicofletters.stanford.edu/index.html}\textgreater{}}
+\textless{}}{[}\url{http://republicofletters.stanford.edu/index.html}
 
 Minguzzi G., \emph{Data Visualization: quando i numeri raccontano le storie},
-\textless{}{\url{https://www.merita.biz/data-visualization/}\textgreater{}}
+\url{https://www.merita.biz/data-visualization/}
 
 Minto P., \emph{Data Visualization, una storia/1},
-\textless{}{\url{https://www.rivistastudio.com/data-visualization-una-storia/}\textgreater{}}
+\url{https://www.rivistastudio.com/data-visualization-una-storia/}
 
 Minto P., \emph{Data Visualization, una storia/2},
-\textless{}{\url{https://www.rivistastudio.com/data-visualization-2/}\textgreater{}}
+\url{https://www.rivistastudio.com/data-visualization-2/}
 
 \emph{TACC} - \emph{Texas Advanced Computing Center},
-\textless{}{\url{https://www.tacc.utexas.edu/research-development/tacc-projects/a-thousand-words}\textgreater{}}
+\url{https://www.tacc.utexas.edu/research-development/tacc-projects/a-thousand-words}
 
 Zambon M., \emph{Glossario: Data Visualization},
-\textless{}{\url{https://www.tagmanageritalia.it/glossario-data-visualization/\#gref}\textgreater{}}
+\url{https://www.tagmanageritalia.it/glossario-data-visualization/\#gref}
 
 Zepel T., \emph{Visualization as Digital Humanities?},
-\textless{}{\url{https://www.hastac.org/blogs/tzepel/2013/05/02/visualization-digital-humanities}\textgreater{}}
+\url{https://www.hastac.org/blogs/tzepel/2013/05/02/visualization-digital-humanities}
 
 \[*Alessandra Di Meglio*\]
 
@@ -1626,7 +1636,7 @@ servizi (SaaS).
 Howell A., \emph{Perfect One Day -- Digital The Next: Challenges in
 Preserving Digital Information}, in \emph{Australian Academic \& Research
 Libraries,} 31, 4, 2013, pp.~121-141
-\textless{}\href{https://www.tandfonline.com/doi/pdf/10.1080/00048623.2000.10755130}{{https://www.tandfonline.com/doi/pdf/10.1080/00048623.2000.10755130}}\textgreater{}
+\url{https://www.tandfonline.com/doi/pdf/10.1080/00048623.2000.10755130\%5D\%7B.underline\%7D\%5D(https://www.tandfonline.com/doi/pdf/10.1080/00048623.2000.10755130)}
 
 Ross H. D., \emph{Preserving Digital Materials}, München, Rowman \&
 Littlfield, 2005
@@ -1635,33 +1645,33 @@ Littlfield, 2005
 \section*{Sitografia}\label{sitografia-8}}
 \addcontentsline{toc}{section}{Sitografia}
 
-*\emph{Digital Dark Ages} (\emph{s.v}.), in \emph{LisWiki} ,
-\textless{}\href{https://liswiki.org/wiki/Digital_Dark_Ages}{{https://liswiki.org/wiki/Digital\_Dark\_Ages}}\textgreater{}
+*\emph{Digital Dark Ages} (\emph{s.v}.), in \emph{LisWiki},
+\url{https://liswiki.org/wiki/Digital/_Dark/_Ages}
 
 \emph{IFLA - International Federation of Library Associations and
 Institutions},
-\textless{}\href{https://www.ifla.org/}{{https://www.ifla.org/}}\textgreater{}
+\url{https://www.ifla.org/}
 
 Kuny T., \emph{A Digital Dark Ages? Challenges in the Preservation of
 Electronic Information}, relazione presentata al \emph{Workshop: Audiovisual
 and Multimedia joint with Preservation and Conservation, Information
 Technology, Library Buildings and Equipment, and the PAC Core
 Programme}, September 4, 1997,
-\textless{}\href{https://archive.ifla.org/IV/ifla63/63kuny1.pdf}{{https://archive.ifla.org/IV/ifla63/63kuny1.pdf}}\textgreater{}
+\url{https://archive.ifla.org/IV/ifla63/63kuny1.pdf}
 
-*\emph{Obsolescenza digitale} (\emph{s.v}.), in\emph{Treccani} ,
-\textless{}\href{http://www.treccani.it/enciclopedia/obsolescenza-digitale_(Lessico-del-XXI-Secolo)/}{{http://www.treccani.it/enciclopedia/obsolescenza-digitale\_\%28Lessico-del-XXI-Secolo\%29/}}\textgreater{}
+*\emph{Obsolescenza digitale} (\emph{s.v}.), in\emph{Treccani},
+\url{http://www.treccani.it/enciclopedia/obsolescenza-digitale_(Lessico-del-XXI-Secolo)/}
 
 *\emph{Obsolescenza digitale} (\emph{s.v}.), in \emph{Wikipedia},
-\textless{}\href{https://it.wikipedia.org/wiki/Obsolescenza_digitale}{{https://it.wikipedia.org/wiki/Obsolescenza\_digitale}}\textgreater{}
+\url{https://it.wikipedia.org/wiki/Obsolescenza_digitale}
 
 Rusbridge C., \emph{Excuse me... some Digital Preservation Fallacies?}, in
 \emph{Web Magazine for Informations Professionals},
-\textless{}\href{http://www.ariadne.ac.uk/issue46/rusbridge/}{{http://www.ariadne.ac.uk/issue46/rusbridge/}}\textgreater{}
+\url{http://www.ariadne.ac.uk/issue46/rusbridge/}
 
 Shave L., \emph{It's a digital world. Records and information Management
 Professionals. Guide to avoid Digital Dark Ages},
-\textless{}\href{http://rimpa.com.au/assets/2015/09/eBook-Avoiding-the-digital-dark-age.pdf}{{http://rimpa.com.au/assets/2015/09/eBook-Avoiding-the-digital-dark-age.pdf}}\textgreater{}
+\url{http://rimpa.com.au/assets/2015/09/eBook-Avoiding-the-digital-dark-age.pdf}
 
 \[*Giovanna Battaglino*\]
 
@@ -1723,7 +1733,7 @@ registrante; napoli081995 è il suffisso che coincide con l'oggetto.
 A occuparsi della registrazione dei \emph{DOI} c'è la \emph{multilingual European
 DOI Registration Agency}, meglio nota come mEDRA, l'\emph{Agenzia Europea di
 Registrazione del} \emph{DOI}, nominata dall'IDF (\emph{International DOI
-Foundation}, \href{http://www.doi.org/}{{www.doi.org}}) il primo
+Foundation}, \url{http://www.doi.org/}) il primo
 luglio 2003.
 
 Il successo ottenuto da mEDRA e il forte interesse mostrato dagli
@@ -1746,19 +1756,19 @@ Digital Object Identifier system}, Switzerland, ISO, 2012
 \addcontentsline{toc}{section}{Sitografia}
 
 *\emph{DOI-Digital Object Identifier} (\emph{s.v}.), in \emph{Wikipedia},
-\textless{}{\url{https://it.wikipedia.org/wiki/Digital_object_identifier}\textgreater{}}
+\url{https://it.wikipedia.org/wiki/Digital_object_identifier}
 
-\emph{DOI. Un código esencial para citas bibliográficas y búsquedas
+*DOI. Un código esencial para citas bibliográficas y búsquedas
 científicas,
-\textless{}}{\url{http://infobib.blogspot.com/2009/04/doi-un-codigo-esencial-para-citas.html}\textgreater{}}
+\url{http://infobib.blogspot.com/2009/04/doi-un-codigo-esencial-para-citas.html}
 
-\emph{mEDRA}, \textless{}{\url{https://www.medra.org/it/DOI.htm}\textgreater{}}
+\emph{mEDRA}, \url{https://www.medra.org/it/DOI.htm}
 
 \emph{mEDRA -- multilingual DOI Registration Agency},
-\textless{}{\url{http://www.aie.it/Portals/_default/Skede/Allegati/Skeda105-1466-2007.5.2/Medra\%20brochure\%20applicazioni\%20IT.pdf}\textgreater{}}
+\url{http://www.aie.it/Portals/_default/Skede/Allegati/Skeda105-1466-2007.5.2/Medra\%20brochure\%20applicazioni\%20IT.pdf}
 
 \emph{Servizi SBA: Informazioni sul DOI},
-\textless{}{\url{http://biblioteche.unige.it/node/255}\textgreater{}}
+\url{http://biblioteche.unige.it/node/255}
 
 \[*Alessandra Di Meglio*\]
 
@@ -1943,10 +1953,10 @@ consultabile.
 \textless{}{\href{https://techterms.com/}{https://techterms.com}\textgreater{}}
 
 \emph{RSS Advisory Board},
-\textless{}{\url{http://www.rssboard.org/rss-specification\#whatIsRss}\textgreater{}}
+\url{http://www.rssboard.org/rss-specification\#whatIsRss}
 
 \emph{Rss20AndAtom10Compared},
-\textless{}{\url{http://www.intertwingly.net/wiki/pie/Rss20AndAtom10Compared}\textgreater{}}
+\url{http://www.intertwingly.net/wiki/pie/Rss20AndAtom10Compared}
 
 \[*Antonio Marson Franchini*\]
 
@@ -2056,7 +2066,7 @@ Informazione Bibliografica}, II, pp.~355-362,
 
 Mattioda E., \emph{Alcune considerazioni su filologia e testi digitali}, in
 \emph{Philologie et Politique}, 7, 2007, pp.~163-172,
-\textless{}{\url{http://journals.openedition.org/laboratoireitalien/143}\textgreater{}}
+\url{http://journals.openedition.org/laboratoireitalien/143}
 
 Mordenti R., \emph{Filologia digitale (a partire dal lavoro per l'edizione
 informatica dello Zibaldone Laurenziano di Boccaccio}, in \emph{Humanist
@@ -2168,7 +2178,7 @@ e immediatamente disponibili online.
 
 \emph{*Gold Open Access} (\emph{s.v}.), in \emph{Consiglio Nazionale delle Ricerche.
 Biblioteca d'Area di Bologna},
-\textless{}{\url{http://biblioteca.bo.cnr.it/index.php/it/open-access/pubblicare-oa/item/272-gold-road}\textgreater{}}
+\url{http://biblioteca.bo.cnr.it/index.php/it/open-access/pubblicare-oa/item/272-gold-road}
 
 \[*Antonello Fabio Caterino*\]
 
@@ -2187,7 +2197,7 @@ caricate online versioni pre-print o post-print.
 
 \emph{*Green Open Access} (\emph{s.v}.), in \emph{Consiglio Nazionale delle Ricerche.
 Biblioteca d'Area di Bologna},
-\textless{}{\url{http://biblioteca.bo.cnr.it/index.php/it/open-access/pubblicare-oa/item/271-green-open-access}\textgreater{}}
+\url{http://biblioteca.bo.cnr.it/index.php/it/open-access/pubblicare-oa/item/271-green-open-access}
 
 \[*Antonello Fabio Caterino*\]
 
@@ -2309,7 +2319,7 @@ Unlimited, 2012
 Wojtowicz P., \emph{Darknet and deep web: il lato oscuro del web per la
 privacy e la protezione dati}, Tesi di Laurea, Università di Bologna,
 2013/2014,
-\textless{}{\url{https://amslaurea.unibo.it/8456/1/wojtowicz_patryk_tesi.pdf}\textgreater{}}
+\url{https://amslaurea.unibo.it/8456/1/wojtowicz_patryk_tesi.pdf}
 
 \hypertarget{sitografia-16}{%
 \section*{Sitografia}\label{sitografia-16}}
@@ -2319,16 +2329,16 @@ AaVv, \emph{Below the Surface: exploring the Deep Web}, 2015,
 \textless{}\href{https://documents.trendmicro.com/assets/wp/wp_below_the_surface.pdf}{{https://documents.trendmicro.com/assets/wp/wp\_below\_the\_surface.pdf}}\textgreater{}
 
 \emph{Cybercrime in the Deep Web},
-\textless{}{\url{https://www.blackhat.com/docs/eu-15/materials/eu-15-Balduzzi-Cybercrmine-In-The-Deep-Web-wp.pdf}\textgreater{}}
+\url{https://www.blackhat.com/docs/eu-15/materials/eu-15-Balduzzi-Cybercrmine-In-The-Deep-Web-wp.pdf}
 
 \emph{Motori di ricerca scientifici},
-\textless{}{\url{https://www.unipa.it/biblioteche/Cerca-una-risorsa/Motori-di-ricerca-scientifici-/}\textgreater{}}
+\url{https://www.unipa.it/biblioteche/Cerca-una-risorsa/Motori-di-ricerca-scientifici-/}
 
 \emph{*Web Sommerso}~(\emph{s.v}.), in \emph{Wikipedia},
 \textless{}\href{https://it.wikipedia.org/wiki/Web_sommerso}{{https://it.wikipedia.org/wiki/Web\_sommerso}}\textgreater{}
 
 \emph{What is the Deep Web? A first trip into the abyss},
-\textless{}{\url{http://www.aofs.org/wp-content/uploads/2013/04/130925-What-is-the-Deep-Web.pdf}\textgreater{}}
+\url{http://www.aofs.org/wp-content/uploads/2013/04/130925-What-is-the-Deep-Web.pdf}
 
 \[*Alessandra Di Meglio*\]
 
@@ -2806,7 +2816,7 @@ algorithms}, USA 2014
 
 Stefenelli M., \emph{Apprendimento automatico nei giochi di strategia}, Tesi
 di Laurea, Università di Bologna Campus di Cesena, 2013/2014
-\textless{}{\url{https://amslaurea.unibo.it/7660/1/TESI_Marco_Stefenelli.pdf}\textgreater{}}
+\url{https://amslaurea.unibo.it/7660/1/TESI_Marco_Stefenelli.pdf}
 
 \[*Alessandra Di Meglio*\]
 
@@ -3039,7 +3049,7 @@ Biblioteche, 2017
 \emph{Linee guida per la digitalizzazione e metadati}, in \emph{ICCU -- Istituto
 Centrale per il Catalogo Unico, delle Biblioteche italiane e per le
 informazioni bibliografiche},
-\textbf{\textless{}}{\url{http://www.iccu.sbn.it/opencms/opencms/it/main/standard/metadati}\textgreater{}}
+\textbf{\textless{}}{[}\url{http://www.iccu.sbn.it/opencms/opencms/it/main/standard/metadati}
 
 \emph{METS -- Metadata Encoding \& Transmission Standard},
 
@@ -3048,14 +3058,14 @@ informazioni bibliografiche},
 Pierazzo E. (a cura di), \emph{MAG -- Metadati Amministrativi e Gestionali.
 Manuale Utente},
 
-\textless{}{\url{http://www.iccu.sbn.it/upload/documenti/Manuale.pdf}\textgreater{}}
+\url{http://www.iccu.sbn.it/upload/documenti/Manuale.pdf}
 
 \emph{Metadata Object Description Schema,}
 \textless{}\href{http://www.loc.gov/standards/mods/}{{http://www.loc.gov/standards/mods/}}\textgreater{}
 
 *\emph{OAIS Reference Model}, in \emph{Conservazione Digitale. Centro di
 eccellenza italiano sulla Conservazione Digitale},
-\textless{}{\url{http://www.conservazionedigitale.org/wp/approfondimenti/depositi-di-conservazione/oais-reference-model}\textgreater{}}
+\url{http://www.conservazionedigitale.org/wp/approfondimenti/depositi-di-conservazione/oais-reference-model}
 
 \[*Concetta Damiani*\]
 
@@ -3135,7 +3145,7 @@ Physics}, 49, 2008, pp.~2-20,
 \textless{}\href{https://www.researchgate.net/publication/228663468_An_example_of_mathematical_authorship_attribution}{{https://www.researchgate.net/publication/228663468\_An\_example\_of\_mathematical\_authorship\_attribution}}\textgreater{}
 
 Basile C. - Lana M.,~\emph{L'attribuzione di testi con metodi quantitativi:
-riconoscimento di testi gramsciani}, in \emph{AIDA Informazioni} , 1-2, 2008,
+riconoscimento di testi gramsciani}, in \emph{AIDA Informazioni}, 1-2, 2008,
 pp.~165-183,
 \textless{}\href{https://www.academia.edu/6604207/Lattribuzione_di_testi_con_metodi_quantitativi_riconoscimento_di_testi_gramsciani}{{https://www.academia.edu/6604207/Lattribuzione\_di\_testi\_con\_metodi\_quantitativi\_riconoscimento\_di\_testi\_gramsciani}}\textgreater{}
 
@@ -3172,7 +3182,7 @@ Cultural Influence}, in \emph{Journal on Computing and Cultural Heritage}, 9,
 \textless{}\href{https://dl.acm.org/citation.cfm?id=2940332}{{https://dl.acm.org/citation.cfm?id=2940332}}\textgreater{}
 
 Tamburini F., \emph{La linguistica computazionale: un crogiolo di esperienze
-multidisciplinari}, in \emph{GRISELDAONLINE} , 2008, pp.~1-11,
+multidisciplinari}, in \emph{GRISELDAONLINE}, 2008, pp.~1-11,
 \textless{}\href{http://www.griseldaonline.it/informatica/la-linguistica-computazionale-tamburini.html}{{http://www.griseldaonline.it/informatica/la-linguistica-computazionale-tamburini.html}}\textgreater{}
 
 \hypertarget{sitografia-22}{%
@@ -3280,7 +3290,7 @@ evoluzione}, in \emph{DigItalia}. \emph{Rivista del digitale nel beni culturali}
 Pierazzo E. (a cura di), \emph{MAG -- Metadati Amministrativi e Gestionali.
 Manuale Utente},
 
-\textless{}{\url{http://www.iccu.sbn.it/upload/documenti/Manuale.pdf}\textgreater{}}
+\url{http://www.iccu.sbn.it/upload/documenti/Manuale.pdf}
 
 \[*Antonio Marson Franchini*\]
 
@@ -3409,23 +3419,23 @@ Science Reference, 2012
 \addcontentsline{toc}{section}{Sitografia}
 
 \emph{AIB Web}, \emph{Il Web dell'Associazione Italiana Biblioteche}: \emph{MAI},
-\textless{}{\url{http://www.aib.it/progetti/opac-italiani/mai-ricerca-globale/}\textgreater{}}
+\url{http://www.aib.it/progetti/opac-italiani/mai-ricerca-globale/}
 
 \emph{Gateway to Library Catalogs},
-\textless{}{\url{https://www.loc.gov/z3950/gateway.html}\textgreater{}}
+\url{https://www.loc.gov/z3950/gateway.html}
 
 Gnoli Claudio, \emph{Opac in Italia: una panoramica delle tipologie e delle
 modalità di consultazione},
 \href{http://www.aib.it/aib/sezioni/emr/bibtime/num-ii-1/gnoli.htm\#nota1}{{http://www.aib.it/aib/sezioni/emr/bibtime/num-ii-1/gnoli.htm\#nota1}}
 
 *\emph{OPAC} (\emph{s.v}.), in \emph{Wikipedia},
-\textless{}{\url{https://it.wikipedia.org/wiki/OPAC}\textgreater{}}
+\url{https://it.wikipedia.org/wiki/OPAC}
 
 \emph{OPAC SBN}, \emph{Catalogo del Servizio Bibliotecario Nazionale},
-\textless{}{\url{https://opac.sbn.it/opacsbn/opac/iccu/informazioni.jsp}\textgreater{}}
+\url{https://opac.sbn.it/opacsbn/opac/iccu/informazioni.jsp}
 
 *\emph{Telnet} (\emph{s.v}.), in \emph{Wikipedia},
-\textless{}{\url{https://it.wikipedia.org/wiki/Telnet}\textgreater{}}
+\url{https://it.wikipedia.org/wiki/Telnet}
 
 \[*Alessandra Di Meglio*\]
 
@@ -3621,7 +3631,7 @@ Luigi Rosiello}, Bologna, Zanichelli, 1995
 \addcontentsline{toc}{section}{Sitografia}
 
 *\emph{Paratesto} (\emph{s.v}.), in \emph{Garzanti Linguistica},
-\textless{}{\url{http://www.garzantilinguistica.it/ricerca/?q=paratesto}\textgreater{}}
+\url{http://www.garzantilinguistica.it/ricerca/?q=paratesto}
 
 *\emph{Paratesto} (\emph{s.v}.), in \emph{Treccani},
 \textless{}\href{http://www.treccani.it/vocabolario/paratesto/}{{http://www.treccani.it/vocabolario/paratesto/}}\textgreater{}
@@ -4063,7 +4073,7 @@ System}, in \emph{IBM Cambridge}
 \emph{Scientific Center -- Technical Report} \emph{No.~320-2094}, 1973,
 \textless{}\href{http://www.sgmlsource.com/history/G320-2094/G320-2094.html}{{http://www.sgmlsource.com/history/G320-2094/G320-2094.html}}\textgreater{}
 
-\emph{SGML Web Page}, \textless{}{\url{http://www.sil.org/sgml/sgml.html}\textgreater{}}
+\emph{SGML Web Page}, \url{http://www.sil.org/sgml/sgml.html}
 
 \[*Alessia Marini*\]
 
@@ -4141,10 +4151,10 @@ Isone L., \emph{Strategie SEO per l'E-COMMERCE}, Milano, Hoepli, 2017,
 
 AaVv, \emph{Dall'informatica umanistica alle culture digitali. In memoria di
 Giuseppe Gigliozzi},
-\textless{}{\url{file:///C:/Users/Utente/Downloads/DallInformatica_umanistica_alle_culture.pdf}\textgreater{}}
+\url{file:///C:/Users/Utente/Downloads/DallInformatica_umanistica_alle_culture.pdf}
 
 Minini A., \emph{Le tassonomie verticali e orizzontali},
-\textless{}{\url{http://www.andreaminini.com/seo/la-tassonomia-del-sito-web-nella-seo}\textgreater{}}
+\url{http://www.andreaminini.com/seo/la-tassonomia-del-sito-web-nella-seo}
 
 Ruecker S., \emph{A brief taxonomy of prototypes for the Digital Humanities},
 \textless{}{\href{file:///C:/Users/Utente/Downloads/222-Article\%20Text-2065-2-10-20151015.pdf}{file:///C:/Users/Utente/Downloads/222-Article\%20Text-2065-2-10-20151015.pdf}\textgreater{}}
@@ -4153,11 +4163,11 @@ Ruecker S., \emph{A brief taxonomy of prototypes for the Digital Humanities},
 \textless{}\href{http://www.treccani.it/enciclopedia/tassonomia/}{{http://www.treccani.it/enciclopedia/tassonomia/}}\textgreater{}
 
 *\emph{Tassonomia} (\emph{s.v}.), in \emph{Wikipedia},
-\textless{}{\url{https://it.wikipedia.org/wiki/Tassonomia}\textgreater{}}
+\url{https://it.wikipedia.org/wiki/Tassonomia}
 
 Wahl Z. - Busch J., \emph{Il valore della tassonomia nella ricerca delle
 informazioni},
-\textless{}{\url{http://www.datamanager.it/rivista/searching/il-valore-della-tassonomia-nella-ricerca-delle-informazioni/999/}\textgreater{}}
+\url{http://www.datamanager.it/rivista/searching/il-valore-della-tassonomia-nella-ricerca-delle-informazioni/999/}
 
 \[*Alessandra Di Meglio*\]
 
@@ -4656,7 +4666,7 @@ Unicopli, 2009
 \addcontentsline{toc}{section}{Sitografia}
 
 *\emph{Learn W3C} (\emph{s.v}.), in \emph{w3schools.com},
-\textless{}{\url{http://www.w3schools.com/}\textgreater{}}
+\url{http://www.w3schools.com/}
 
 \[*Alessia Marini*\]
 
@@ -4742,10 +4752,10 @@ Unicopli, 2009
 \addcontentsline{toc}{section}{Sitografia}
 
 Sorato A., \emph{Linguaggi per la rete: XML},
-\textless{}{\url{http://www.dsi.unive.it/~asorato/SlideXML/DTD.pdf}\textgreater{}}
+\url{http://www.dsi.unive.it/~asorato/SlideXML/DTD.pdf}
 
 *\emph{Learn W3C} (\emph{s.v}.), in \emph{w3schools.com},
-\textless{}{\url{http://www.w3schools.com/}\textgreater{}}
+\url{http://www.w3schools.com/}
 
 \[*Alessia Marini*\]
 
