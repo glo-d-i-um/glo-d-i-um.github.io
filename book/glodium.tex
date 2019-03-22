@@ -325,6 +325,13 @@
 \renewcommand{\UrlFont}{\footnotesize}
 
 \DeclareUrlCommand\url{\def\UrlLeft{$<$}\def\UrlRight{$>$}}
+
+\usepackage{afterpage}
+
+\newcommand\blankpage{%
+    \null
+    \thispagestyle{empty}%
+    \newpage}
 \usepackage[]{natbib}
 \bibliographystyle{plainnat}
 
@@ -534,6 +541,9 @@ Si potrebbe dire che in un certo senso gli strumenti informatici possano contrib
 Ma non solamente il modo di approcciare un testo ha conosciuto questo epocale cambio di paradigma. Non solo dunque gli strumenti, quanto il tipo stesso dell'oggetto dell'indagine di studio conosce uno slittamento orizzontale delle sue definizioni.
 
 \[*Marco~Petolicchio*\]
+
+\afterpage{\blankpage}
+\afterpage{\blankpage}
 
 \hypertarget{archivio}{%
 \chapter{Archivio}\label{archivio}}
@@ -978,10 +988,10 @@ Rivista del Digitale nei Beni Culturali}, 1, 2005,
 \addcontentsline{toc}{section}{Sitografia}
 
 *\emph{Biblioteca digitale} (\emph{s.v.}), in \emph{Treccani},
-\url{http://www.treccani.it/enciclopedia/biblioteca-digitale_(Enciclopedia-Italiana)}{]}\{.underline\}
+\url{http://www.treccani.it/enciclopedia/biblioteca-digitale_(Enciclopedia-Italiana)}{]}
 
 *\emph{Biblioteca virtuale} (\emph{s.v.}), in \emph{Treccani},
-\url{http://www.treccani.it/enciclopedia/biblioteca-virtuale/_\%28XXI-Secolo\%29}{]}\{.underline\}
+\url{http://www.treccani.it/enciclopedia/biblioteca-virtuale/_\%28XXI-Secolo\%29}{]}
 
 \emph{BNCF - Biblioteca Nazionale Centrale di Firenze},
 \url{http://thes.bncf.firenze.sbn.it/termine.php?id=30683}
@@ -1651,7 +1661,7 @@ servizi (SaaS).
 Howell A., \emph{Perfect One Day -- Digital The Next: Challenges in
 Preserving Digital Information}, in \emph{Australian Academic \& Research
 Libraries,} 31, 4, 2013, pp.~121-141
-\url{https://www.tandfonline.com/doi/pdf/10.1080/00048623.2000.10755130\%5D\%7B.underline\%7D\%5D(https://www.tandfonline.com/doi/pdf/10.1080/00048623.2000.10755130)}
+\url{https://www.tandfonline.com/doi/pdf/10.1080/00048623.2000.10755130\%5D\%5D(https://www.tandfonline.com/doi/pdf/10.1080/00048623.2000.10755130)}
 
 Ross H. D., \emph{Preserving Digital Materials}, München, Rowman \&
 Littlfield, 2005
@@ -3369,7 +3379,7 @@ Si distinguono varie tipologie di \emph{OPAC}:
   sono in grado di interrogare più \emph{OPAC} mediante una sola richiesta,
   e di restituire i risultati dei diversi \emph{OPAC} coperti. Un esempio
   italiano di metaopac è il MAI (\emph{Metaopac Azalai Italiano}),
-  \href{http://www.aib.it/progetti/opac-italiani/mai-ricerca-globale/}{{http://www.aib.it/progetti/opac-italiani/mai-ricerca-globale/}}.
+  \href{http://www.aib.it/progetti/opac-italiani/mai-ricerca-globale/}{{[}http://www.aib.it/progetti/opac-italiani/mai-ricerca-globale/{]}}.
 \end{enumerate}
 
 Per facilitare la ricerca alcune pagine Web raccolgono link di \emph{OPAC},
@@ -4765,19 +4775,14 @@ Sorato A., \emph{Linguaggi per la rete: XML},
 
 \[*Alessia~Marini*\]
 
-\newpage
-\thispagestyle{empty}
-
-\vspace*{\fill}
-\centering{\Large{*}}
-
-\centering{\Large{*~~~*}}
-
-\centering{\Large{*}}
-
-\vfill
 \pagebreak
-
+\afterpage{\newpage}
+\pagebreak
+\thispagestyle{empty}
+\phantom{~}
+\newpage
+\clearpage
+\afterpage{\newpage}
 \thispagestyle{empty}
 
 \vspace*{\fill}

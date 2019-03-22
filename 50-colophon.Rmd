@@ -1,23 +1,14 @@
-\newpage
-\thispagestyle{empty}
-
-\vspace*{\fill}
-\centering{\Large{*}}
-
-\centering{\Large{*~~~*}}
-
-\centering{\Large{*}}
-
-
-\vfill
 \pagebreak
-
+\afterpage{\newpage}
+\pagebreak
+\thispagestyle{empty}
+\phantom{~}
+\newpage
+\clearpage
+\afterpage{\newpage}
 \thispagestyle{empty}
 
 \vspace*{\fill}
-
-
-
 Finito di stampare nel mese di Aprile 2019.
 
 \vspace{2em}
