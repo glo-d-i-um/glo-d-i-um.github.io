@@ -19,7 +19,7 @@
 [X] Pag. 97: «oggetto fisico», «oggetto logico’,»oggetto concettuale’, ’collezione di elementi’. (virgole alte, 'oggetto logico', 'oggetto concettuale', 'collezione di elementi'); 
 [X] Pag. 108: dovrebbe esserci uno spazio tra i paragrafi: Definizione; etimologia, Parti, Peritesto, epitesto, etc.; 
 [X] Pag. 113: «In Italia sono inoltre imprescindibili per la Public History sia la lezione degli storici orali – con le riflessioni sul concetto di «autorità condivisa», (virgole alte, 'autorità condivisa'); con un seminario dedicato nell’ambito dei «Cantieri di Storia» (corsivo); 
-[ ] Pag. 114: interessato sia alla storia che alla memoria e curare una ricostruzione del «contesto» (virgole alte, 'contesto'); questo ha però rafforzato l’indispensabilità di un costante impegno «pubblico» (senza virgole); 
-[ ] Pag. 128: Non so se riesci ad allineare le <creation>, <laugUsage>, <textClass> alla voce <profileDesc> (in pratica sono asimmetrici); 
-[ ] Pag. 129: Nella definizione moderna assume particolare rilevanza anche l’utente e la sua necessità di reperire informazioni «strutturate» (virgole alte, 'strutturate'); 
-[ ] Pag. 130: la «migrazione» sul Web di molte informazioni in precedenza fruibili solo su supporto cartaceo (virgole alte, 'migrazione'); o, la necessità di garantire un certo livello qualitativo delle informazioni presenti sul Web e la necessità di offrire agli utenti un sapere «strutturato» (senza virgole). 
+[X] Pag. 114: interessato sia alla storia che alla memoria e curare una ricostruzione del «contesto» (virgole alte, 'contesto'); questo ha però rafforzato l’indispensabilità di un costante impegno «pubblico» (senza virgole); 
+[X] Pag. 128: Non so se riesci ad allineare le <creation>, <laugUsage>, <textClass> alla voce <profileDesc> (in pratica sono asimmetrici); 
+[X] Pag. 129: Nella definizione moderna assume particolare rilevanza anche l’utente e la sua necessità di reperire informazioni «strutturate» (virgole alte, 'strutturate'); 
+[X] Pag. 130: la «migrazione» sul Web di molte informazioni in precedenza fruibili solo su supporto cartaceo (virgole alte, 'migrazione'); o, la necessità di garantire un certo livello qualitativo delle informazioni presenti sul Web e la necessità di offrire agli utenti un sapere «strutturato» (senza virgole). 

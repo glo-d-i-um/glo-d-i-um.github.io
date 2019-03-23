@@ -357,23 +357,23 @@
 %\pagecolor{titlepagecolor}
 
 \noindent
-\makebox[0pt][l]{\rule{1.4\textwidth}{1pt}}
+%\makebox[0pt][l]{\rule{1.4\textwidth}{1pt}}
 \par
 
 \noindent
-\textbf{\sffamily{Lo stilo di Fileta}} \par \vskip\baselineskip 
+%\textbf{\sffamily{Lo stilo di Fileta}} \par \vskip\baselineskip 
 
 
 \vspace{2em}
 
-\begin{flushleft}
+\begin{center}
 
 \noindent
 {\HUGE \sf \@title  \par}\vskip\baselineskip
 
 \noindent
 {\Large \sf \@subtitle \par} \vskip\baselineskip
-\end{flushleft}
+
 
 \noindent
 %{\large{\sffamily\MakeTextUppercase{\@author}}\par} 
@@ -384,11 +384,24 @@
 %\author{$for(author){\large{\sffamily\MakeTextUppercase{\@author}}\par} $endfor$}
 
 \vfill
-\noindent{\large{\textbf{A cura di}\\ \\ Antonello Fabio Caterino \\ Marcello Bolpagni \\ Marco Petolicchio \\ Alessandra Di Meglio \\ Vincenzo Vozza\par}}
+\noindent{\large{\textbf{A cura di}\par\vskip\baselineskip Antonello Fabio Caterino \\ Marcello Bolpagni \\ Marco Petolicchio \\ Alessandra Di Meglio \\ Vincenzo Vozza\par}}
 
 \vfill
 
- {\footnotesize   \ttfamily{draft : : \today   : :  \currenttime} \par}
+\begin{figure}
+  \includegraphics[width=.2\linewidth]{logo.png}
+\end{figure}
+
+\vspace{2em}
+\textbf{\large{Ururi - 2019}}\par 
+\vspace{2em}
+
+\textsc{\large{Capsa Filetae}}\\
+{\footnotesize   \ttfamily{draft : : \today   : :  \currenttime} \par}
+
+\end{center}
+
+
 
 %\color{black}
 
@@ -397,14 +410,64 @@
 \nopagecolor% Use this to restore the color pages to white
 \pagecolor{white}
 
-
+%\pagebreak
+%\afterpage{\newpage}
+%\pagebreak
 %\thispagestyle{empty}
-
-%~\cleardoublepage
+%\phantom{~}
+%\newpage
+%\clearpage
+%\afterpage{\newpage}
 \thispagestyle{empty}
-\vspace{\fill}
-Quarta di copertina
 
+\setlength{\parindent}{0pt}
+\textbf{Strumenti e materiali per gli studia humanitatis}
+
+La collana \textsc{Capsa Filetae} intende offrire manuali per la
+didattica delle discipline umanistiche al liceo e all'università.
+Realizzati da docenti esperti, nei vari ordini formativi, nell'ambito
+sia della ricerca sia dell'insegnamento, i manuali vogliono dotare gli
+studenti di strumenti agili e al contempo rigorosi per l'approfondimento
+di temi imprescindibili per il loro percorso.
+
+\vspace{2em}
+
+\textbf{Comitato di direzione}
+
+Giovanna \textsc{Battaglino}, Antonello Fabio \textsc{Caterino}, 
+Francesca \textsc{Favaro}, Vincenzo \textsc{Vozza}
+
+\vspace{2em}
+
+\textbf{Comitato scientifico}
+
+Marco \textsc{Antonucci}, Sergio \textsc{Audano,} Paola
+\textsc{Baseotto}, Giovanna \textsc{Battaglino}, Monica \textsc{Bianco},
+Marcello \textsc{Bolpagni}, Valentina \textsc{Caruso}, Antonello Fabio 
+\textsc{Caterino}, Augusto \textsc{Cosentino}, Alessandra \textsc{Di}
+\textsc{Meglio}, Francesca \textsc{Favaro}, Marcello \textsc{Nobili},
+Salvatore \textsc{Puggioni}, Sara \textsc{Ricci}, Vincenzo
+\textsc{Vozza}, Michelangelo \textsc{Zaccarello}, Claudia
+\textsc{Zavaglini}
+
+
+\vspace{2em}
+
+\textbf{Redazione}
+
+Vanessa \textsc{Iacoacci}, Alessia \textsc{Marini}
+
+
+\vspace{2em}
+
+\textbf{\textsc{isbn}} 978-88-32173031
+
+\textbf{\textsc{doi}} 10.5281/zenodo.2594767
+
+\vspace{1em}
+\textbf{Copyright © 2019 -- Al segno di Fileta}
+
+\setlength{\parindent}{1em}
 
 
 {
@@ -536,10 +599,14 @@ Appare nondimeno evidente il ruolo cardinale dei mezzi informatici nella designa
 Così, nozioni che fino a qualche decennio fa potevano apparire come un campo esclusivo delle ``scienze dure" rientrano oggi nello spazio esplorabile dalla curiosità dell'umanista, laddove la ricerca del \emph{dato} diviene una misura analitica della quantità di \emph{informazione} di un elemento di studio, aprendo la via ad un'investigazione ad ampio spettro del testo letterario, non più univocamente legato al proprio contenuto referenziale bensì interfaccia esso stesso di una complessa relazione di elementi interni ed esterni, che configura una rete di conoscenza complessa, dalla geometria sfuggevole e seducente\footnote{Sull'idea di ``granularità" e ``frammentazione" si può fare riferimento al recente Roncaglia, G., \emph{L'età della frammentazione. Cultura del libro e scuola digitale}, Roma-Bari, Laterza, 2018}.
 Slegata l'informazione dal suo \emph{integumentum} essa può essere manipolata, analizzata, comparata nelle sue più piccole componenti in un continuo gioco di scomposizione, tale da rendere possibile la formazione di nuove e fino ad ora impensabili analogie tra i dati, che si offrono allo studioso in una dimensione agnostica, nuda, pronta ad accogliere le sue curiosità.
 
-Si potrebbe dire che in un certo senso gli strumenti informatici possano contribuire a rompere quel tacito patto tra l'autore e il lettore, legati in quello spazio fisico dell'indivisibilità dei contenuti, e permettere in maniera sin troppo semplice di operare quasi chirurgicamente una tale estrapolazione di informazioni così da poterne evidenziare aspetti ora slegati dall'impresa narrativa, come nel caso delle opportunità offerte dagli approcci orientati al \emph{distant reading}\footnote{Si possono consigliare, a tale scopo, i lavori di Franco Moretti ed, in particolare: Moretti, F., \emph{Graphs, maps, trees: abstract models for a literary history}, Londra-New York: Verso, 2005 e Moretti, F., \emph{Distant Reading}, Londra: Verso, 2013.}.
-Oppure indagare, con un viatico di segni e simboli, le tracce stilistiche dell'autore ora nascosto dal lavoro letterario, avvalendosi dell'uso di indagini quantitative, verso la filologia attributiva.
+Si potrebbe dire che in un certo senso gli strumenti informatici possano contribuire a rompere quel tacito patto tra l'autore e il lettore, legati in quello spazio fisico dell'indivisibilità dei contenuti, e permettere in maniera sin troppo semplice di operare quasi chirurgicamente una tale estrapolazione di informazioni così da poterne evidenziare aspetti ora slegati dall'impresa narrativa, come nel caso delle opportunità offerte dagli approcci orientati al \emph{distant reading}\footnote{Si possono consigliare, a tale scopo, i lavori di Franco Moretti ed, in particolare: Moretti, F., \emph{Graphs, maps, trees: abstract models for a literary history}, Londra-New York: Verso, 2005 e Moretti, F., \emph{Distant Reading}, Londra: Verso, 2013.},
+oppure indagare, con un viatico di segni e simboli, le tracce stilistiche dell'autore ora nascosto dal lavoro letterario, avvalendosi dell'uso di indagini quantitative, verso una filologia attributiva assistita dagli strumenti digitali.\\
+Così un umanista digitale potrà estrarre un certo numero di informazioni che potranno essere poi processate, visualizzate, comparate, trasformate, passando da una realtà concreta quale, in ultima analisi, la sbavatura dell'inchiostro su una pagina del libro, ad una rappresentazione astratta e mediata dal computer di quegli stessi elementi informativi, in un incessante scambio di informazioni tra l'oggetto fisico e la sua rappresentazione digitale\footnote{Si pensi anche al lavoro di Padre Roberto Busa, sostanziale precorritore di tali applicazioni, che dall'inizio degli anni '50 del secolo scorso ebbe l'intuizione di utilizzare i primi calcolatori a schede perforate per allestire una lemmatizzazione integrale delle opere di Tommaso d'Aquino.}.
 
-Ma non solamente il modo di approcciare un testo ha conosciuto questo epocale cambio di paradigma. Non solo dunque gli strumenti, quanto l'oggetto stesso dell'indagine di studio conosce uno slittamento orizzontale delle sue definizioni. Cosa distingue e definisce un \emph{testo} come una tipologia di informazione studiabile, riconoscibile rispetto ad altri, pure possibili?
+Ma non solamente il modo di approcciare un testo ha conosciuto questo epocale cambio di paradigma. Non solo dunque gli strumenti, quanto l'oggetto stesso dell'indagine di studio conosce uno slittamento orizzontale delle sue definizioni. Cosa distingue e definisce un \emph{testo} come una tipologia di informazione studiabile, riconoscibile rispetto ad altri, altrettanto possibili? Notevole è il numero di studi che iniziano ad interfacciare prodotti del mondo digitale quale strumento nativo di ricerca: così emergono le analisi linguistiche dei \emph{post} sui social network, si aprono le analogie tra reti sociali digitali e analogiche, si comparano i comportamenti sulle piattaforme virtuali con quelli dell'esperienza quotidiana. In tale maniera possiamo pensare a queste tecnologie non come un mero strumento utile per applicazioni con finalità statistiche e quantitative, quanto ad una integrale opera di allargamento dell'universo del conoscibile in tutte le sue forme costituenti, come spazio complanare di interessi a quelli ben sperimentati\footnote{Owens, T., \emph{Defining Data for Humanists: Text, Artifact, Information or Evidence?}, in \emph{Journal of Digital Humanities}, Num.1 Vol.1,2011, \url{http://journalofdigitalhumanities.org/1-1/defining-data-for-humanists-by-trevor-owens/}}.
+
+La domanda iniziale, che dà il titolo a questo mio breve contributo, vorrebbe dunque focalizzarsi su un punto che potrebbe essere centrale in questa analisi: c'è una possibilità attuale e non reazionaria che permetta di pensare ad una disciplina, quale quella degli studi umanistici, che non sia al contempo basata su mezzi informatici, computazionali o digitali?
+Credo
 
 \[*Marco~Petolicchio*\]
 
@@ -4793,16 +4860,21 @@ Sorato A., \emph{Linguaggi per la rete: XML},
 \thispagestyle{empty}
 
 \vspace*{\fill}
-
+\begin{center}
 Finito di stampare nel mese di Aprile 2019.
 
 \vspace{2em}
 
-Questo lavoro è stato realizzato con LaTeX su sistema GNU/Linux, utilizzando il carattere ``EB Garamond" corpo 12pt per il testo. La pagina è in formato B5 con margini da 24mm, a cui vanno aggiunti 10mm di spazio di rilegatura.
+Questo  lavoro  è  stato  realizzato  con  LaTeX su sistema GNU/Linux, utilizzando il carattere \`\`EB Garamond\" corpo 12pt per il testo. La pagina è in formato B5 con margini da 24mm, con 10mm di spazio di rilegatura.
+
+
+Progetto grafico a cura di Marco Petolicchio.
 
 \vspace{2em}
 
-I nomi commerciali, i loghi e i marchi registrati menzionati nel prodotto appartengono ai rispettivi proprietari e autori.
+
+I nomi commerciali,  i loghi e i marchi registrati menzionati nel prodotto appartengono  ai  rispettivi  proprietari e autori.
+\end{center}
 
 \backmatter
 \end{document}
