@@ -1,0 +1,25 @@
+[X] Pag. 9: Il trattamento e la cura degli archivi (archivi in corsivo); 
+[X] Pag. 10: Questo collaudato modello è però oggetto di riflessione: le particolari caratteristiche degli archivi [ ] digitali (archivi in corsivo); L’archivio inoltre è andato assumendo, sempre più nettamente, nuovi significati: è «luogo» [ ] (virgole alte '...', 'luogo'); 
+[X] Pag. 15: La prima convenzione di codifica e formattazione dei caratteri greci fu ideata da David W. Packard [ ] negli anni «70 e fu definita come 'Alpha code» (anni '70, e fu definita come Alpha Code); 
+[X] Pag. 20: Una prima definizione più articolata è quella proposta da Marchionini-Fox (1999), i quali affermano [ ] che «il lavoro di una biblioteca digitale si realizza in uno «spazio» (virgole alte, 'spazio') anni «90 ('90); ’strutturale» (senza virgole); Pertanto, la biblioteca digitale è concepita sostanzialmente come «sistema informativo», le cui [ ] «risorse» (senza virgole);  Naturalmente, tale «spazio» (virgole alte, 'spazio'); 
+[X] Pag. 21: definizioni proposte, è, senza dubbio, possibile trarre alcune conclusioni, che mirano non ad [ ] «imbrigliare» il concetto (virgole alte, 'imbrigliare'); La bibliografia di Borgman andrebbe in ordine cronologico. (Mi ero appuntata di cambiarlo prima [ ] di inviarlo, ma mi è sfuggito, perdonami); 
+[X] Pag. 25: Nell’Oxford Dictionary, si legge (Oxford Dictionary in corsivo); 
+[X] Pag. 41:  di liste o mappe che trasforma suddetti dati in «parlanti» (virgole alte, 'parlanti'); 
+[X] Pag. 47: stata successivamente ripresa e «valorizzata» (senza virgole); 
+[X] Pag. 52: *DOI. Un código esencial para citas bibliográficas y búsquedas científicas (in corsivo); 
+[X] Pag. 55: In anni recenti, anche alla luce di importanti novità – dal rilascio dell’Encoded Archival Context (non va in corsivo); 
+[X] Pag. 57: . La vasta popolarità del formato RSS e la sua lunga storia hanno fatto in modo che il termine Feed RSS venga utilizzato spesso come sinonimo di «web feed» (in corsivo eliminando le caporali); 
+[X] Pag. 59: la Andrews (2012, 2) propone una definizione, per così dire, «conciliante» (virgole alte, 'conciliante'); «we might call «digital philology» (virgole alte, 'digital philology'); gestione «elastica» delle varianti testuali (senza caporali); 
+[X] Pag. 60: in merito al «dinamismo» (virgole alte, 'dinamismo'); La «digitalizzazione» del lavoro del filologo (senza virgole); anziché fornire un «unificato» (senza virgole); La filologia, seppure in un contesto digitale, resta sempre sostanzialmente «interpretazione» (senza virgole);
+[X] Pag. 73: Con questa ’liberalizzazione» (senza virgole); 
+[X] Pag. 74:     3. Chiuso l’ viene aperto il , che rappresenta il vero «corpo» (virgole alte, 'corpo'); 
+[X] Pag. 81: “Training Pattern” (senza virgole); 
+[X] Pag. 93: grazie alla quale il TLG, «lavorando» (senza virgole); 
+[X] Pag. 94: Gli n-grammi possono essere utilizzati anche per determinare il «peso» culturale (virgole alte, 'peso') ; 
+[X] Pag. 97: «oggetto fisico», «oggetto logico’,»oggetto concettuale’, ’collezione di elementi’. (virgole alte, 'oggetto logico', 'oggetto concettuale', 'collezione di elementi'); 
+[X] Pag. 108: dovrebbe esserci uno spazio tra i paragrafi: Definizione; etimologia, Parti, Peritesto, epitesto, etc.; 
+[X] Pag. 113: «In Italia sono inoltre imprescindibili per la Public History sia la lezione degli storici orali – con le riflessioni sul concetto di «autorità condivisa», (virgole alte, 'autorità condivisa'); con un seminario dedicato nell’ambito dei «Cantieri di Storia» (corsivo); 
+[ ] Pag. 114: interessato sia alla storia che alla memoria e curare una ricostruzione del «contesto» (virgole alte, 'contesto'); questo ha però rafforzato l’indispensabilità di un costante impegno «pubblico» (senza virgole); 
+[ ] Pag. 128: Non so se riesci ad allineare le <creation>, <laugUsage>, <textClass> alla voce <profileDesc> (in pratica sono asimmetrici); 
+[ ] Pag. 129: Nella definizione moderna assume particolare rilevanza anche l’utente e la sua necessità di reperire informazioni «strutturate» (virgole alte, 'strutturate'); 
+[ ] Pag. 130: la «migrazione» sul Web di molte informazioni in precedenza fruibili solo su supporto cartaceo (virgole alte, 'migrazione'); o, la necessità di garantire un certo livello qualitativo delle informazioni presenti sul Web e la necessità di offrire agli utenti un sapere «strutturato» (senza virgole). 

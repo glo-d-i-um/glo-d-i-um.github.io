@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018/Arch Linux) (preloaded format=xelatex 2019.3.10)  22 MAR 2019 17:59
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018/Arch Linux) (preloaded format=xelatex 2019.3.10)  23 MAR 2019 09:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2440,11 +2440,11 @@ Class scrbook Warning: \float@addtolists detected!
 (scrbook)              deprecated \float@addtolist interface .
 
 LaTeX Font Info:    Font shape `TU/EBGaramond(0)/m/n' will be
-(Font)              scaled to size 24.88pt on input line 549.
+(Font)              scaled to size 24.88pt on input line 550.
 LaTeX Font Info:    Font shape `TU/EBGaramond(2)/m/n' will be
-(Font)              scaled to size 24.88pt on input line 549.
+(Font)              scaled to size 24.88pt on input line 550.
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 549--549
+Overfull \hbox (12.0pt too wide) in paragraph at lines 550--550
 [][][][][][][]  
  []
 
@@ -2460,7 +2460,7 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 628.
+e 629.
 
 
 Underfull \vbox (badness 6078) has occurred while \output is active []
@@ -2472,7 +2472,7 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 638.
+e 639.
 
 
 Class scrbook Warning: incompatible usage of \@ssect detected.
@@ -2480,7 +2480,7 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 647.
+e 648.
 
 [11] [12
 
@@ -2488,7 +2488,7 @@ e 647.
 ]
 chapter 2.
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 662--662
+Overfull \hbox (12.0pt too wide) in paragraph at lines 663--663
 [][][][][][][]  
  []
 
@@ -2498,7 +2498,7 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 690.
+e 691.
 
 [13] [14
 
@@ -2506,7 +2506,7 @@ e 690.
 ]
 chapter 3.
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 702--702
+Overfull \hbox (12.0pt too wide) in paragraph at lines 703--703
 [][][][][][][]  
  []
 
@@ -2520,17 +2520,17 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 748.
+e 749.
 
 LaTeX Font Info:    Font shape `TU/EBGaramond(0)/m/n' will be
-(Font)              scaled to size 5.0pt on input line 756.
+(Font)              scaled to size 5.0pt on input line 757.
 
 Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              You've used the KOMA-Script implementation of \@ssect
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 762.
+e 763.
 
 [16] [17] [18
 
@@ -2538,7 +2538,7 @@ e 762.
 ]
 chapter 4.
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 819--819
+Overfull \hbox (12.0pt too wide) in paragraph at lines 820--820
 [][][][][][][]  
  []
 
@@ -2546,13 +2546,13 @@ Overfull \hbox (12.0pt too wide) in paragraph at lines 819--819
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [19]
-Underfull \hbox (badness 2707) in paragraph at lines 866--873
+Underfull \hbox (badness 4060) in paragraph at lines 867--874
 \TU/EBGaramond(0)/m/it/12 digitale \TU/EBGaramond(2)/m/n/12 è concepita sostanz
-ialmente come «  sistema informativo», le
+ialmente come «  sistema informativo» le
  []
 
 
-Underfull \hbox (badness 3547) in paragraph at lines 866--873
+Underfull \hbox (badness 3547) in paragraph at lines 867--874
 \TU/EBGaramond(2)/m/n/12 archiviate, conservate/preservate, recuperate, attrave
 rso il ricorso alle
  []
@@ -2564,7 +2564,7 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 933.
+e 934.
 
 
 Underfull \vbox (badness 6078) has occurred while \output is active []
@@ -2576,7 +2576,7 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 963.
+e 964.
 
 
 Class scrbook Warning: incompatible usage of \@ssect detected.
@@ -2584,7 +2584,7 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 987.
+e 988.
 
 [22] [23] [24
 
@@ -2592,7 +2592,7 @@ e 987.
 ]
 chapter 5.
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 1015--1015
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1016--1016
 [][][][][][][]  
  []
 
@@ -2605,7 +2605,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 ]
 chapter 6.
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 1109--1109
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1110--1110
 [][][][][][][]  
  []
 
@@ -2615,7 +2615,7 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 1147.
+e 1148.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -2623,7 +2623,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 [29] [30]
 chapter 7.
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 1162--1162
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1163--1163
 [][][][][][][]  
  []
 
@@ -2640,7 +2640,7 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 1224.
+e 1225.
 
 
 Class scrbook Warning: incompatible usage of \@ssect detected.
@@ -2648,12 +2648,12 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 1238.
+e 1239.
 
 [32]
 chapter 8.
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 1254--1254
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1255--1255
 [][][][][][][]  
  []
 
@@ -2666,12 +2666,12 @@ Overfull \hbox (12.0pt too wide) in paragraph at lines 1254--1254
 ]
 chapter 9.
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 1281--1281
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1282--1282
 [][][][][][][]  
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1313--1315
+Underfull \hbox (badness 10000) in paragraph at lines 1314--1316
 []\TU/EBGaramond(2)/m/n/12 crowd-funding, che permette ai gruppi di raccogliere
  auto-
  []
@@ -2686,7 +2686,7 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 1377.
+e 1378.
 
 
 Class scrbook Warning: incompatible usage of \@ssect detected.
@@ -2694,7 +2694,7 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 1395.
+e 1396.
 
 Missing character: There is no à in font lmmi10!
 [37] [38
@@ -2703,7 +2703,7 @@ Missing character: There is no à in font lmmi10!
 ]
 chapter 10.
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 1423--1423
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1424--1424
 [][][][][][][]  
  []
 
@@ -2713,7 +2713,7 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 1470.
+e 1471.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -2725,12 +2725,12 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 1480.
+e 1481.
 
 [40]
 chapter 11.
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 1489--1489
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1490--1490
 [][][][][][][]  
  []
 
@@ -2747,7 +2747,7 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 1551.
+e 1552.
 
 
 Class scrbook Warning: incompatible usage of \@ssect detected.
@@ -2755,7 +2755,7 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 1567.
+e 1568.
 
 [42] [43] [44
 
@@ -2763,7 +2763,7 @@ e 1567.
 ]
 chapter 12.
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 1597--1597
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1598--1598
 [][][][][][][]  
  []
 
@@ -2773,14 +2773,20 @@ Overfull \hbox (12.0pt too wide) in paragraph at lines 1597--1597
 ]
 chapter 13.
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 1621--1621
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1622--1622
 [][][][][][][]  
  []
 
 
-Underfull \hbox (badness 4713) in paragraph at lines 1623--1633
+Underfull \hbox (badness 4713) in paragraph at lines 1624--1634
 \TU/EBGaramond(2)/m/n/12 dell’\TU/EBGaramond(0)/m/it/12 International Federatio
 n of Library Associations and Institutions
+ []
+
+
+Underfull \hbox (badness 1533) in paragraph at lines 1624--1634
+\TU/EBGaramond(2)/m/n/12 (IFLA) ed è stata successivamente ripresa e valorizzat
+a nel Convegno
  []
 
 
@@ -2789,7 +2795,7 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 1658.
+e 1659.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -2801,12 +2807,12 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 1670.
+e 1671.
 
 [48]
 chapter 14.
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 1704--1704
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1705--1705
 [][][][][][][]  
  []
 
@@ -2819,12 +2825,12 @@ Overfull \hbox (12.0pt too wide) in paragraph at lines 1704--1704
 ]
 chapter 15.
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 1738--1738
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1739--1739
 [][][][][][][]  
  []
 
 
-Underfull \hbox (badness 1158) in paragraph at lines 1754--1757
+Underfull \hbox (badness 1158) in paragraph at lines 1755--1758
 []\TU/EBGaramond(2)/m/n/12 Dato un \TU/EBGaramond(0)/m/it/12 DOI \TU/EBGaramond
 (2)/m/n/12 di questo tipo: 10.1491/napoli081995, il prefisso è
  []
@@ -2835,7 +2841,7 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 1773.
+e 1774.
 
 
 Class scrbook Warning: incompatible usage of \@ssect detected.
@@ -2843,7 +2849,7 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 1780.
+e 1781.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -2871,6 +2877,14 @@ ca\TU/EBGaramond(2)/m/n/12 , Milano,
  []
 
 
+Class scrbook Warning: incompatible usage of \@ssect detected.
+(scrbook)              You've used the KOMA-Script implementation of \@ssect
+(scrbook)              from within a non compatible caller, that does not
+(scrbook)              \scr@s@ct@@nn@m@ locally.
+(scrbook)              This could result in several error messages on input lin
+e 1844.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [53
@@ -2879,7 +2893,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 ] [54]
 chapter 17.
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 1846--1846
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1856--1856
 [][][][][][][]  
  []
 
@@ -2896,7 +2910,7 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 1896.
+e 1906.
 
 
 Class scrbook Warning: incompatible usage of \@ssect detected.
@@ -2904,23 +2918,23 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 1913.
+e 1923.
 
 [56]
 chapter 18.
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 1925--1925
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1935--1935
 [][][][][][][]  
  []
 
 
-Underfull \hbox (badness 1377) in paragraph at lines 1941--1954
+Underfull \hbox (badness 1377) in paragraph at lines 1951--1964
 []\TU/EBGaramond(2)/m/n/12 Nel corso del tempo il formato ha subito diverse evo
 luzioni e, ad
  []
 
 
-Underfull \hbox (badness 1189) in paragraph at lines 1941--1954
+Underfull \hbox (badness 1189) in paragraph at lines 1951--1964
 \TU/EBGaramond(2)/m/n/12 management» di Userland che, partendo dal formato RDF 
 (\TU/EBGaramond(0)/m/it/12 Resource
  []
@@ -2938,12 +2952,12 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 1974.
+e 1984.
 
 [58]
 chapter 19.
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 1989--1989
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1999--1999
 [][][][][][][]  
  []
 
@@ -2960,7 +2974,7 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 2074.
+e 2084.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -2972,12 +2986,12 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 2106.
+e 2116.
 
 [61] [62]
 chapter 20.
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 2136--2136
+Overfull \hbox (12.0pt too wide) in paragraph at lines 2146--2146
 [][][][][][][]  
  []
 
@@ -2987,7 +3001,7 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 2185.
+e 2195.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -2998,7 +3012,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 ] [64]
 chapter 21.
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 2194--2194
+Overfull \hbox (12.0pt too wide) in paragraph at lines 2204--2204
 [][][][][][][]  
  []
 
@@ -3008,7 +3022,7 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 2201.
+e 2211.
 
 [65
 
@@ -3019,7 +3033,7 @@ e 2201.
 ]
 chapter 22.
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 2211--2211
+Overfull \hbox (12.0pt too wide) in paragraph at lines 2221--2221
 [][][][][][][]  
  []
 
@@ -3029,7 +3043,7 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 2220.
+e 2230.
 
 [67] [68
 
@@ -3037,7 +3051,7 @@ e 2220.
 ]
 chapter 23.
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 2230--2230
+Overfull \hbox (12.0pt too wide) in paragraph at lines 2240--2240
 [][][][][][][]  
  []
 
@@ -3051,7 +3065,7 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 2318.
+e 2328.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -3063,7 +3077,7 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 2350.
+e 2360.
 
 [71] [72
 
@@ -3071,7 +3085,7 @@ e 2350.
 ]
 chapter 24.
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 2371--2371
+Overfull \hbox (12.0pt too wide) in paragraph at lines 2381--2381
 [][][][][][][]  
  []
 
@@ -3085,7 +3099,7 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 2447.
+e 2457.
 
 
 Class scrbook Warning: incompatible usage of \@ssect detected.
@@ -3093,12 +3107,12 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 2457.
+e 2467.
 
 [74]
 chapter 25.
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 2466--2466
+Overfull \hbox (12.0pt too wide) in paragraph at lines 2476--2476
 [][][][][][][]  
  []
 
@@ -3115,7 +3129,7 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 2523.
+e 2533.
 
 
 Class scrbook Warning: incompatible usage of \@ssect detected.
@@ -3123,7 +3137,7 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 2534.
+e 2544.
 
 [76]
 
@@ -3132,7 +3146,7 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 2569.
+e 2579.
 
 [77] [78
 
@@ -3140,7 +3154,7 @@ e 2569.
 ]
 chapter 26.
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 2597--2597
+Overfull \hbox (12.0pt too wide) in paragraph at lines 2607--2607
 [][][][][][][]  
  []
 
@@ -3150,7 +3164,7 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 2629.
+e 2639.
 
 
 Underfull \vbox (badness 5622) has occurred while \output is active []
@@ -3158,7 +3172,7 @@ Underfull \vbox (badness 5622) has occurred while \output is active []
 [79] [80]
 chapter 27.
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 2641--2641
+Overfull \hbox (12.0pt too wide) in paragraph at lines 2651--2651
 [][][][][][][]  
  []
 
@@ -3169,7 +3183,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 ]
-Underfull \hbox (badness 1062) in paragraph at lines 2721--2729
+Underfull \hbox (badness 1062) in paragraph at lines 2731--2739
 \TU/EBGaramond(2)/m/n/12 e dovrà imparare quali sono i risultati migliori per l
 e differenti
  []
@@ -3181,7 +3195,7 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 2784.
+e 2794.
 
 
 Underfull \vbox (badness 6078) has occurred while \output is active []
@@ -3193,12 +3207,12 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 2825.
+e 2835.
 
 [84]
 chapter 28.
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 2849--2849
+Overfull \hbox (12.0pt too wide) in paragraph at lines 2859--2859
 [][][][][][][]  
  []
 
@@ -3211,7 +3225,7 @@ Overfull \hbox (12.0pt too wide) in paragraph at lines 2849--2849
 ]
 chapter 29.
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 2887--2887
+Overfull \hbox (12.0pt too wide) in paragraph at lines 2897--2897
 [][][][][][][]  
  []
 
@@ -3225,7 +3239,7 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 3025.
+e 3035.
 
 [89]
 
@@ -3234,7 +3248,7 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 3066.
+e 3076.
 
 
 Underfull \vbox (badness 6078) has occurred while \output is active []
@@ -3245,7 +3259,7 @@ Underfull \vbox (badness 6078) has occurred while \output is active []
 ]
 chapter 30.
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 3094--3094
+Overfull \hbox (12.0pt too wide) in paragraph at lines 3104--3104
 [][][][][][][]  
  []
 
@@ -3259,23 +3273,23 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 3160.
+e 3170.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3173--3179
+Underfull \hbox (badness 10000) in paragraph at lines 3183--3189
 \TU/EBGaramond(0)/m/it/12 matematico-statistici: l’auspicabile \TU/EBGaramond(2
 )/m/n/12 σύγκρισις \TU/EBGaramond(0)/m/it/12 tra metodi qualitativi
  []
 
 
-Underfull \hbox (badness 2503) in paragraph at lines 3173--3179
+Underfull \hbox (badness 2503) in paragraph at lines 3183--3189
 \TU/EBGaramond(0)/m/it/12 e metodi quantitativi\TU/EBGaramond(2)/m/n/12 , in \T
 U/EBGaramond(0)/m/it/12 FRI – Filologia Risorse Informatiche \TU/EBGaramond(2)/
 m/n/12 (\TU/EBGaramond(0)/m/it/12 Car-
  []
 
 
-Underfull \hbox (badness 4569) in paragraph at lines 3173--3179
+Underfull \hbox (badness 4569) in paragraph at lines 3183--3189
 \TU/EBGaramond(0)/m/it/12 net de recherche and online journal – Italian Digital
  Humanities\TU/EBGaramond(2)/m/n/12 ),
  []
@@ -3287,12 +3301,12 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 3210.
+e 3220.
 
 [95] [96]
 chapter 31.
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 3243--3243
+Overfull \hbox (12.0pt too wide) in paragraph at lines 3253--3253
 [][][][][][][]  
  []
 
@@ -3309,7 +3323,7 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 3288.
+e 3297.
 
 
 Class scrbook Warning: incompatible usage of \@ssect detected.
@@ -3317,12 +3331,12 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 3305.
+e 3314.
 
 [98]
 chapter 32.
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 3318--3318
+Overfull \hbox (12.0pt too wide) in paragraph at lines 3327--3327
 [][][][][][][]  
  []
 
@@ -3335,18 +3349,18 @@ Overfull \hbox (12.0pt too wide) in paragraph at lines 3318--3318
 ]
 chapter 33.
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 3345--3345
+Overfull \hbox (12.0pt too wide) in paragraph at lines 3354--3354
 [][][][][][][]  
  []
 
 
-Underfull \hbox (badness 1178) in paragraph at lines 3376--3383
+Underfull \hbox (badness 1178) in paragraph at lines 3385--3392
 \TU/EBGaramond(2)/m/n/12 esistenti in forma indipendente: i multiopac sono inte
 rrogabili
  []
 
 
-Underfull \hbox (badness 1009) in paragraph at lines 3376--3383
+Underfull \hbox (badness 1009) in paragraph at lines 3385--3392
 \TU/EBGaramond(2)/m/n/12 uno per volta, anche se attraverso la stessa interfacc
 ia; i metao-
  []
@@ -3361,10 +3375,10 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 3420.
+e 3429.
 
 
-Underfull \hbox (badness 1688) in paragraph at lines 3423--3425
+Underfull \hbox (badness 1688) in paragraph at lines 3432--3434
 []\TU/EBGaramond(2)/m/n/12 Dhanavandan S. - Isabella Mary A., \TU/EBGaramond(0)
 /m/it/12 Online public access catalague
  []
@@ -3375,7 +3389,7 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 3438.
+e 3447.
 
 [102] [103] [104
 
@@ -3383,7 +3397,7 @@ e 3438.
 ]
 chapter 34.
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 3463--3463
+Overfull \hbox (12.0pt too wide) in paragraph at lines 3472--3472
 [][][][][][][]  
  []
 
@@ -3393,7 +3407,7 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 3503.
+e 3512.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -3405,12 +3419,12 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 3513.
+e 3522.
 
 [106]
 chapter 35.
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 3525--3525
+Overfull \hbox (12.0pt too wide) in paragraph at lines 3534--3534
 [][][][][][][]  
  []
 
@@ -3427,16 +3441,16 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 3632.
+e 3649.
 
 
-Underfull \hbox (badness 2020) in paragraph at lines 3640--3644
+Underfull \hbox (badness 2020) in paragraph at lines 3657--3661
 \TU/EBGaramond(2)/m/n/12 tler, Knoblauch H. (Hg.), \TU/EBGaramond(0)/m/it/12 Po
 werpoint-Präsentationen. Neue Formen
  []
 
 
-Underfull \hbox (badness 7203) in paragraph at lines 3640--3644
+Underfull \hbox (badness 7203) in paragraph at lines 3657--3661
 \TU/EBGaramond(0)/m/it/12 der gesellschaftlichen Kommunikation von Wissen\TU/EB
 Garamond(2)/m/n/12 , Konstanz, UVK
  []
@@ -3447,7 +3461,7 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 3650.
+e 3667.
 
 [109] [110
 
@@ -3455,7 +3469,7 @@ e 3650.
 ]
 chapter 36.
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 3662--3662
+Overfull \hbox (12.0pt too wide) in paragraph at lines 3679--3679
 [][][][][][][]  
  []
 
@@ -3465,7 +3479,7 @@ Overfull \hbox (12.0pt too wide) in paragraph at lines 3662--3662
 ]
 chapter 37.
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 3704--3704
+Overfull \hbox (12.0pt too wide) in paragraph at lines 3721--3721
 [][][][][][][]  
  []
 
@@ -3479,7 +3493,7 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 3771.
+e 3788.
 
 
 Class scrbook Warning: incompatible usage of \@ssect detected.
@@ -3487,7 +3501,7 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 3783.
+e 3800.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -3499,7 +3513,7 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 3796.
+e 3813.
 
 [115] [116
 
@@ -3507,7 +3521,7 @@ e 3796.
 ]
 chapter 38.
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 3812--3812
+Overfull \hbox (12.0pt too wide) in paragraph at lines 3829--3829
 [][][][][][][]  
  []
 
@@ -3521,7 +3535,7 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 3944.
+e 3961.
 
 
 Class scrbook Warning: incompatible usage of \@ssect detected.
@@ -3529,16 +3543,16 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 3954.
+e 3971.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3971--3974
+Underfull \hbox (badness 10000) in paragraph at lines 3988--3991
 []\TU/EBGaramond(2)/m/n/12 Eberechukwu Eze M. - Chukwuma Okeji C. - Ejiobi Bosa
 h
  []
 
 
-Underfull \hbox (badness 7451) in paragraph at lines 3971--3974
+Underfull \hbox (badness 7451) in paragraph at lines 3988--3991
 \TU/EBGaramond(2)/m/n/12 G., \TU/EBGaramond(0)/m/it/12 Self-Archiving options o
 n social networks: a review of options\TU/EBGaramond(2)/m/n/12 ,
  []
@@ -3546,7 +3560,7 @@ n social networks: a review of options\TU/EBGaramond(2)/m/n/12 ,
 [119] [120]
 chapter 39.
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 4001--4001
+Overfull \hbox (12.0pt too wide) in paragraph at lines 4018--4018
 [][][][][][][]  
  []
 
@@ -3563,7 +3577,7 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 4076.
+e 4093.
 
 
 Class scrbook Warning: incompatible usage of \@ssect detected.
@@ -3571,12 +3585,12 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 4084.
+e 4101.
 
 [122]
 chapter 40.
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 4098--4098
+Overfull \hbox (12.0pt too wide) in paragraph at lines 4115--4115
 [][][][][][][]  
  []
 
@@ -3593,7 +3607,7 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 4159.
+e 4176.
 
 
 Class scrbook Warning: incompatible usage of \@ssect detected.
@@ -3601,12 +3615,12 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 4165.
+e 4182.
 
 [124]
 chapter 41.
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 4191--4191
+Overfull \hbox (12.0pt too wide) in paragraph at lines 4208--4208
 [][][][][][][]  
  []
 
@@ -3626,12 +3640,12 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 4382.
+e 4389.
 
 [128]
 chapter 42.
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 4395--4395
+Overfull \hbox (12.0pt too wide) in paragraph at lines 4402--4402
 [][][][][][][]  
  []
 
@@ -3648,7 +3662,7 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 4466.
+e 4473.
 
 
 Underfull \vbox (badness 6078) has occurred while \output is active []
@@ -3660,12 +3674,12 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 4512.
+e 4519.
 
 [131] [132]
 chapter 43.
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 4539--4539
+Overfull \hbox (12.0pt too wide) in paragraph at lines 4546--4546
 [][][][][][][]  
  []
 
@@ -3682,7 +3696,7 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 4606.
+e 4613.
 
 
 Class scrbook Warning: incompatible usage of \@ssect detected.
@@ -3690,12 +3704,12 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 4617.
+e 4624.
 
 [134]
 chapter 44.
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 4626--4626
+Overfull \hbox (12.0pt too wide) in paragraph at lines 4633--4633
 [][][][][][][]  
  []
 
@@ -3705,10 +3719,10 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 4665.
+e 4672.
 
 
-Underfull \hbox (badness 4954) in paragraph at lines 4668--4670
+Underfull \hbox (badness 4954) in paragraph at lines 4675--4677
 []\TU/EBGaramond(2)/m/n/12 Ausiello G. \TU/EBGaramond(0)/m/it/12 et al\TU/EBGar
 amond(2)/m/n/12 ., \TU/EBGaramond(0)/m/it/12 Modelli e linguaggi dell’informati
 ca\TU/EBGaramond(2)/m/n/12 , Milano,
@@ -3727,12 +3741,12 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 4681.
+e 4688.
 
 [136]
 chapter 45.
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 4690--4690
+Overfull \hbox (12.0pt too wide) in paragraph at lines 4697--4697
 [][][][][][][]  
  []
 
@@ -3749,10 +3763,10 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 4751.
+e 4758.
 
 
-Underfull \hbox (badness 4954) in paragraph at lines 4754--4756
+Underfull \hbox (badness 4954) in paragraph at lines 4761--4763
 []\TU/EBGaramond(2)/m/n/12 Ausiello G. \TU/EBGaramond(0)/m/it/12 et al\TU/EBGar
 amond(2)/m/n/12 ., \TU/EBGaramond(0)/m/it/12 Modelli e linguaggi dell’informati
 ca\TU/EBGaramond(2)/m/n/12 , Milano,
@@ -3764,7 +3778,7 @@ Class scrbook Warning: incompatible usage of \@ssect detected.
 (scrbook)              from within a non compatible caller, that does not
 (scrbook)              \scr@s@ct@@nn@m@ locally.
 (scrbook)              This could result in several error messages on input lin
-e 4767.
+e 4774.
 
 
 Underfull \vbox (badness 2564) has occurred while \output is active []
@@ -3772,18 +3786,18 @@ Underfull \vbox (badness 2564) has occurred while \output is active []
 [138] [139] [140
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 4801.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 4801.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 4808.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 4808.
 (./glodium.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 4801.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 4801.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 4801.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 4808.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 4808.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 4808.
  ) 
 Here is how much of TeX's memory you used:
- 58656 strings out of 492933
- 1267220 string characters out of 6138667
- 1987997 words of memory out of 5000000
- 61832 multiletter control sequences out of 15000+600000
+ 58657 strings out of 492933
+ 1267235 string characters out of 6138667
+ 1988034 words of memory out of 5000000
+ 61833 multiletter control sequences out of 15000+600000
  538614 words of font info for 105 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  70i,12n,118p,9106b,1017s stack positions out of 5000i,500n,10000p,200000b,80000s
