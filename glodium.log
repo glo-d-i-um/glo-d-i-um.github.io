@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018/Arch Linux) (preloaded format=xelatex 2019.3.10)  25 MAR 2019 02:41
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018/Arch Linux) (preloaded format=xelatex 2019.3.10)  25 MAR 2019 11:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2301,10 +2301,6 @@ File: logo.png Graphic file (type bmp)
 <logo.png>
 LaTeX Font Info:    Font shape `TU/EBGaramond(0)/bx/n' will be
 (Font)              scaled to size 12.0pt on input line 396.
-LaTeX Font Info:    Font shape `TU/EBGaramond(0)/m/sc' will be
-(Font)              scaled to size 12.0pt on input line 399.
-LaTeX Font Info:    Font shape `TU/EBGaramond(0)/m/sc' will be
-(Font)              scaled to size 14.4pt on input line 399.
 [1
 
 
@@ -2313,7 +2309,11 @@ LaTeX Font Info:    Font shape `TU/EBGaramond(0)/m/sc' will be
 
 ]
 LaTeX Font Info:    Font shape `TU/EBGaramond(0)/bx/sc' will be
-(Font)              scaled to size 12.0pt on input line 463.
+(Font)              scaled to size 12.0pt on input line 424.
+LaTeX Font Info:    Font shape `TU/EBGaramond(0)/bx/sc' will be
+(Font)              scaled to size 14.4pt on input line 424.
+LaTeX Font Info:    Font shape `TU/EBGaramond(0)/m/sc' will be
+(Font)              scaled to size 12.0pt on input line 426.
 [2]
 Overfull \hbox (12.0pt too wide) in paragraph at lines 479--479
 [][][][][][][]  
@@ -3809,8 +3809,8 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 4890.
  ) 
 Here is how much of TeX's memory you used:
  58684 strings out of 492933
- 1267974 string characters out of 6138667
- 1988045 words of memory out of 5000000
+ 1267977 string characters out of 6138667
+ 1988046 words of memory out of 5000000
  61852 multiletter control sequences out of 15000+600000
  538646 words of font info for 109 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
