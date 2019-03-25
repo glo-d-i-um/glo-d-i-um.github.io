@@ -14,7 +14,7 @@ Finito di stampare nel mese di Aprile 2019.
 
 \vspace{2em}
 
-Questo  lavoro  è  stato  realizzato  con  LaTeX su sistema GNU/Linux, utilizzando il carattere \`\`EB Garamond\" corpo 12pt per il testo. La pagina è in formato B5 con margini da 24mm, con 10mm di spazio di rilegatura.
+Questo  lavoro  è  stato  realizzato  con  LaTeX su sistema GNU/Linux, utilizzando il carattere \textsc{EB Garamond} corpo 12pt per il testo. La pagina è in formato B5 con margini da 24mm, con 10mm di spazio di rilegatura.
 
 
 Impaginazione a cura di Marco Petolicchio.
